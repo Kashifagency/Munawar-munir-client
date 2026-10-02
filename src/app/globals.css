@@ -80,3 +80,22 @@ details[open] .faq-icon {
 .prose-copy p + p {
   margin-top: 1rem;
 }
+
+/* Skip layout/paint for off-screen sections until they approach the viewport.
+   `auto` remembers the real height once rendered, so scrolling stays stable. */
+.cv-auto {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 900px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .menu-in {
+    animation: menu-in 0.2s ease-out both;
+  }
+}
+
+@keyframes menu-in {
+  from {
+    opacity: 0;
+  }
+}

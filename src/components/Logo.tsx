@@ -1,10 +1,10 @@
-import Link from "next/link";
+import { HomeLink } from "./HomeLink";
 import { site } from "@/lib/site";
 
 export function Logo({ tone = "light" }: { tone?: "light" | "dark" }) {
   const dark = tone === "dark";
   return (
-    <Link href="/" className="flex items-center gap-2.5">
+    <HomeLink className="flex items-center gap-2.5">
       {/* Truck carrying a sofa — same mark as src/app/icon.svg */}
       <svg
         viewBox="0 0 64 64"
@@ -34,6 +34,6 @@ export function Logo({ tone = "light" }: { tone?: "light" | "dark" }) {
           Dubai
         </span>
       </span>
-    </Link>
+    </HomeLink>
   );
 }

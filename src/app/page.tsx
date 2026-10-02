@@ -117,7 +117,7 @@ export default function Home() {
       </section>
 
       {/* Services */}
-      <section id="services" className="py-20 sm:py-28">
+      <section id="services" className="cv-auto py-20 sm:py-28">
         <Container>
           <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
             <SectionHeading
@@ -209,7 +209,7 @@ export default function Home() {
       </section>
 
       {/* Villa & residential focus */}
-      <section className="bg-sand py-20 sm:py-28">
+      <section className="cv-auto bg-sand py-20 sm:py-28">
         <Container className="grid items-center gap-14 lg:grid-cols-2">
           <div className="reveal relative">
             <div className="relative aspect-[4/5] overflow-hidden rounded-[2rem] sm:aspect-[5/4] lg:aspect-[4/5]">
@@ -262,7 +262,7 @@ export default function Home() {
       </section>
 
       {/* Luxury */}
-      <section className="relative isolate overflow-hidden bg-ink py-20 text-cream sm:py-28">
+      <section className="cv-auto relative isolate overflow-hidden bg-ink py-20 text-cream sm:py-28">
         <Container className="grid items-center gap-14 lg:grid-cols-12">
           <div className="lg:col-span-5">
             <SectionHeading
@@ -310,7 +310,7 @@ export default function Home() {
       </section>
 
       {/* Process */}
-      <section className="py-20 sm:py-28">
+      <section className="cv-auto py-20 sm:py-28">
         <Container>
           <SectionHeading
             align="center"
@@ -321,7 +321,7 @@ export default function Home() {
           <ol className="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {steps.map((s, i) => (
               <li key={s.title} className="reveal relative rounded-3xl border border-line bg-white p-7">
-                <span className="font-display text-5xl font-light text-brass/40">0{i + 1}</span>
+                <span className="font-display text-5xl font-light text-brass/80" aria-hidden="true">0{i + 1}</span>
                 <span className="mt-4 grid size-12 place-items-center rounded-2xl bg-forest text-cream">
                   <Icon name={s.icon} className="size-6" />
                 </span>
@@ -334,7 +334,7 @@ export default function Home() {
       </section>
 
       {/* Why us */}
-      <section className="bg-white py-20 sm:py-28">
+      <section className="cv-auto bg-white py-20 sm:py-28">
         <Container className="grid gap-14 lg:grid-cols-12">
           <div className="lg:col-span-4">
             <div className="lg:sticky lg:top-36">
@@ -363,7 +363,7 @@ export default function Home() {
       </section>
 
       {/* Areas */}
-      <section className="relative isolate overflow-hidden py-20 sm:py-28">
+      <section className="cv-auto relative isolate overflow-hidden py-20 sm:py-28">
         <Container className="grid gap-12 lg:grid-cols-12">
           <div className="lg:col-span-5">
             <SectionHeading
@@ -385,7 +385,7 @@ export default function Home() {
       </section>
 
       {/* Responsible disposal */}
-      <section className="bg-forest py-20 text-cream sm:py-24">
+      <section className="cv-auto bg-forest py-20 text-cream sm:py-24">
         <Container>
           <SectionHeading
             tone="dark"
@@ -410,7 +410,7 @@ export default function Home() {
       </section>
 
       {/* FAQ */}
-      <section className="py-20 sm:py-28">
+      <section className="cv-auto py-20 sm:py-28">
         <Container className="grid gap-12 lg:grid-cols-12">
           <div className="lg:col-span-4">
             <SectionHeading
@@ -429,7 +429,7 @@ export default function Home() {
       </section>
 
       {/* Booking */}
-      <section id="book" className="scroll-mt-28 bg-sand py-20 sm:py-28">
+      <section id="book" className="cv-auto scroll-mt-28 bg-sand py-20 sm:py-28">
         <Container className="grid items-start gap-12 lg:grid-cols-12">
           <div className="lg:col-span-5">
             <Eyebrow>Book now</Eyebrow>

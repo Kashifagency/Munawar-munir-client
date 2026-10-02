@@ -52,8 +52,8 @@ const businessSchema = {
   openingHoursSpecification: {
     "@type": "OpeningHoursSpecification",
     dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-    opens: "08:00",
-    closes: "22:00",
+    opens: "06:00",
+    closes: "23:00",
   },
   hasOfferCatalog: {
     "@type": "OfferCatalog",
@@ -67,7 +67,7 @@ const businessSchema = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${manrope.variable} ${fraunces.variable} antialiased`}>
+    <html lang="en" data-scroll-behavior="smooth" className={`${manrope.variable} ${fraunces.variable} antialiased`}>
       <body className="flex min-h-screen flex-col">
         <a
           href="#main"

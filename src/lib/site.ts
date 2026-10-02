@@ -12,7 +12,7 @@ export const site = {
   phoneDisplay: "+971 56 599 3691",
   phoneE164: PHONE_E164,
   telHref: `tel:${PHONE_E164}`,
-  hours: "7 days a week, 8:00 AM – 10:00 PM",
+  hours: "7 days a week, 6:00 AM – 11:00 PM",
   city: "Dubai",
   country: "AE",
   description:

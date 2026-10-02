@@ -164,7 +164,7 @@ export function CtaBand({
   text?: string;
 }) {
   return (
-    <section className="py-16 sm:py-24">
+    <section className="cv-auto py-16 sm:py-24">
       <Container>
         <div className="reveal relative overflow-hidden rounded-[2rem] bg-forest px-6 py-14 sm:px-12 lg:px-16 lg:py-20">
           <Image
