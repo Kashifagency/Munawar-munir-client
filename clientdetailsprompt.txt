@@ -1,0 +1,39 @@
+Build a modern, premium, SEO-friendly furniture removal website for a Dubai-based business using React/Next.js.
+
+Business focus:
+Furniture removal, furniture clearance and furniture pickup in Dubai.
+
+Main services should include:
+- Furniture Removal
+- Sofa Removal
+- Mattress Removal
+- Bed Removal
+- Wardrobe & Cabinet Removal
+- Dining Table & Chair Removal
+- Luxury Furniture Removal
+- Office Furniture Removal
+- Villa Furniture Clearance
+- Furniture Pickup & Disposal
+
+Contact:
++971 56 599 3691
+Use this for Call and WhatsApp CTAs.
+
+Service areas:
+Jumeirah, Business Bay, Dubai Marina, Nad Al Sheba, Wadi Al Safa 3, Wadi Al Safa 5, Dubai Festival City, Trade Centre/DIFC, The Villa, DAMAC Hills, Downtown Dubai, Palm Jumeirah, Tilal Al Ghaf, Arabian Ranches, Dubai Creek Harbour, Emirates Hills, Jumeirah Lakes Towers, Jumeirah Village Circle, Dubai Hills Estate, Jumeirah Park, Jumeirah Islands, The Meadows, The Springs, The Lakes, Arabian Ranches 2, Umm Suqeim, Al Barsha 2, Al Barsha 3.
+
+Do not add Deira or Karama.
+
+Create a strong homepage with clear service sections, villa/residential focus, luxury furniture section, areas served, trust elements, FAQs and strong Call/WhatsApp/Quote CTAs.
+
+The website should feel premium, modern, clean and professional — specifically focused on furniture rather than generic junk removal.
+
+Use these websites only as design/structure references:
+https://www.getjunkremovalsdubai.com/
+https://junkserviceindubai.com/
+
+Do not copy their branding, content or exact design.
+
+Make the architecture SEO-ready for dedicated service and area pages, with clean navigation, strong internal linking, responsive mobile design and excellent performance.
+
+Use your own best judgment for the remaining UI/UX, layout, components, animations, typography, imagery and technical implementation.
