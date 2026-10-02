@@ -1,15 +1,16 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { site, whatsappHref } from "@/lib/site";
 import { Icon, WhatsAppIcon } from "@/components/Icon";
 import { BookingForm } from "@/components/BookingForm";
 import { Breadcrumbs } from "@/components/blocks";
 import { Container } from "@/components/ui";
 
-export const metadata: Metadata = {
-  title: "Contact & Booking — Furniture & Junk Removal Dubai",
-  description: `Book furniture or junk removal in Dubai. Call or WhatsApp ${site.phoneDisplay} or send your details using our quick booking form.`,
-  alternates: { canonical: "/contact" },
-};
+export const metadata: Metadata = pageMetadata({
+  title: "Contact & Booking | Furniture & Junk Removal Dubai",
+  description: `Book furniture or junk removal in Dubai. Call or WhatsApp ${site.phoneDisplay}, or send your details with our quick booking form.`,
+  path: "/contact",
+});
 
 export default function ContactPage() {
   return (

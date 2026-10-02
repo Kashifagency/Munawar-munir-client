@@ -13,14 +13,13 @@ const fraunces = Fraunces({
   variable: "--font-fraunces",
   subsets: ["latin"],
   display: "swap",
-  axes: ["opsz"],
 });
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: {
-    default: "Furniture & Junk Removal Dubai | Same-Day Pickup & Villa Clearance | TakeJunk",
-    template: "%s | TakeJunk Dubai",
+    default: "Furniture & Junk Removal Dubai | Same-Day Pickup | TakeJunk",
+    template: "%s | TakeJunk",
   },
   description: site.description,
   applicationName: site.name,

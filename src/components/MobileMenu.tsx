@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { furnitureServices, junkServices } from "@/data/services";
 import { site, whatsappHref } from "@/lib/site";
 import { Icon, WhatsAppIcon } from "./Icon";
 
@@ -15,7 +14,9 @@ const links = [
   { href: "/contact", label: "Contact & booking" },
 ];
 
-export function MobileMenu() {
+export type MenuGroup = { title: string; items: { slug: string; name: string; icon: string }[] };
+
+export function MobileMenu({ groups }: { groups: MenuGroup[] }) {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
   const [lastPath, setLastPath] = useState(pathname);
@@ -79,14 +80,11 @@ export function MobileMenu() {
               </li>
             ))}
           </ul>
-          {[
-            { title: "Furniture removal", list: furnitureServices },
-            { title: "Junk removal", list: junkServices },
-          ].map((group) => (
+          {groups.map((group) => (
             <div key={group.title}>
               <p className="mt-8 mb-3 px-3 text-xs font-bold tracking-[0.18em] text-brass uppercase">{group.title}</p>
               <ul className="grid grid-cols-1 gap-1 sm:grid-cols-2">
-                {group.list.map((s) => (
+                {group.items.map((s) => (
                   <li key={s.slug}>
                     <Link href={`/services/${s.slug}`} className="flex items-center gap-3 rounded-xl px-3 py-2.5 hover:bg-sand">
                       <Icon name={s.icon} className="size-5 text-forest" />

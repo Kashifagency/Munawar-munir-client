@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { areas, getArea, propertyTypeLabel, type Area, type PropertyType } from "@/data/areas";
 import { getService, services } from "@/data/services";
 import { absoluteUrl, site } from "@/lib/site";
@@ -79,16 +80,15 @@ export async function generateMetadata({ params }: PageProps<"/areas/[slug]">): 
   const { slug } = await params;
   const area = getArea(slug);
   if (!area) return {};
-  const title = `Furniture & Junk Removal ${area.name} | Same-Day Pickup`;
-  const description = `Furniture and junk removal in ${area.name}, Dubai — sofas, beds, mattresses, wardrobes, appliances, household junk and full ${
-    area.propertyType === "villa" ? "villa clearances" : "home and office clearances"
-  }. Fixed prices from photos, same-day slots. Call or WhatsApp ${site.phoneDisplay}.`;
-  return {
-    title: { absolute: `${title} | TakeJunk` },
-    description,
-    alternates: { canonical: `/areas/${area.slug}` },
-    openGraph: { title, description, url: `/areas/${area.slug}`, images: [heroImage[area.propertyType].src] },
-  };
+  const hero = heroImage[area.propertyType];
+  return pageMetadata({
+    title: `Furniture & Junk Removal ${area.name} | TakeJunk`,
+    description: `Furniture & junk removal in ${area.name}, Dubai: sofas, beds, appliances and ${
+      area.propertyType === "villa" ? "villa clearances" : "home clear-outs"
+    }. Same-day slots, fixed prices. Call ${site.phoneDisplay}.`,
+    path: `/areas/${area.slug}`,
+    image: { url: hero.src, alt: hero.alt },
+  });
 }
 
 export default async function AreaPage({ params }: PageProps<"/areas/[slug]">) {

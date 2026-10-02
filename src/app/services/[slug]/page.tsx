@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { getService, services } from "@/data/services";
 import { areas } from "@/data/areas";
 import { absoluteUrl, site, whatsappHref } from "@/lib/site";
@@ -19,17 +20,12 @@ export async function generateMetadata({ params }: PageProps<"/services/[slug]">
   const { slug } = await params;
   const service = getService(slug);
   if (!service) return {};
-  return {
-    title: { absolute: service.metaTitle },
+  return pageMetadata({
+    title: service.metaTitle,
     description: service.metaDescription,
-    alternates: { canonical: `/services/${service.slug}` },
-    openGraph: {
-      title: service.metaTitle,
-      description: service.metaDescription,
-      url: `/services/${service.slug}`,
-      images: [{ url: service.image, alt: service.imageAlt }],
-    },
-  };
+    path: `/services/${service.slug}`,
+    image: { url: service.image, alt: service.imageAlt },
+  });
 }
 
 export default async function ServicePage({ params }: PageProps<"/services/[slug]">) {

@@ -13,6 +13,13 @@ export const navLinks = [
   { href: "/contact", label: "Contact" },
 ];
 
+const slim = (list: Service[]) => list.map(({ slug, name, icon }) => ({ slug, name, icon }));
+
+const menuGroups = [
+  { title: "Furniture removal", items: slim(furnitureServices) },
+  { title: "Junk removal", items: slim(junkServices) },
+];
+
 function MenuItem({ service: s }: { service: Service }) {
   return (
     <Link href={`/services/${s.slug}`} className="flex items-start gap-3 rounded-xl p-3 transition hover:bg-sand">
@@ -121,7 +128,7 @@ export function Header() {
               <WhatsAppIcon className="size-4" />
               WhatsApp
             </a>
-            <MobileMenu />
+            <MobileMenu groups={menuGroups} />
           </div>
         </div>
       </div>

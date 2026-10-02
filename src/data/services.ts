@@ -50,7 +50,7 @@ export const services: Service[] = [
     imageAlt: "Modern Dubai living room with grey sofas ready for furniture removal",
     metaTitle: "Furniture Removal Dubai | Same-Day Pickup & Disposal",
     metaDescription:
-      "Professional furniture removal in Dubai for apartments, villas and offices. Single items or full rooms, same-day slots, careful handling and responsible disposal. Book on WhatsApp.",
+      "Furniture removal in Dubai for apartments, villas and offices. Single items or full rooms, same-day slots, careful handling and responsible disposal.",
     excerpt: "Single pieces or whole rooms, lifted, loaded and cleared the same day.",
     headline: "Furniture removal in Dubai, handled properly",
     intro: [
@@ -92,7 +92,7 @@ export const services: Service[] = [
     imageAlt: "Tan leather three-seater sofa prepared for sofa removal in Dubai",
     metaTitle: "Sofa Removal Dubai | Couch & Sectional Pickup",
     metaDescription:
-      "Fast sofa removal in Dubai — couches, sectionals, sofa beds, recliners and armchairs. Careful carrying through tight lifts and stairwells. Same-day pickup available.",
+      "Sofa removal in Dubai: couches, sectionals, sofa beds, recliners and armchairs. Careful carrying through tight lifts and stairwells. Same-day pickup.",
     excerpt: "Couches, L-shaped sectionals, sofa beds and recliners removed with care.",
     headline: "Sofa and couch removal across Dubai",
     intro: [
@@ -133,7 +133,7 @@ export const services: Service[] = [
     imageAlt: "Neatly made double bed and mattress in a Dubai apartment bedroom",
     metaTitle: "Mattress Removal Dubai | Old Mattress Pickup & Disposal",
     metaDescription:
-      "Hygienic mattress removal in Dubai. Single, double, king and super-king mattresses bagged, removed and disposed of responsibly. Same-day mattress pickup available.",
+      "Hygienic mattress removal in Dubai. Single to super-king mattresses bagged, removed and disposed of responsibly. Same-day pickup available.",
     excerpt: "Old mattresses bagged, removed and disposed of hygienically.",
     headline: "Hygienic mattress removal and disposal",
     intro: [
@@ -215,7 +215,7 @@ export const services: Service[] = [
     imageAlt: "Tall timber wardrobe cabinet with open shelving against a blush wall",
     metaTitle: "Wardrobe & Cabinet Removal Dubai | Dismantling Included",
     metaDescription:
-      "Wardrobe and cabinet removal in Dubai — freestanding wardrobes, sliding-door units, chests of drawers, display cabinets and storage units. Dismantled and removed safely.",
+      "Wardrobe and cabinet removal in Dubai: wardrobes, sliding-door units, dressers, display cabinets and storage units, dismantled and removed safely.",
     excerpt: "Wardrobes, dressers and display cabinets dismantled and cleared.",
     headline: "Wardrobe and cabinet removal",
     intro: [
@@ -295,9 +295,9 @@ export const services: Service[] = [
     icon: "gem",
     image: "/images/luxury.jpg",
     imageAlt: "Luxury bedroom with channel-tufted bed, gold chandelier and designer furnishings",
-    metaTitle: "Luxury Furniture Removal Dubai | Designer & High-Value Pieces",
+    metaTitle: "Luxury Furniture Removal Dubai | White-Glove Service",
     metaDescription:
-      "White-glove luxury furniture removal in Dubai. Designer sofas, marble tables, statement lighting and high-value pieces handled with museum-grade care across villas and penthouses.",
+      "White-glove luxury furniture removal in Dubai. Designer sofas, marble tables and high-value pieces handled with care in villas and penthouses.",
     excerpt: "White-glove handling for designer, marble and high-value pieces.",
     headline: "White-glove luxury furniture removal",
     intro: [
@@ -336,9 +336,9 @@ export const services: Service[] = [
     icon: "office",
     image: "/images/office.jpg",
     imageAlt: "Bright open-plan office lounge with chairs, desks and shelving",
-    metaTitle: "Office Furniture Removal Dubai | Desks, Chairs & Workstations",
+    metaTitle: "Office Furniture Removal Dubai | Desks & Workstations",
     metaDescription:
-      "Office furniture removal in Dubai — desks, workstations, chairs, meeting tables, filing cabinets and reception furniture. After-hours and weekend clearances available.",
+      "Office furniture removal in Dubai: desks, workstations, chairs, meeting tables and filing cabinets. After-hours and weekend clearances available.",
     excerpt: "Workstations, chairs and meeting rooms cleared — after hours if needed.",
     headline: "Office furniture removal and clearance",
     intro: [
@@ -379,7 +379,7 @@ export const services: Service[] = [
     imageAlt: "Contemporary white Dubai villa with swimming pool and terrace",
     metaTitle: "Villa Furniture Clearance Dubai | Full House Clearance",
     metaDescription:
-      "Complete villa furniture clearance in Dubai — every room, majlis, maid's room, garden and garage. Ideal for move-outs, renovations, landlords and estate clearances.",
+      "Full villa furniture clearance in Dubai: every room, majlis, maid's room, garden and garage. Ideal for move-outs, renovations and landlords.",
     excerpt: "Whole-villa clearances: every room, terrace, garden and garage.",
     headline: "Full villa furniture clearance",
     intro: [
@@ -421,7 +421,7 @@ export const services: Service[] = [
     imageAlt: "Green velvet sofa in an empty room awaiting furniture pickup",
     metaTitle: "Furniture Pickup & Disposal Dubai | Responsible Disposal",
     metaDescription:
-      "Furniture pickup and disposal in Dubai. Unwanted furniture collected from your door, room or balcony and donated, recycled or disposed of at licensed facilities.",
+      "Furniture pickup and disposal in Dubai. Unwanted furniture collected from any room and donated, recycled or disposed of at licensed facilities.",
     excerpt: "Unwanted pieces collected and donated, recycled or responsibly disposed of.",
     headline: "Furniture pickup and responsible disposal",
     intro: [
@@ -460,9 +460,9 @@ export const services: Service[] = [
     icon: "trash",
     image: "/images/junk.jpg",
     imageAlt: "Colour-coded waste and recycling bins for sorted junk disposal",
-    metaTitle: "Junk Removal Dubai | Same-Day Household & Office Junk Pickup",
+    metaTitle: "Junk Removal Dubai | Same-Day Household & Office Pickup",
     metaDescription:
-      "Junk removal in Dubai for homes, villas and offices. Household clutter, boxes, old items, renovation leftovers and mixed junk collected, sorted and disposed of responsibly. Book today.",
+      "Junk removal in Dubai for homes, villas and offices. Clutter, boxes, old items and renovation leftovers collected, sorted and disposed of responsibly.",
     excerpt: "Household clutter, boxes and mixed junk collected and sorted.",
     headline: "Junk removal in Dubai, sorted responsibly",
     intro: [
@@ -502,9 +502,9 @@ export const services: Service[] = [
     icon: "appliance",
     image: "/images/appliance.jpg",
     imageAlt: "Front-loading washing machine in a laundry room ready for appliance removal",
-    metaTitle: "Appliance Removal Dubai | Fridge, Washing Machine & Oven Disposal",
+    metaTitle: "Appliance Removal Dubai | Fridge & Washing Machine Pickup",
     metaDescription:
-      "Old appliance removal in Dubai — fridges, freezers, washing machines, dryers, ovens, dishwashers and AC units collected and recycled responsibly. Same-day pickup available.",
+      "Appliance removal in Dubai: fridges, freezers, washing machines, dryers, ovens and AC units collected and recycled responsibly. Same-day pickup.",
     excerpt: "Fridges, washing machines, ovens and more — disconnected and recycled.",
     headline: "Old appliance removal and recycling",
     intro: [
@@ -545,7 +545,7 @@ export const services: Service[] = [
     imageAlt: "Cardboard storage boxes representing a garage and storeroom clear-out",
     metaTitle: "Garage & Storeroom Clearance Dubai | Villa Junk Clear-Outs",
     metaDescription:
-      "Garage, storeroom, balcony and maid's room clearance in Dubai. Boxes, old furniture, junk and appliances cleared in one visit, with sorting for donation and recycling.",
+      "Garage, storeroom, balcony and maid's room clearance in Dubai. Boxes, old furniture, junk and appliances cleared in one visit and sorted for recycling.",
     excerpt: "Garages, storerooms, balconies and roof spaces cleared in one visit.",
     headline: "Garage and storeroom clearance",
     intro: [

@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { areas } from "@/data/areas";
 import { furnitureServices, junkServices } from "@/data/services";
 import { generalFaqs } from "@/data/faqs";
@@ -10,9 +11,11 @@ import { BookingForm } from "@/components/BookingForm";
 import { AreaPills, FaqList, ServiceCard, TrustStrip } from "@/components/blocks";
 import { CallButton, CheckList, Container, Eyebrow, BookButton, SectionHeading, WhatsAppButton } from "@/components/ui";
 
-export const metadata: Metadata = {
-  alternates: { canonical: "/" },
-};
+export const metadata: Metadata = pageMetadata({
+  title: "Furniture & Junk Removal Dubai | Same-Day Pickup | TakeJunk",
+  description: `Furniture & junk removal in Dubai: sofas, beds, wardrobes, appliances and full villa clearances. Same-day pickup, fixed prices. Call ${site.phoneDisplay}.`,
+  path: "/",
+});
 
 const villaAreas = areas.filter((a) => a.propertyType === "villa");
 
@@ -41,7 +44,8 @@ export default function Home() {
           src="/images/hero-living.jpg"
           alt="Elegant Dubai living room with sofa and designer furniture"
           fill
-          preload
+          fetchPriority="high"
+          loading="eager"
           sizes="100vw"
           className="-z-10 object-cover"
         />
@@ -50,7 +54,7 @@ export default function Home() {
 
         <Container className="grid items-center gap-12 pt-16 pb-28 sm:pt-24 lg:grid-cols-12 lg:pt-28 lg:pb-36">
           <div className="hero-in lg:col-span-7">
-            <p className="mb-6 inline-flex items-center gap-2 rounded-full border border-cream/15 bg-cream/5 px-4 py-1.5 text-[13px] font-medium text-cream/85 backdrop-blur">
+            <p className="mb-6 inline-flex items-center gap-2 rounded-full border border-cream/15 bg-ink/40 px-4 py-1.5 text-[13px] font-medium text-cream/85">
               <span className="size-2 rounded-full bg-whatsapp" aria-hidden="true" />
               Same-day pickups available across Dubai
             </p>
@@ -77,7 +81,7 @@ export default function Home() {
           </div>
 
           <div className="hero-in-delay hidden lg:col-span-5 lg:block">
-            <div className="ml-auto max-w-sm rounded-3xl border border-cream/10 bg-ink/55 p-7 text-cream shadow-lift backdrop-blur-xl">
+            <div className="ml-auto max-w-sm rounded-3xl border border-cream/10 bg-ink/80 p-7 text-cream shadow-lift">
               <p className="text-xs font-bold tracking-[0.18em] text-brass-300 uppercase">Book in minutes</p>
               <ol className="mt-5 space-y-5">
                 {steps.slice(0, 3).map((s, i) => (
@@ -282,7 +286,7 @@ export default function Home() {
             <div className="reveal mt-9 flex flex-wrap gap-3">
               <Link
                 href="/services/luxury-furniture-removal"
-                className="inline-flex items-center gap-2 rounded-full bg-brass px-6 py-3.5 text-[15px] font-semibold text-ink transition hover:bg-brass-300"
+                className="inline-flex items-center gap-2 rounded-full bg-brass-300 px-6 py-3.5 text-[15px] font-semibold text-ink transition hover:bg-cream"
               >
                 Explore luxury removals <Icon name="arrow" className="size-4" />
               </Link>

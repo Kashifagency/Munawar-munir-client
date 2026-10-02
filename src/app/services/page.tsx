@@ -1,14 +1,16 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { furnitureServices, junkServices } from "@/data/services";
 import { CtaBand, PageHero, ServiceCard, TrustStrip } from "@/components/blocks";
 import { Container, SectionHeading } from "@/components/ui";
 
-export const metadata: Metadata = {
-  title: "Furniture & Junk Removal Services in Dubai",
+export const metadata: Metadata = pageMetadata({
+  title: "Furniture & Junk Removal Services Dubai | TakeJunk",
   description:
-    "All our Dubai furniture and junk removal services: sofa, mattress, bed, wardrobe and dining removal, luxury and office furniture, villa clearance, junk removal, appliance removal and garage clear-outs.",
-  alternates: { canonical: "/services" },
-};
+    "Sofa, bed, mattress, wardrobe and office furniture removal, villa clearances, junk, appliance and garage clear-outs across Dubai. Same-day slots available.",
+  path: "/services",
+  image: { url: "/images/living-bright.jpg", alt: "Bright living room with tufted sofa" },
+});
 
 export default function ServicesPage() {
   return (

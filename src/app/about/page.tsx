@@ -1,14 +1,16 @@
 import Image from "next/image";
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { CtaBand, PageHero, TrustStrip } from "@/components/blocks";
 import { CheckList, Container, Eyebrow } from "@/components/ui";
 
-export const metadata: Metadata = {
-  title: "About Us — Dubai Furniture & Junk Removal Specialists",
+export const metadata: Metadata = pageMetadata({
+  title: "About TakeJunk | Furniture & Junk Removal Dubai",
   description:
-    "TakeJunk Dubai is a furniture-focused removal team that also clears household junk, serving Dubai villas, apartments and offices with careful handling, upfront pricing and responsible disposal.",
-  alternates: { canonical: "/about" },
-};
+    "TakeJunk Dubai: furniture removal specialists who clear the junk too. Careful crews, upfront pricing and responsible disposal for villas, homes and offices.",
+  path: "/about",
+  image: { url: "/images/apartment.jpg", alt: "Styled Dubai living room with leather sofa" },
+});
 
 export default function AboutPage() {
   return (

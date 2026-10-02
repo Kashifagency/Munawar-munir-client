@@ -1,16 +1,18 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { areas, propertyTypeLabel } from "@/data/areas";
 import { Icon } from "@/components/Icon";
 import { CtaBand, PageHero } from "@/components/blocks";
 import { Container } from "@/components/ui";
 
-export const metadata: Metadata = {
-  title: "Furniture & Junk Removal Areas in Dubai",
+export const metadata: Metadata = pageMetadata({
+  title: "Areas We Cover | Furniture & Junk Removal Dubai",
   description:
-    "Furniture and junk removal across Dubai including Palm Jumeirah, Emirates Hills, Arabian Ranches, Dubai Hills Estate, Downtown, Dubai Marina, Business Bay, JVC, JLT and more.",
-  alternates: { canonical: "/areas" },
-};
+    "Furniture and junk removal across Dubai: Palm Jumeirah, Emirates Hills, Arabian Ranches, Dubai Hills, Downtown, Marina, Business Bay, JVC, JLT and more.",
+  path: "/areas",
+  image: { url: "/images/dubai.jpg", alt: "Aerial view of the Dubai coastline" },
+});
 
 const groups = [
   { title: "Villa communities", filter: (t: string) => t === "villa" },

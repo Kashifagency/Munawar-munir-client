@@ -18,7 +18,7 @@ export function JsonLd({ data }: { data: object }) {
 
 export function MobileCtaBar() {
   return (
-    <div className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-cream/95 p-3 backdrop-blur-md lg:hidden">
+    <div className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-cream p-3 lg:hidden">
       <div className="grid grid-cols-2 gap-3">
         <a href={site.telHref} className="flex items-center justify-center gap-2 rounded-full bg-forest py-3 text-[15px] font-semibold text-cream">
           <Icon name="phone" className="size-4" /> Call now
@@ -209,7 +209,7 @@ export function PageHero({
 }) {
   return (
     <section className="relative isolate overflow-hidden bg-ink">
-      <Image src={image} alt={imageAlt} fill preload sizes="100vw" className="-z-10 object-cover opacity-45" />
+      <Image src={image} alt={imageAlt} fill fetchPriority="high" loading="eager" sizes="100vw" className="-z-10 object-cover opacity-45" />
       <div className="absolute inset-0 -z-10 bg-gradient-to-r from-ink via-ink/85 to-ink/30" aria-hidden="true" />
       <Container className="py-14 sm:py-20 lg:py-24">
         <Breadcrumbs items={crumbs} />
