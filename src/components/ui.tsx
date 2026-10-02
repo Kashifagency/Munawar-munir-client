@@ -42,14 +42,14 @@ export function WhatsAppButton({
   );
 }
 
-export function QuoteButton({ tone = "light", className = "" }: { tone?: Tone; className?: string }) {
+export function BookButton({ tone = "light", className = "" }: { tone?: Tone; className?: string }) {
   const styles =
     tone === "dark"
       ? "border border-cream/30 text-cream hover:bg-cream/10"
       : "border border-ink/15 text-ink hover:border-ink/40 hover:bg-white";
   return (
-    <Link href="/contact#quote" className={`${base} ${styles} ${className}`}>
-      Get a free quote
+    <Link href="/contact#book" className={`${base} ${styles} ${className}`}>
+      Book now
       <Icon name="arrow" className="size-4" />
     </Link>
   );

@@ -12,7 +12,7 @@ const links = [
   { href: "/services", label: "All services" },
   { href: "/areas", label: "Areas we cover" },
   { href: "/about", label: "About us" },
-  { href: "/contact", label: "Contact & quote" },
+  { href: "/contact", label: "Contact & booking" },
 ];
 
 export function MobileMenu() {

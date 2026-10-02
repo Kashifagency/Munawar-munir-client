@@ -34,7 +34,7 @@ export default function AboutPage() {
                 marble dining tables — through Dubai&apos;s towers, townhouses and villas.
               </p>
               <p>
-                We quote from photos so you know the price upfront, we turn up when we say we will, and we leave your
+                We price from photos so you know the cost upfront, we turn up when we say we will, and we leave your
                 space clean — taking the boxes, appliances and clutter along with the furniture. Whatever we collect is donated, recycled or responsibly disposed of.
               </p>
             </div>
@@ -42,7 +42,7 @@ export default function AboutPage() {
               <CheckList
                 items={[
                   "Uniformed, trained crews",
-                  "Fixed, upfront quotes",
+                  "Fixed, upfront prices",
                   "Dismantling included",
                   "Floor & wall protection",
                   "7 days a week",

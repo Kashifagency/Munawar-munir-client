@@ -3,7 +3,7 @@ import type { Faq } from "./services";
 export const generalFaqs: Faq[] = [
   {
     q: "How much does furniture removal cost in Dubai?",
-    a: "Cost depends on how many items you have, their size, access (floor, lift, parking distance) and whether dismantling is needed. Send a few photos on WhatsApp and we'll reply with a fixed, upfront quote — no hidden charges on the day.",
+    a: "Cost depends on how many items you have, their size, access (floor, lift, parking distance) and whether dismantling is needed. Send a few photos on WhatsApp and we'll reply with a fixed, upfront price — no hidden charges on the day.",
   },
   {
     q: "Do you offer same-day furniture pickup?",
@@ -19,7 +19,7 @@ export const generalFaqs: Faq[] = [
   },
   {
     q: "Do you dismantle beds, wardrobes and large furniture?",
-    a: "Yes. Dismantling of beds, wardrobes, modular sofas, dining tables and office workstations is included in our quote.",
+    a: "Yes. Dismantling of beds, wardrobes, modular sofas, dining tables and office workstations is included in our price.",
   },
   {
     q: "What happens to my old furniture?",
@@ -39,6 +39,6 @@ export const generalFaqs: Faq[] = [
   },
   {
     q: "How do I book?",
-    a: "Call or WhatsApp +971 56 599 3691, or use the quote form. Share photos, your area and a preferred time — we'll confirm the price and slot within minutes during working hours.",
+    a: "Call or WhatsApp +971 56 599 3691, or use the booking form. Share photos, your area and a preferred time — we'll confirm the price and slot within minutes during working hours.",
   },
 ];

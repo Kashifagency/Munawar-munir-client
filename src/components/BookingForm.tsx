@@ -12,7 +12,7 @@ import { WhatsAppIcon } from "./Icon";
 const field =
   "w-full rounded-xl border border-line bg-cream/60 px-4 py-3 text-[15px] text-ink placeholder:text-stone/60 outline-none transition focus:border-forest focus:bg-white focus:ring-4 focus:ring-forest/10";
 
-export function QuoteForm({ defaultService = "", defaultArea = "" }: { defaultService?: string; defaultArea?: string }) {
+export function BookingForm({ defaultService = "", defaultArea = "" }: { defaultService?: string; defaultArea?: string }) {
   const [sent, setSent] = useState(false);
 
   function onSubmit(e: React.FormEvent<HTMLFormElement>) {
@@ -20,7 +20,7 @@ export function QuoteForm({ defaultService = "", defaultArea = "" }: { defaultSe
     const d = new FormData(e.currentTarget);
     const get = (k: string) => String(d.get(k) ?? "").trim();
     const lines = [
-      "Hi TakeJunk, I'd like a furniture / junk removal quote.",
+      "Hi TakeJunk, I'd like to book furniture / junk removal.",
       "",
       `Name: ${get("name")}`,
       `Phone: ${get("phone")}`,
@@ -37,7 +37,7 @@ export function QuoteForm({ defaultService = "", defaultArea = "" }: { defaultSe
   }
 
   return (
-    <form onSubmit={onSubmit} className="space-y-4" aria-describedby="quote-note">
+    <form onSubmit={onSubmit} className="space-y-4" aria-describedby="booking-note">
       <div className="grid gap-4 sm:grid-cols-2">
         <label className="block">
           <span className="mb-1.5 block text-sm font-semibold text-ink">Your name</span>
@@ -98,12 +98,12 @@ export function QuoteForm({ defaultService = "", defaultArea = "" }: { defaultSe
         className="flex w-full items-center justify-center gap-2 rounded-full bg-whatsapp px-6 py-4 text-base font-semibold text-white shadow-soft transition hover:brightness-110"
       >
         <WhatsAppIcon className="size-5" />
-        Send quote request on WhatsApp
+        Send booking request on WhatsApp
       </button>
-      <p id="quote-note" className="text-center text-sm text-stone" role="status">
+      <p id="booking-note" className="text-center text-sm text-stone" role="status">
         {sent
           ? "WhatsApp opened in a new tab — attach a few photos and hit send."
-          : "Opens WhatsApp with your details pre-filled. Add photos for the fastest quote."}
+          : "Opens WhatsApp with your details pre-filled. Add photos for the fastest reply."}
       </p>
     </form>
   );

@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 import { site, whatsappHref } from "@/lib/site";
 import { Icon, WhatsAppIcon } from "@/components/Icon";
-import { QuoteForm } from "@/components/QuoteForm";
+import { BookingForm } from "@/components/BookingForm";
 import { Breadcrumbs } from "@/components/blocks";
 import { Container } from "@/components/ui";
 
 export const metadata: Metadata = {
-  title: "Contact & Free Quote — Furniture & Junk Removal Dubai",
-  description: `Get a free, fixed furniture or junk removal quote in Dubai. Call or WhatsApp ${site.phoneDisplay} or send your details using our quick quote form.`,
+  title: "Contact & Booking — Furniture & Junk Removal Dubai",
+  description: `Book furniture or junk removal in Dubai. Call or WhatsApp ${site.phoneDisplay} or send your details using our quick booking form.`,
   alternates: { canonical: "/contact" },
 };
 
@@ -20,7 +20,7 @@ export default function ContactPage() {
           <div className="hero-in lg:col-span-5">
             <p className="mb-4 text-xs font-bold tracking-[0.18em] text-brass-300 uppercase">Contact</p>
             <h1 className="font-display text-4xl leading-[1.05] font-medium text-cream sm:text-6xl">
-              Get your free quote
+              Book your pickup
             </h1>
             <p className="mt-6 text-lg leading-relaxed text-cream/70">
               The fastest way is WhatsApp — send photos of the furniture, your area and preferred time, and we&apos;ll
@@ -64,9 +64,9 @@ export default function ContactPage() {
               </div>
             </div>
           </div>
-          <div id="quote" className="hero-in-delay scroll-mt-32 rounded-[2rem] bg-white p-6 shadow-lift sm:p-10 lg:col-span-7">
-            <h2 className="mb-6 font-display text-2xl font-medium">Quick quote request</h2>
-            <QuoteForm />
+          <div id="book" className="hero-in-delay scroll-mt-32 rounded-[2rem] bg-white p-6 shadow-lift sm:p-10 lg:col-span-7">
+            <h2 className="mb-6 font-display text-2xl font-medium">Quick booking request</h2>
+            <BookingForm />
           </div>
         </div>
       </Container>

@@ -50,12 +50,12 @@ export const services: Service[] = [
     imageAlt: "Modern Dubai living room with grey sofas ready for furniture removal",
     metaTitle: "Furniture Removal Dubai | Same-Day Pickup & Disposal",
     metaDescription:
-      "Professional furniture removal in Dubai for apartments, villas and offices. Single items or full rooms, same-day slots, careful handling and responsible disposal. Free quote on WhatsApp.",
+      "Professional furniture removal in Dubai for apartments, villas and offices. Single items or full rooms, same-day slots, careful handling and responsible disposal. Book on WhatsApp.",
     excerpt: "Single pieces or whole rooms, lifted, loaded and cleared the same day.",
     headline: "Furniture removal in Dubai, handled properly",
     intro: [
       "Whether you're moving out, redecorating or simply reclaiming a room, our furniture removal team takes the heavy lifting off your hands. We remove single items or entire households from apartments, townhouses and villas across Dubai.",
-      "Every job is quoted upfront from a few photos on WhatsApp. On the day, a uniformed crew arrives with blankets, straps and tools, dismantles where needed, protects your floors, lifts and corridors, and leaves the space swept and clear.",
+      "Every job is priced upfront from a few photos on WhatsApp. On the day, a uniformed crew arrives with blankets, straps and tools, dismantles where needed, protects your floors, lifts and corridors, and leaves the space swept and clear.",
       "Items in good condition are routed to donation and resale partners where possible, and everything else goes to licensed recycling and disposal facilities — never dumped.",
     ],
     items: [
@@ -69,14 +69,14 @@ export const services: Service[] = [
       "Office desks and chairs",
     ],
     highlights: [
-      { title: "Upfront WhatsApp quotes", text: "Send photos, get a clear price before we arrive. No surprises on the day." },
+      { title: "Upfront WhatsApp pricing", text: "Send photos, get a clear price before we arrive. No surprises on the day." },
       { title: "Floor & wall protection", text: "Corner guards, blankets and runners to protect marble, parquet and lifts." },
       { title: "Dismantling included", text: "Beds, wardrobes and modular units taken apart safely by our crew." },
       { title: "Donate, recycle, dispose", text: "Reusable pieces get a second life; the rest is disposed of responsibly." },
     ],
     faqs: [
       { q: "How quickly can you remove furniture in Dubai?", a: "We usually offer same-day or next-day slots across our service areas. Message us on WhatsApp with photos and your preferred time and we'll confirm availability straight away." },
-      { q: "How is furniture removal priced?", a: "Pricing depends on the number and size of items, access (floor, lift, parking) and whether dismantling is needed. We give a fixed quote upfront from photos so you know the cost before we arrive." },
+      { q: "How is furniture removal priced?", a: "Pricing depends on the number and size of items, access (floor, lift, parking) and whether dismantling is needed. We give a fixed price upfront from photos so you know the cost before we arrive." },
       { q: "Do I need to be home during the removal?", a: "Not always. Many clients arrange access through building security, a concierge or a neighbour. We'll send photos when the job is complete." },
       { q: "Do you handle building permits and lift bookings?", a: "We'll guide you on what your building or community requires and work within booked lift slots and permitted hours." },
     ],
@@ -174,7 +174,7 @@ export const services: Service[] = [
     imageAlt: "Upholstered king bed with tufted headboard and bench in a villa bedroom",
     metaTitle: "Bed Removal Dubai | Bed Frame Dismantling & Disposal",
     metaDescription:
-      "Bed removal in Dubai including dismantling of king, queen, bunk, storage and ottoman beds. Headboards, bases and mattresses removed in one visit. Free quote.",
+      "Bed removal in Dubai including dismantling of king, queen, bunk, storage and ottoman beds. Headboards, bases and mattresses removed in one visit. Book today.",
     excerpt: "Frames, headboards, bunks and storage beds dismantled and removed.",
     headline: "Bed and bed frame removal in Dubai",
     intro: [
@@ -241,7 +241,7 @@ export const services: Service[] = [
     ],
     faqs: [
       { q: "Do you remove built-in wardrobes?", a: "Our service covers freestanding and fitted units that can be unscrewed and removed. Joinery that is part of the building structure may need a fit-out contractor — send photos and we'll advise." },
-      { q: "Should I empty the wardrobe first?", a: "Yes please — clothes and contents should be removed. If you have items you want to dispose of too, let us know and we'll include them in the quote." },
+      { q: "Should I empty the wardrobe first?", a: "Yes please — clothes and contents should be removed. If you have items you want to dispose of too, let us know and we'll include them in the price." },
       { q: "Can you remove a very heavy solid wood armoire?", a: "Yes. We assess weight and access in advance and send enough crew to carry it safely." },
     ],
     related: ["bed-removal", "dining-table-chair-removal", "furniture-removal", "villa-furniture-clearance"],
@@ -462,7 +462,7 @@ export const services: Service[] = [
     imageAlt: "Colour-coded waste and recycling bins for sorted junk disposal",
     metaTitle: "Junk Removal Dubai | Same-Day Household & Office Junk Pickup",
     metaDescription:
-      "Junk removal in Dubai for homes, villas and offices. Household clutter, boxes, old items, renovation leftovers and mixed junk collected, sorted and disposed of responsibly. Free quote.",
+      "Junk removal in Dubai for homes, villas and offices. Household clutter, boxes, old items, renovation leftovers and mixed junk collected, sorted and disposed of responsibly. Book today.",
     excerpt: "Household clutter, boxes and mixed junk collected and sorted.",
     headline: "Junk removal in Dubai, sorted responsibly",
     intro: [
@@ -484,13 +484,13 @@ export const services: Service[] = [
       { title: "One visit for everything", text: "Furniture and junk cleared together — no second booking." },
       { title: "We do the lifting", text: "Collected from any room, balcony, roof or garden." },
       { title: "Sorted, not dumped", text: "Donation, recycling and licensed disposal only." },
-      { title: "Priced by volume", text: "Fixed quote from photos based on how much there is." },
+      { title: "Priced by volume", text: "Fixed price from photos based on how much there is." },
     ],
     faqs: [
       { q: "What kind of junk do you remove?", a: "General household and office junk — boxes, clutter, broken items, textiles, packaging, garden waste and non-hazardous renovation leftovers. Send photos and we'll confirm." },
       { q: "Is there anything you can't take?", a: "We don't take hazardous materials such as chemicals, paint, gas cylinders, asbestos or medical waste. These need specialist licensed handlers." },
-      { q: "Can you remove junk and furniture in the same visit?", a: "Yes — most clients combine both. We quote for everything together so it's one booking and one price." },
-      { q: "How is junk removal priced?", a: "Mainly by volume and access. A few photos on WhatsApp are enough for a fixed quote." },
+      { q: "Can you remove junk and furniture in the same visit?", a: "Yes — most clients combine both. We price everything together so it's one booking and one price." },
+      { q: "How is junk removal priced?", a: "Mainly by volume and access. A few photos on WhatsApp are enough for a fixed price." },
     ],
     related: ["garage-storeroom-clearance", "appliance-removal", "furniture-pickup-disposal", "villa-furniture-clearance"],
   },

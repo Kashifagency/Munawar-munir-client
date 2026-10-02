@@ -6,9 +6,9 @@ import { furnitureServices, junkServices } from "@/data/services";
 import { generalFaqs } from "@/data/faqs";
 import { site } from "@/lib/site";
 import { Icon } from "@/components/Icon";
-import { QuoteForm } from "@/components/QuoteForm";
+import { BookingForm } from "@/components/BookingForm";
 import { AreaPills, FaqList, ServiceCard, TrustStrip } from "@/components/blocks";
-import { CallButton, CheckList, Container, Eyebrow, QuoteButton, SectionHeading, WhatsAppButton } from "@/components/ui";
+import { CallButton, CheckList, Container, Eyebrow, BookButton, SectionHeading, WhatsAppButton } from "@/components/ui";
 
 export const metadata: Metadata = {
   alternates: { canonical: "/" },
@@ -18,7 +18,7 @@ const villaAreas = areas.filter((a) => a.propertyType === "villa");
 
 const steps = [
   { icon: "camera", title: "Send photos", text: "WhatsApp a few pictures of the furniture, your area and access details." },
-  { icon: "check", title: "Get a fixed quote", text: "We reply with a clear, all-inclusive price — usually within minutes." },
+  { icon: "check", title: "Get a fixed price", text: "We reply with a clear, all-inclusive price — usually within minutes." },
   { icon: "calendar", title: "Pick a slot", text: "Same-day, next-day or a time that suits you, 7 days a week." },
   { icon: "truck", title: "We clear it", text: "Our crew dismantles, protects, lifts and removes. Space left swept." },
 ];
@@ -28,7 +28,7 @@ const reasons = [
   { icon: "tools", title: "Dismantling included", text: "Beds, wardrobes, sectionals, dining tables and workstations taken apart on site at no extra charge." },
   { icon: "shield", title: "Home protection", text: "Blankets, corner guards and floor runners protect marble, parquet, walls and lift interiors." },
   { icon: "pin", title: "Community-savvy", text: "We work within gate-pass, lift-booking and working-hour rules across Dubai's towers and villa communities." },
-  { icon: "camera", title: "Transparent pricing", text: "Fixed quotes from photos. What we quote is what you pay — no surprises on the day." },
+  { icon: "camera", title: "Transparent pricing", text: "Fixed prices from photos. The price we give is what you pay — no surprises on the day." },
   { icon: "leaf", title: "Eco-conscious", text: "Usable furniture is donated or resold, materials are recycled where possible, and only the rest is disposed of." },
 ];
 
@@ -60,14 +60,14 @@ export default function Home() {
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-cream/75 sm:text-xl">
               Sofas, beds, wardrobes, appliances, household junk and full villa clearances — dismantled, lifted and cleared by a
-              careful crew. Fixed quotes from photos, responsible disposal, 7 days a week.
+              careful crew. Fixed prices from photos, responsible disposal, 7 days a week.
             </p>
             <div className="mt-9 flex flex-wrap gap-3">
-              <WhatsAppButton label="WhatsApp for a quote" />
+              <WhatsAppButton label="WhatsApp us" />
               <CallButton tone="dark" label={`Call ${site.phoneDisplay}`} />
             </div>
             <ul className="mt-10 flex flex-wrap gap-x-7 gap-y-3 text-sm text-cream/75">
-              {["Free, fixed quotes", "Furniture + junk in one visit", "Villas, apartments & offices"].map((t) => (
+              {["Upfront, fixed prices", "Furniture + junk in one visit", "Villas, apartments & offices"].map((t) => (
                 <li key={t} className="flex items-center gap-2">
                   <Icon name="check" className="size-4 text-brass-300" strokeWidth={2.5} />
                   {t}
@@ -78,7 +78,7 @@ export default function Home() {
 
           <div className="hero-in-delay hidden lg:col-span-5 lg:block">
             <div className="ml-auto max-w-sm rounded-3xl border border-cream/10 bg-ink/55 p-7 text-cream shadow-lift backdrop-blur-xl">
-              <p className="text-xs font-bold tracking-[0.18em] text-brass-300 uppercase">Quote in minutes</p>
+              <p className="text-xs font-bold tracking-[0.18em] text-brass-300 uppercase">Book in minutes</p>
               <ol className="mt-5 space-y-5">
                 {steps.slice(0, 3).map((s, i) => (
                   <li key={s.title} className="flex gap-4">
@@ -93,10 +93,10 @@ export default function Home() {
                 ))}
               </ol>
               <Link
-                href="/contact#quote"
+                href="/contact#book"
                 className="mt-7 flex items-center justify-center gap-2 rounded-full bg-cream py-3 text-sm font-semibold text-ink transition hover:bg-white"
               >
-                Start my quote <Icon name="arrow" className="size-4" />
+                Book now <Icon name="arrow" className="size-4" />
               </Link>
             </div>
           </div>
@@ -172,7 +172,7 @@ export default function Home() {
                 >
                   Junk removal <Icon name="arrow" className="size-4" />
                 </Link>
-                <WhatsAppButton label="Quote" message="Hi TakeJunk, I'd like a quote for junk removal in Dubai." />
+                <WhatsAppButton label="WhatsApp" message="Hi TakeJunk, I'd like to book junk removal in Dubai." />
               </div>
             </div>
             <ul className="grid gap-5 sm:grid-cols-3 lg:col-span-8">
@@ -251,7 +251,7 @@ export default function Home() {
               >
                 Villa clearance service <Icon name="arrow" className="size-4" />
               </Link>
-              <WhatsAppButton label="Plan my clearance" message="Hi TakeJunk, I'd like a quote for a full villa furniture clearance." />
+              <WhatsAppButton label="Plan my clearance" message="Hi TakeJunk, I'd like to book a full villa furniture clearance." />
             </div>
           </div>
         </Container>
@@ -340,7 +340,7 @@ export default function Home() {
                 intro="Furniture is heavy, awkward and often valuable. It deserves a team that knows how to handle it — and that can take the clutter away in the same trip."
               />
               <div className="reveal mt-8">
-                <QuoteButton />
+                <BookButton />
               </div>
             </div>
           </div>
@@ -424,11 +424,11 @@ export default function Home() {
         </Container>
       </section>
 
-      {/* Quote */}
-      <section id="quote" className="scroll-mt-28 bg-sand py-20 sm:py-28">
+      {/* Booking */}
+      <section id="book" className="scroll-mt-28 bg-sand py-20 sm:py-28">
         <Container className="grid items-start gap-12 lg:grid-cols-12">
           <div className="lg:col-span-5">
-            <Eyebrow>Free quote</Eyebrow>
+            <Eyebrow>Book now</Eyebrow>
             <h2 className="font-display text-3xl leading-tight font-medium sm:text-5xl">Tell us what needs to go</h2>
             <p className="mt-5 text-lg leading-relaxed text-stone">
               Fill in the basics and we&apos;ll continue on WhatsApp — add photos there for a fixed price. Prefer to
@@ -456,7 +456,7 @@ export default function Home() {
             </div>
           </div>
           <div className="rounded-[2rem] border border-line bg-white p-6 shadow-lift sm:p-10 lg:col-span-7">
-            <QuoteForm />
+            <BookingForm />
           </div>
         </Container>
       </section>

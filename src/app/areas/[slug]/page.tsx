@@ -5,7 +5,7 @@ import { areas, getArea, propertyTypeLabel, type Area, type PropertyType } from 
 import { getService, services } from "@/data/services";
 import { absoluteUrl, site } from "@/lib/site";
 import { Icon } from "@/components/Icon";
-import { QuoteForm } from "@/components/QuoteForm";
+import { BookingForm } from "@/components/BookingForm";
 import { AreaPills, CtaBand, FaqList, JsonLd, PageHero, ServiceCard } from "@/components/blocks";
 import { CheckList, Container, Eyebrow } from "@/components/ui";
 
@@ -57,7 +57,7 @@ function areaFaqs(area: Area) {
     },
     {
       q: `How much does furniture removal cost in ${area.name}?`,
-      a: `Price depends on the items, access and whether dismantling is needed. We give a fixed quote upfront from photos, so you'll know the exact cost for your ${area.name} property before we arrive.`,
+      a: `Price depends on the items, access and whether dismantling is needed. We give a fixed price upfront from photos, so you'll know the exact cost for your ${area.name} property before we arrive.`,
     },
     area.propertyType === "apartment" || area.propertyType === "commercial"
       ? {
@@ -82,7 +82,7 @@ export async function generateMetadata({ params }: PageProps<"/areas/[slug]">): 
   const title = `Furniture & Junk Removal ${area.name} | Same-Day Pickup`;
   const description = `Furniture and junk removal in ${area.name}, Dubai — sofas, beds, mattresses, wardrobes, appliances, household junk and full ${
     area.propertyType === "villa" ? "villa clearances" : "home and office clearances"
-  }. Fixed quotes from photos, same-day slots. Call or WhatsApp ${site.phoneDisplay}.`;
+  }. Fixed prices from photos, same-day slots. Call or WhatsApp ${site.phoneDisplay}.`;
   return {
     title: { absolute: `${title} | TakeJunk` },
     description,
@@ -107,7 +107,7 @@ export default async function AreaPage({ params }: PageProps<"/areas/[slug]">) {
       <PageHero
         eyebrow={`${propertyTypeLabel[area.propertyType]} · Dubai`}
         title={<>Furniture &amp; junk removal in {area.name}</>}
-        intro={`${area.summary} Fast, careful furniture and junk removal, clearance and pickup for ${area.name} residents and businesses — with fixed quotes from photos.`}
+        intro={`${area.summary} Fast, careful furniture and junk removal, clearance and pickup for ${area.name} residents and businesses — with fixed prices from photos.`}
         image={hero.src}
         imageAlt={hero.alt}
         crumbs={[
@@ -124,7 +124,7 @@ export default async function AreaPage({ params }: PageProps<"/areas/[slug]">) {
             <div className="prose-copy mt-6 text-lg leading-relaxed text-ink/80">
               <p>{area.body}</p>
               <p>
-                Whether it&apos;s a single sofa, a bedroom refresh, a garage full of junk or a complete clearance, we quote upfront from photos,
+                Whether it&apos;s a single sofa, a bedroom refresh, a garage full of junk or a complete clearance, we price upfront from photos,
                 dismantle on site, protect your property throughout and leave the space clear. Usable pieces are donated
                 where possible and everything else is disposed of responsibly.
               </p>
@@ -188,17 +188,17 @@ export default async function AreaPage({ params }: PageProps<"/areas/[slug]">) {
         </Container>
       </section>
 
-      <section id="quote" className="scroll-mt-28 bg-sand py-16 sm:py-24">
+      <section id="book" className="scroll-mt-28 bg-sand py-16 sm:py-24">
         <Container className="grid items-start gap-12 lg:grid-cols-12">
           <div className="lg:col-span-5">
-            <Eyebrow>Free quote</Eyebrow>
-            <h2 className="font-display text-3xl font-medium sm:text-4xl">Get a quote for your {area.name} property</h2>
+            <Eyebrow>Book now</Eyebrow>
+            <h2 className="font-display text-3xl font-medium sm:text-4xl">Book a pickup for your {area.name} property</h2>
             <p className="mt-4 text-lg leading-relaxed text-stone">
               Your area is pre-selected. Add the items and we&apos;ll pick it up on WhatsApp.
             </p>
           </div>
           <div className="rounded-[2rem] border border-line bg-white p-6 shadow-lift sm:p-10 lg:col-span-7">
-            <QuoteForm defaultArea={area.name} />
+            <BookingForm defaultArea={area.name} />
           </div>
         </Container>
       </section>

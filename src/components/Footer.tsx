@@ -14,7 +14,7 @@ export function Footer() {
             <Logo tone="dark" />
             <p className="mt-5 max-w-sm leading-relaxed">
               Specialist furniture and junk removal, clearance and pickup for Dubai homes, villas and offices. Careful crews,
-              upfront quotes and responsible disposal.
+              upfront prices and responsible disposal.
             </p>
             <div className="mt-6 space-y-3">
               <a href={site.telHref} className="flex items-center gap-3 font-semibold text-cream hover:text-brass-300">

@@ -16,13 +16,13 @@ export const site = {
   city: "Dubai",
   country: "AE",
   description:
-    "Premium furniture and junk removal in Dubai — sofas, beds, mattresses, wardrobes, luxury pieces, office furniture, appliances, household junk and full villa clearances. Same-day pickup, careful handling and responsible disposal. Call or WhatsApp for a free quote.",
+    "Premium furniture and junk removal in Dubai — sofas, beds, mattresses, wardrobes, luxury pieces, office furniture, appliances, household junk and full villa clearances. Same-day pickup, careful handling and responsible disposal. Call or WhatsApp to book.",
 };
 
 export function whatsappHref(message?: string) {
   const text =
     message ??
-    "Hi TakeJunk, I'd like a quote for furniture / junk removal in Dubai.";
+    "Hi TakeJunk, I'd like to book furniture / junk removal in Dubai.";
   return `https://wa.me/${PHONE_E164.replace("+", "")}?text=${encodeURIComponent(text)}`;
 }
 

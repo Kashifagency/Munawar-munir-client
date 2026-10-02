@@ -39,7 +39,7 @@ export default async function ServicePage({ params }: PageProps<"/services/[slug
 
   const related = service.related.map(getService).filter((s) => s !== undefined);
   const others = services.filter((s) => s.slug !== service.slug);
-  const waMessage = `Hi TakeJunk, I'd like a quote for ${service.name.toLowerCase()} in Dubai.`;
+  const waMessage = `Hi TakeJunk, I'd like to book ${service.name.toLowerCase()} in Dubai.`;
 
   return (
     <>
@@ -110,8 +110,8 @@ export default async function ServicePage({ params }: PageProps<"/services/[slug
                   <Image src={service.image} alt="" fill sizes="(min-width: 1024px) 30vw, 92vw" className="object-cover" />
                 </div>
                 <div className="p-7">
-                  <h2 className="font-display text-2xl">Get a fixed quote</h2>
-                  <p className="mt-2 text-cream/70">Send photos on WhatsApp — most quotes are back within minutes.</p>
+                  <h2 className="font-display text-2xl">Book this service</h2>
+                  <p className="mt-2 text-cream/70">Send photos on WhatsApp — we usually reply within minutes.</p>
                   <div className="mt-6 grid gap-3">
                     <a
                       href={whatsappHref(waMessage)}
@@ -119,7 +119,7 @@ export default async function ServicePage({ params }: PageProps<"/services/[slug
                       rel="noopener noreferrer"
                       className="flex items-center justify-center gap-2 rounded-full bg-whatsapp py-3.5 font-semibold text-white transition hover:brightness-110"
                     >
-                      <WhatsAppIcon className="size-5" /> WhatsApp quote
+                      <WhatsAppIcon className="size-5" /> Book on WhatsApp
                     </a>
                     <a
                       href={site.telHref}

@@ -16,7 +16,7 @@ export default function ServicesPage() {
       <PageHero
         eyebrow="Services"
         title="Furniture & junk removal services in Dubai"
-        intro="Specialist services for every kind of furniture — plus the household junk, appliances and garage clutter that come with it. Fixed quotes, dismantling included, responsible disposal."
+        intro="Specialist services for every kind of furniture — plus the household junk, appliances and garage clutter that come with it. Fixed prices, dismantling included, responsible disposal."
         image="/images/living-bright.jpg"
         imageAlt="Bright living room with tufted sofa and coffee table"
         crumbs={[{ name: "Services", href: "/services" }]}

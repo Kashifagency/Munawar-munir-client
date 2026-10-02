@@ -4,7 +4,7 @@ import type { Faq, Service } from "@/data/services";
 import type { Area } from "@/data/areas";
 import { absoluteUrl, site, whatsappHref } from "@/lib/site";
 import { Icon, WhatsAppIcon } from "./Icon";
-import { CallButton, Container, QuoteButton, WhatsAppButton } from "./ui";
+import { BookButton, CallButton, Container, WhatsAppButton } from "./ui";
 
 export function JsonLd({ data }: { data: object }) {
   return (
@@ -158,7 +158,7 @@ export function AreaPills({ items, className = "" }: { items: Area[]; className?
 
 export function CtaBand({
   title = "Ready to clear the space?",
-  text = "Send a few photos on WhatsApp and get a fixed quote in minutes. Same-day pickups available across Dubai.",
+  text = "Send a few photos on WhatsApp and get a fixed price in minutes. Same-day pickups available across Dubai.",
 }: {
   title?: string;
   text?: string;
@@ -179,9 +179,9 @@ export function CtaBand({
             <h2 className="font-display text-3xl leading-tight font-medium text-cream sm:text-5xl">{title}</h2>
             <p className="mt-5 text-lg leading-relaxed text-cream/75">{text}</p>
             <div className="mt-9 flex flex-wrap gap-3">
-              <WhatsAppButton label="Get a WhatsApp quote" />
+              <WhatsAppButton label="Book on WhatsApp" />
               <CallButton tone="dark" label={site.phoneDisplay} />
-              <QuoteButton tone="dark" />
+              <BookButton tone="dark" />
             </div>
           </div>
         </div>
@@ -223,7 +223,7 @@ export function PageHero({
         <div className="hero-in-delay mt-9 flex flex-wrap gap-3">
           <WhatsAppButton />
           <CallButton tone="dark" />
-          <QuoteButton tone="dark" />
+          <BookButton tone="dark" />
         </div>
         {children}
       </Container>
@@ -233,7 +233,7 @@ export function PageHero({
 
 export const trustPoints = [
   { icon: "clock", title: "Same-day slots", text: "Fast pickups across Dubai, 7 days a week." },
-  { icon: "camera", title: "Photo-based quotes", text: "Fixed price upfront from a few WhatsApp photos." },
+  { icon: "camera", title: "Photo-based pricing", text: "Fixed price upfront from a few WhatsApp photos." },
   { icon: "shield", title: "Careful handling", text: "Floors, walls and lifts protected as standard." },
   { icon: "leaf", title: "Responsible disposal", text: "Donate and recycle first; licensed disposal only." },
 ];
