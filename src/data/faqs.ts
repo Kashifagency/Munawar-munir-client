@@ -1,4 +1,5 @@
 import type { Faq } from "./services";
+import { site } from "@/lib/site";
 
 export const generalFaqs: Faq[] = [
   {
@@ -39,6 +40,6 @@ export const generalFaqs: Faq[] = [
   },
   {
     q: "How do I book?",
-    a: "Call or WhatsApp +971 56 599 3691, or use the booking form. Share photos, your area and a preferred time — we'll confirm the price and slot within minutes during working hours.",
+    a: `Call or WhatsApp ${site.phoneDisplay}, or use the booking form. Share photos, your area and a preferred time — we'll confirm the price and slot within minutes during working hours.`,
   },
 ];

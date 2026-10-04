@@ -1,7 +1,7 @@
 // Central business details. Change the brand, domain or phone here and it
 // flows through every page, CTA, schema block and the sitemap.
 
-const PHONE_E164 = "+971565993691";
+const PHONE_E164 = "+971524205370";
 
 export const site = {
   name: "TakeJunk Dubai",
@@ -9,7 +9,7 @@ export const site = {
   tagline: "Furniture & junk removal, clearance and pickup across Dubai",
   // Set NEXT_PUBLIC_SITE_URL in production (e.g. https://www.yourdomain.ae).
   url: (process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.takejunkfurnituredubai.com").replace(/\/$/, ""),
-  phoneDisplay: "+971 56 599 3691",
+  phoneDisplay: "+971 52 420 5370",
   phoneE164: PHONE_E164,
   telHref: `tel:${PHONE_E164}`,
   hours: "7 days a week, 6:00 AM – 11:00 PM",
