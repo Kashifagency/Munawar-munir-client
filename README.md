@@ -1,6 +1,6 @@
 # TakeJunk Dubai — furniture & junk removal website (takejunkfurnituredubai.com)
 
-Next.js 16 (App Router) + Tailwind CSS v4. Every page is statically generated (51 pages).
+Next.js 16 (App Router) + Tailwind CSS v4. Every page is statically generated (58 pages).
 
 ## Commands
 
@@ -8,6 +8,7 @@ Next.js 16 (App Router) + Tailwind CSS v4. Every page is statically generated (5
 npm run dev     # http://localhost:3000
 npm run build   # production build
 npm start       # serve the build
+npm run seo:audit  # SEO/content audit of the build (run after build)
 ```
 
 ## Where things live
@@ -18,11 +19,16 @@ npm start       # serve the build
 | Services (10 furniture + 3 junk, set by `category`) — copy, FAQs, images, SEO titles | `src/data/services.ts` |
 | Service areas (28) — local copy, nearby links | `src/data/areas.ts` |
 | Homepage FAQs | `src/data/faqs.ts` |
+| Blog articles (add a post = add an entry) | `src/data/blog.ts` |
 | Homepage | `src/app/page.tsx` |
 | Service / area page templates | `src/app/services/[slug]`, `src/app/areas/[slug]` |
 | Sitemap / robots | `src/app/sitemap.ts`, `src/app/robots.ts` |
 
 Adding a service or area to the data files automatically creates its page, nav/footer links and sitemap entry.
+
+## Content & SEO
+
+Writing guidelines, keyword map, page templates and the QA checklist live in [`docs/content/`](docs/content/README.md).
 
 ## Before going live
 

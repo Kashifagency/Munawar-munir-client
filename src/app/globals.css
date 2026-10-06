@@ -99,3 +99,87 @@ details[open] .faq-icon {
     opacity: 0;
   }
 }
+
+/* Blog article typography */
+.article {
+  color: rgb(18 32 27 / 0.85);
+  font-size: 1.0625rem;
+  line-height: 1.8;
+}
+.article > * + * {
+  margin-top: 1.25rem;
+}
+.article h2 {
+  margin-top: 2.75rem;
+  scroll-margin-top: 8rem;
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--color-ink);
+}
+.article h3 {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--color-ink);
+}
+.article h2 + *,
+.article h3 + * {
+  margin-top: 0.75rem;
+}
+.article ul,
+.article ol {
+  padding-left: 1.4rem;
+}
+.article ul {
+  list-style: disc;
+}
+.article ol {
+  list-style: decimal;
+}
+.article li + li {
+  margin-top: 0.5rem;
+}
+.article li::marker {
+  color: var(--color-brass);
+  font-weight: 700;
+}
+.article a {
+  color: var(--color-forest);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: var(--color-brass-300);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+.article a:hover {
+  text-decoration-color: var(--color-forest);
+}
+.article strong {
+  color: var(--color-ink);
+  font-weight: 700;
+}
+.article-tip {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  border: 1px solid var(--color-line);
+  border-left: 4px solid var(--color-brass);
+  border-radius: 1rem;
+  background: var(--color-sand);
+  padding: 1.25rem 1.5rem;
+}
+.article-tip p {
+  margin: 0;
+}
+@media (min-width: 640px) {
+  .article {
+    font-size: 1.125rem;
+  }
+  .article h2 {
+    font-size: 2rem;
+  }
+}

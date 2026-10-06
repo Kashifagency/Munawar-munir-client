@@ -9,6 +9,7 @@ export const navLinks = [
   { href: "/services/villa-furniture-clearance", label: "Villa Clearance" },
   { href: "/services/junk-removal", label: "Junk Removal" },
   { href: "/areas", label: "Areas" },
+  { href: "/blog", label: "Blog" },
   { href: "/about", label: "About" },
   { href: "/contact", label: "Contact" },
 ];
