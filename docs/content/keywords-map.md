@@ -110,26 +110,26 @@ The 100 search terms we target, which page owns each one, and what to build next
 
 | # | Keyword | Demand | Seen | Intent | Target URL | Status |
 | ---: | --- | --- | ---: | --- | --- | --- |
-| 27 | furniture disposal dubai municipality | 🟢 Strong | 6 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 28 | furniture disposal dubai free | 🟢 Strong | 6 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 29 | furniture removal dubai free | 🟢 Strong | 4 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 30 | junk removal dubai free | 🟢 Strong | 4 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 31 | junk removal dubai municipality | 🟢 Strong | 4 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 32 | free furniture pick up dubai | 🟡 Good | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 33 | free furniture removal dubai | 🟡 Good | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 34 | free furniture disposal dubai | 🟡 Good | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 35 | free furniture collection dubai | 🟡 Good | 2 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 36 | free furniture disposal dubai municipality | ⚪ Long-tail | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 37 | junk collection dubai free | 🟡 Good | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 38 | free junk removal service dubai | ⚪ Long-tail | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 39 | dubai municipality bulky waste collection | 🟡 Good | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide (primary) |
-| 40 | dubai municipality bulky waste collection number | 🟡 Good | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide (link official page) |
-| 41 | dubai municipality bulky waste | 🟡 Good | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 42 | dubai municipality bulky waste disposal | ⚪ Long-tail | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 43 | dubai municipality bulky waste service | ⚪ Long-tail | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 44 | bulky waste collection dubai | 🟡 Good | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 45 | bulky waste removal dubai municipality | 🟡 Good | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
-| 46 | dubai bulky waste disposal service | ⚪ Long-tail | 1 | Informational | — | Planned: Dubai Municipality bulky waste guide |
+| 27 | furniture disposal dubai municipality | 🟢 Strong | 6 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 28 | furniture disposal dubai free | 🟢 Strong | 6 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 29 | furniture removal dubai free | 🟢 Strong | 4 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 30 | junk removal dubai free | 🟢 Strong | 4 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 31 | junk removal dubai municipality | 🟢 Strong | 4 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 32 | free furniture pick up dubai | 🟡 Good | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 33 | free furniture removal dubai | 🟡 Good | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 34 | free furniture disposal dubai | 🟡 Good | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 35 | free furniture collection dubai | 🟡 Good | 2 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 36 | free furniture disposal dubai municipality | ⚪ Long-tail | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 37 | junk collection dubai free | 🟡 Good | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 38 | free junk removal service dubai | ⚪ Long-tail | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 39 | dubai municipality bulky waste collection | 🟡 Good | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live (primary) |
+| 40 | dubai municipality bulky waste collection number | 🟡 Good | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live — links official page |
+| 41 | dubai municipality bulky waste | 🟡 Good | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 42 | dubai municipality bulky waste disposal | ⚪ Long-tail | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 43 | dubai municipality bulky waste service | ⚪ Long-tail | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 44 | bulky waste collection dubai | 🟡 Good | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 45 | bulky waste removal dubai municipality | 🟡 Good | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
+| 46 | dubai bulky waste disposal service | ⚪ Long-tail | 1 | Informational | `/blog/dubai-municipality-bulky-waste-collection` | Live |
 
 ### Price & cost
 
@@ -145,11 +145,11 @@ The 100 search terms we target, which page owns each one, and what to build next
 | # | Keyword | Demand | Seen | Intent | Target URL | Status |
 | ---: | --- | --- | ---: | --- | --- | --- |
 | 51 | how to dispose old furniture in dubai | 🟢 Strong | 6 | Informational | `/blog/sell-donate-or-dispose-old-furniture-dubai` | Live (primary) |
-| 52 | how to dispose furniture in dubai | 🟡 Good | 1 | Informational | `/blog/sell-donate-or-dispose-old-furniture-dubai` | Live |
-| 53 | how to dispose old furniture in dubai for free | ⚪ Long-tail | 1 | Informational | `/blog/sell-donate-or-dispose-old-furniture-dubai` | Live — link to DM guide when published |
+| 52 | how to dispose furniture in dubai | 🟡 Good | 1 | Informational | `/blog/how-to-dispose-of-furniture-in-dubai` | Live (primary) |
+| 53 | how to dispose old furniture in dubai for free | ⚪ Long-tail | 1 | Informational | `/blog/sell-donate-or-dispose-old-furniture-dubai` | Live — links to DM guide |
 | 54 | how to get rid of unwanted furniture in dubai | ⚪ Long-tail | 1 | Informational | `/blog/sell-donate-or-dispose-old-furniture-dubai` | Live |
 | 55 | where to throw old furniture in dubai | 🟡 Good | 1 | Informational | `/blog/sell-donate-or-dispose-old-furniture-dubai` | Live |
-| 56 | how to dispose sofa in dubai | 🟡 Good | 1 | Informational | — | Planned: how to dispose of a sofa in Dubai |
+| 56 | how to dispose sofa in dubai | 🟡 Good | 1 | Informational | `/blog/how-to-dispose-of-an-old-sofa-in-dubai` | Live (primary) |
 | 57 | how to dispose old mattress in dubai | 🟡 Good | 2 | Informational | `/blog/how-to-get-rid-of-an-old-mattress-in-dubai` | Live (primary) |
 | 58 | how to dispose of dining table and chairs | 🟡 Good | 1 | Informational | `/services/dining-table-chair-removal` | Live (FAQ) — blog optional |
 | 59 | how to dispose of a fridge | 🟡 Good | 1 | Informational | — | Planned: appliance disposal guide |

@@ -104,7 +104,7 @@ const post: Post = {
     },
     { h3: "Option 1: Dubai Municipality bulky-waste collection" },
     {
-      p: "Dubai Municipality offers a free collection for bulky household waste such as furniture and appliances. According to the municipality, it isn't available in real-estate development zones and free zones, which excludes many master-planned communities and free-zone towers. Where it is available, you request a collection and leave the item at an agreed point on the scheduled day. Check eligibility and current details on the [Dubai Municipality website](https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/).",
+      p: "Dubai Municipality offers a free collection for bulky household waste such as furniture and appliances. Its current listing excludes investment zones, while earlier detailed guidance describes real-estate development zones and free zones. Where it is available, you request a collection and follow the confirmed handover instructions. Check eligibility and preparation in our [Dubai Municipality bulky-waste collection guide](/blog/dubai-municipality-bulky-waste-collection).",
     },
     { h3: "Option 2: a private furniture removal" },
     {
@@ -175,7 +175,7 @@ const post: Post = {
     },
     { h2: "Mixing all three" },
     {
-      p: "Most homes end up with a mix: a couple of pieces to sell, a few to donate and the rest to clear. Sorting early — and booking one collection for everything that's left — saves a lot of back-and-forth. If you're clearing a whole home, our [villa move-out checklist](/blog/villa-move-out-clearance-checklist-dubai) walks you through the full timeline.",
+      p: "Most homes end up with a mix: a couple of pieces to sell, a few to donate and the rest to clear. Sorting early — and booking one collection for everything that's left — saves a lot of back-and-forth. Compare every route in [how to dispose of furniture in Dubai](/blog/how-to-dispose-of-furniture-in-dubai), or use our [villa move-out checklist](/blog/villa-move-out-clearance-checklist-dubai) for a whole-home timeline.",
     },
   ],
   faqs: [

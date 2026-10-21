@@ -8,6 +8,9 @@ import sellDonate from "./posts/sell-donate-or-dispose-old-furniture-dubai";
 import apartmentPrep from "./posts/prepare-apartment-for-furniture-removal-dubai";
 import luxury from "./posts/how-to-move-luxury-furniture-without-damage";
 import garage from "./posts/garage-storeroom-declutter-guide";
+import municipalityBulkyWaste from "./posts/dubai-municipality-bulky-waste-collection";
+import furnitureDisposal from "./posts/how-to-dispose-of-furniture-in-dubai";
+import sofaDisposal from "./posts/how-to-dispose-of-an-old-sofa-in-dubai";
 
 export type Block =
   | { h2: string }
@@ -43,7 +46,17 @@ export type Post = {
   faqs: Faq[];
 };
 
-export const posts: Post[] = [mattress, villaChecklist, sellDonate, apartmentPrep, luxury, garage];
+export const posts: Post[] = [
+  mattress,
+  villaChecklist,
+  sellDonate,
+  apartmentPrep,
+  luxury,
+  garage,
+  municipalityBulkyWaste,
+  furnitureDisposal,
+  sofaDisposal,
+];
 
 export function getPost(slug: string) {
   return posts.find((p) => p.slug === slug);

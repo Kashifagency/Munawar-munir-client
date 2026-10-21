@@ -126,10 +126,10 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 4 | furniture removal apartment dubai / service lift | How to Prepare Your Dubai Apartment for Furniture Removal | Info | furniture-removal | ✅ |
 | 5 | moving luxury furniture dubai | How Professionals Move Luxury Furniture Without Damage | Info | luxury-furniture-removal | ✅ |
 | 6 | garage declutter / garage clearance dubai | Garage & Storeroom Declutter Guide | Info | garage-storeroom-clearance | ✅ |
-| 7 | dubai municipality bulky waste collection | Dubai Municipality Bulky Waste Collection: How It Works and When You Need a Private Service | Info → commercial | furniture-removal, junk-removal | 🟡 P1 |
-| 8 | how to dispose of furniture in dubai | How to Dispose of Furniture in Dubai: Every Option Compared | Info → commercial | furniture-removal | 🟡 P1 |
+| 7 | dubai municipality bulky waste collection | Dubai Municipality Bulky Waste Collection: How It Works and When You Need a Private Service | Info → commercial | furniture-removal, junk-removal | ✅ |
+| 8 | how to dispose of furniture in dubai | How to Dispose of Furniture in Dubai: Every Option Compared | Info → commercial | furniture-removal | ✅ |
 | 9 | furniture removal cost dubai | How Much Does Furniture Removal Cost in Dubai? *(needs client price ranges)* | Commercial | furniture-removal, junk-removal | 🟡 P1 |
-| 10 | sofa disposal dubai | How to Dispose of an Old Sofa in Dubai | Info → commercial | sofa-removal | 🟡 P1 |
+| 10 | how to dispose sofa in dubai | How to Dispose of an Old Sofa in Dubai | Info → commercial | sofa-removal | ✅ |
 | 11 | appliance disposal dubai | How to Dispose of an Old Fridge, Washing Machine or AC in Dubai | Info → commercial | appliance-removal | 🟡 P1 |
 | 12 | leaving uae what to do with furniture | Leaving the UAE? What to Do With Your Furniture Before You Go | Info | villa-furniture-clearance, furniture-pickup-disposal | 🟡 P1 |
 | 13 | move out permit dubai | Move-Out Permits, NOCs and Service Lifts in Dubai Buildings Explained | Info | furniture-removal | 🟡 P2 |

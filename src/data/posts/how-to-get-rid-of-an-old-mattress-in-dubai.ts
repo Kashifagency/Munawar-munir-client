@@ -53,7 +53,7 @@ const post: Post = {
     },
     { h3: "3. Dubai Municipality bulky-waste collection" },
     {
-      p: "Dubai Municipality runs a free bulky-waste collection for household items such as furniture and appliances. According to the municipality, the service isn't available in real-estate development zones and free zones, which rules it out for many master-planned communities. Where it is available, you request a collection through the municipality's channels and leave the item at an agreed collection point on the scheduled day. Check the current details on the [Dubai Municipality website](https://www.dm.gov.ae/dubai-municipality-promotes-waste-segregation-through-free-bulky-waste-disposal-service/) before you book, as procedures can change.",
+      p: "Dubai Municipality runs a free bulky-waste collection for household furniture and appliances. Its current listing excludes investment zones, while earlier detailed guidance describes real-estate development zones and free zones. Where it is available, submit the item and address through the official channel and follow the confirmed handover instructions. Our [Dubai Municipality bulky-waste collection guide](/blog/dubai-municipality-bulky-waste-collection) explains the current eligibility wording and preparation steps.",
     },
     {
       p: "The trade-off is that you usually have to get the mattress down to the collection point yourself, and you work around the municipality's schedule rather than your own.",
