@@ -43,8 +43,8 @@ The 100 search terms we target, which page owns each one, and what to build next
 | 🟢 Strong demand | 25 |
 | 🟡 Good demand | 61 |
 | ⚪ Long-tail | 14 |
-| **Already targeted by a live page** | **62** |
-| Covered by planned articles | 34 |
+| **Already targeted by a live page** | **71** |
+| Covered by planned articles | 25 |
 | Gaps (client decision) | 3 |
 | Needs real reviews | 1 |
 
@@ -152,7 +152,7 @@ The 100 search terms we target, which page owns each one, and what to build next
 | 56 | how to dispose sofa in dubai | 🟡 Good | 1 | Informational | `/blog/how-to-dispose-of-an-old-sofa-in-dubai` | Live (primary) |
 | 57 | how to dispose old mattress in dubai | 🟡 Good | 2 | Informational | `/blog/how-to-get-rid-of-an-old-mattress-in-dubai` | Live (primary) |
 | 58 | how to dispose of dining table and chairs | 🟡 Good | 1 | Informational | `/services/dining-table-chair-removal` | Live (FAQ) — blog optional |
-| 59 | how to dispose of a fridge | 🟡 Good | 1 | Informational | — | Planned: appliance disposal guide |
+| 59 | how to dispose of a fridge | 🟡 Good | 1 | Informational | `/blog/how-to-dispose-of-a-fridge-in-dubai` | Live (primary) |
 
 ### Sofa
 
@@ -183,13 +183,13 @@ The 100 search terms we target, which page owns each one, and what to build next
 
 | # | Keyword | Demand | Seen | Intent | Target URL | Status |
 | ---: | --- | --- | ---: | --- | --- | --- |
-| 70 | furniture donation dubai | 🟡 Good | 2 | Informational | — | Planned: where to donate furniture in Dubai (primary) |
-| 71 | donate furniture dubai | 🟢 Strong | 2 | Informational | — | Planned: where to donate furniture in Dubai |
-| 72 | furniture donation dubai pickup | ⚪ Long-tail | 1 | Informational | — | Planned: where to donate furniture in Dubai |
-| 73 | charity furniture collection dubai | 🟡 Good | 1 | Informational | — | Planned: where to donate furniture in Dubai |
-| 74 | where to donate furniture in dubai | 🟡 Good | 2 | Informational | — | Planned: where to donate furniture in Dubai |
-| 75 | give away furniture dubai | 🟡 Good | 1 | Informational | — | Planned: where to donate furniture in Dubai |
-| 76 | furniture charity dubai | 🟡 Good | 2 | Informational | — | Planned: where to donate furniture in Dubai |
+| 70 | furniture donation dubai | 🟡 Good | 2 | Informational | `/blog/where-to-donate-furniture-in-dubai` | Live (secondary) |
+| 71 | donate furniture dubai | 🟢 Strong | 2 | Informational | `/blog/where-to-donate-furniture-in-dubai` | Live (secondary) |
+| 72 | furniture donation dubai pickup | ⚪ Long-tail | 1 | Informational | `/blog/where-to-donate-furniture-in-dubai` | Live (secondary) |
+| 73 | charity furniture collection dubai | 🟡 Good | 1 | Informational | `/blog/where-to-donate-furniture-in-dubai` | Live (secondary) |
+| 74 | where to donate furniture in dubai | 🟡 Good | 2 | Informational | `/blog/where-to-donate-furniture-in-dubai` | Live (primary) |
+| 75 | give away furniture dubai | 🟡 Good | 1 | Informational | `/blog/where-to-donate-furniture-in-dubai` | Live (secondary) |
+| 76 | furniture charity dubai | 🟡 Good | 2 | Informational | `/blog/where-to-donate-furniture-in-dubai` | Live (secondary) |
 | 77 | where to sell used furniture in dubai | 🟢 Strong | 3 | Informational | `/blog/sell-donate-or-dispose-old-furniture-dubai` | Live (secondary) |
 | 78 | sell used furniture dubai | 🟡 Good | 1 | Adjacent (wants to sell) | `/blog/sell-donate-or-dispose-old-furniture-dubai` | Live (secondary) — don't target directly |
 
@@ -238,7 +238,7 @@ The 100 search terms we target, which page owns each one, and what to build next
 
 | # | Keyword | Demand | Seen | Intent | Target URL | Status |
 | ---: | --- | --- | ---: | --- | --- | --- |
-| 100 | move out permit dubai | ⚪ Long-tail | 1 | Informational | — | Planned: move-out permits and service lifts guide |
+| 100 | move out permit dubai | ⚪ Long-tail | 1 | Informational | `/blog/move-out-permit-service-lift-guide-dubai` | Live (primary) |
 
 ---
 

@@ -11,6 +11,9 @@ import garage from "./posts/garage-storeroom-declutter-guide";
 import municipalityBulkyWaste from "./posts/dubai-municipality-bulky-waste-collection";
 import furnitureDisposal from "./posts/how-to-dispose-of-furniture-in-dubai";
 import sofaDisposal from "./posts/how-to-dispose-of-an-old-sofa-in-dubai";
+import donateFurniture from "./posts/where-to-donate-furniture-in-dubai";
+import fridgeDisposal from "./posts/how-to-dispose-of-a-fridge-in-dubai";
+import moveOutPermits from "./posts/move-out-permit-service-lift-guide-dubai";
 
 export type Block =
   | { h2: string }
@@ -56,6 +59,9 @@ export const posts: Post[] = [
   municipalityBulkyWaste,
   furnitureDisposal,
   sofaDisposal,
+  donateFurniture,
+  fridgeDisposal,
+  moveOutPermits,
 ];
 
 export function getPost(slug: string) {
