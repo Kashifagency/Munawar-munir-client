@@ -130,12 +130,12 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 8 | how to dispose of furniture in dubai | How to Dispose of Furniture in Dubai: Every Option Compared | Info → commercial | furniture-removal | ✅ |
 | 9 | furniture removal cost dubai | How Much Does Furniture Removal Cost in Dubai? *(needs client price ranges)* | Commercial | furniture-removal, junk-removal | 🟡 P1 |
 | 10 | how to dispose sofa in dubai | How to Dispose of an Old Sofa in Dubai | Info → commercial | sofa-removal | ✅ |
-| 11 | appliance disposal dubai | How to Dispose of an Old Fridge, Washing Machine or AC in Dubai | Info → commercial | appliance-removal | 🟡 P1 |
-| 12 | leaving uae what to do with furniture | Leaving the UAE? What to Do With Your Furniture Before You Go | Info | villa-furniture-clearance, furniture-pickup-disposal | 🟡 P1 |
-| 13 | move out permit dubai | Move-Out Permits, NOCs and Service Lifts in Dubai Buildings Explained | Info | furniture-removal | 🟡 P2 |
-| 14 | donate furniture dubai | Where to Donate Furniture in Dubai *(verify every organisation before publishing)* | Info | furniture-pickup-disposal | 🟡 P2 |
-| 15 | how to choose junk removal company dubai | How to Choose a Furniture or Junk Removal Company in Dubai: 8 Checks | Commercial investigation | junk-removal | 🟡 P2 |
-| 16 | office clearance dubai checklist | Office Clearance Checklist for Dubai Businesses | Info → commercial | office-furniture-removal | 🟡 P2 |
+| 11 | appliance disposal dubai | How to Dispose of an Old Fridge, Washing Machine or AC in Dubai | Info → commercial | appliance-removal | ✅ |
+| 12 | leaving uae what to do with furniture | Leaving the UAE? What to Do With Your Furniture Before You Go | Info | villa-furniture-clearance, furniture-pickup-disposal | ✅ |
+| 13 | move out permit dubai | Move-Out Permits, NOCs and Service Lifts in Dubai Buildings Explained | Info | furniture-removal | ✅ |
+| 14 | donate furniture dubai | Where to Donate Furniture in Dubai *(verify every organisation before publishing)* | Info | furniture-pickup-disposal | ✅ |
+| 15 | how to choose junk removal company dubai | How to Choose a Furniture or Junk Removal Company in Dubai: 8 Checks | Commercial investigation | junk-removal | ✅ |
+| 16 | office clearance dubai checklist | Office Clearance Checklist for Dubai Businesses | Info → commercial | office-furniture-removal | ✅ |
 | 17 | landlord furniture removal between tenants | A Landlord's Guide to Clearing Furniture Between Tenants | Info | villa-furniture-clearance | 🟡 P2 |
 | 18 | holiday home furniture refresh dubai | Refreshing a Holiday Home: Clearing Old Furniture and Mattresses in Bulk | Info | mattress-removal, furniture-removal | 🟡 P3 |
 | 19 | how to dismantle wardrobe for moving | How to Dismantle a Wardrobe (and When to Call a Pro) | Info | wardrobe-cabinet-removal | 🟡 P3 |
