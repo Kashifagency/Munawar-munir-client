@@ -136,9 +136,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 14 | donate furniture dubai | Where to Donate Furniture in Dubai *(verify every organisation before publishing)* | Info | furniture-pickup-disposal | ✅ |
 | 15 | how to choose junk removal company dubai | How to Choose a Furniture or Junk Removal Company in Dubai: 8 Checks | Commercial investigation | junk-removal | ✅ |
 | 16 | office clearance dubai checklist | Office Clearance Checklist for Dubai Businesses | Info → commercial | office-furniture-removal | ✅ |
-| 17 | landlord furniture removal between tenants | A Landlord's Guide to Clearing Furniture Between Tenants | Info | villa-furniture-clearance | 🟡 P2 |
-| 18 | holiday home furniture refresh dubai | Refreshing a Holiday Home: Clearing Old Furniture and Mattresses in Bulk | Info | mattress-removal, furniture-removal | 🟡 P3 |
-| 19 | how to dismantle wardrobe for moving | How to Dismantle a Wardrobe (and When to Call a Pro) | Info | wardrobe-cabinet-removal | 🟡 P3 |
+| 17 | landlord furniture removal between tenants | A Landlord's Guide to Clearing Furniture Between Tenants | Info | villa-furniture-clearance | ✅ |
+| 18 | holiday home furniture refresh dubai | Refreshing a Holiday Home: Clearing Old Furniture and Mattresses in Bulk | Info | mattress-removal, furniture-removal | ✅ |
+| 19 | how to dismantle wardrobe for moving | How to Dismantle a Wardrobe (and When to Call a Pro) | Info | wardrobe-cabinet-removal | ✅ |
 | 20 | dispose garden furniture dubai | What to Do With Sun-Damaged Garden Furniture | Info | villa-furniture-clearance | 🟡 P3 |
 | 21 | water damaged furniture disposal dubai | Water-Damaged Furniture After Heavy Rain: What to Keep and What to Clear | Info (seasonal) | furniture-removal | 🟡 P3 |
 | 22 | moving furniture dubai summer heat | Moving Furniture in Dubai's Summer: Protecting Leather, Wood and Lacquer | Info | luxury-furniture-removal | 🟡 P3 |

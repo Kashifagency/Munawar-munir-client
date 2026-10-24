@@ -191,7 +191,7 @@ const post: Post = {
       p: "Garages and storerooms are where move-outs stall. Old paint, broken bikes, boxes from three moves ago — it adds up. Clearing them early, or booking a [garage and storeroom clearance](/services/garage-storeroom-clearance), keeps the final week calm. Our [garage and storeroom declutter guide](/blog/garage-storeroom-declutter-guide) walks you through sorting it in a single day.",
     },
     {
-      p: "Paint tins, chemicals, gas cylinders and car batteries are hazardous and can't go with general [junk removal](/services/junk-removal). Set them aside early and check with your community management about the correct way to dispose of them.",
+      p: "Paint tins, chemicals, gas cylinders and car batteries are hazardous and can't go with general [junk removal](/services/junk-removal). Set them aside early and check with your community management about the correct way to dispose of them. If you are a property owner preparing for an incoming lease rather than a departing tenant, consult our dedicated [landlord guide to clearing furniture between tenants](/blog/landlord-furniture-removal-between-tenants-dubai) for deposit deduction protocols and turnover workflows.",
     },
     { h2: "A simple timeline you can copy" },
     {

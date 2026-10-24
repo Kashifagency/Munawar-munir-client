@@ -17,6 +17,9 @@ import moveOutPermits from "./posts/move-out-permit-service-lift-guide-dubai";
 import leavingUae from "./posts/leaving-uae-what-to-do-with-furniture";
 import chooseJunkRemoval from "./posts/how-to-choose-junk-removal-company-dubai";
 import officeChecklist from "./posts/office-clearance-checklist-dubai";
+import landlordFurniture from "./posts/landlord-furniture-removal-between-tenants-dubai";
+import holidayHomeRefresh from "./posts/holiday-home-furniture-refresh-dubai";
+import wardrobeDismantle from "./posts/how-to-dismantle-wardrobe-for-moving-dubai";
 
 export type Block =
   | { h2: string }
@@ -68,6 +71,9 @@ export const posts: Post[] = [
   leavingUae,
   chooseJunkRemoval,
   officeChecklist,
+  landlordFurniture,
+  holidayHomeRefresh,
+  wardrobeDismantle,
 ];
 
 export function getPost(slug: string) {

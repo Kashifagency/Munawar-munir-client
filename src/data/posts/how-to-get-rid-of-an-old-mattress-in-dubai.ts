@@ -161,7 +161,7 @@ const post: Post = {
     },
     { h2: "Replacing several mattresses at once" },
     {
-      p: "Landlords, holiday-home operators and families refreshing several bedrooms often replace mattresses in one go. Arrange a single collection for all of them on the day the new ones arrive, so old mattresses never pile up in a spare room, maid's room or on a balcony. For bigger refreshes that include frames, wardrobes and side tables, a full [furniture pickup](/services/furniture-pickup-disposal) is usually simpler than booking item by item.",
+      p: "Landlords, holiday-home operators and families refreshing several bedrooms often replace mattresses in one go. Arrange a single collection for all of them on the day the new ones arrive, so old mattresses never pile up in a spare room, maid's room or on a balcony. If you manage short-term rentals, follow our targeted guide on [refreshing holiday home furniture and bulk mattresses](/blog/holiday-home-furniture-refresh-dubai) to coordinate turnover schedules without losing booking nights. For bigger refreshes that include frames, wardrobes and side tables, a full [furniture pickup](/services/furniture-pickup-disposal) is usually simpler than booking item by item.",
     },
     { h2: "How to keep your next mattress in good shape" },
     {
