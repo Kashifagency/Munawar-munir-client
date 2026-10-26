@@ -165,7 +165,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Clearing a whole property rather than a few pieces? Combine a [luxury furniture removal](/services/luxury-furniture-removal) with a full [villa furniture clearance](/services/villa-furniture-clearance), and have marble or glass [dining tables](/services/dining-table-chair-removal) handled by the same careful crew. Our guide to [preparing an apartment for furniture removal](/blog/prepare-apartment-for-furniture-removal-dubai) covers lifts, permits and access in towers.",
+      p: "Clearing a whole property rather than a few pieces? Combine a [luxury furniture removal](/services/luxury-furniture-removal) with a full [villa furniture clearance](/services/villa-furniture-clearance), and have marble or glass [dining tables](/services/dining-table-chair-removal) handled by the same careful crew. Our guide to [preparing an apartment for furniture removal](/blog/prepare-apartment-for-furniture-removal-dubai) covers lifts, permits and access in towers. When relocating in peak temperatures, consult our specialist advice on [moving furniture in Dubai summer heat](/blog/moving-furniture-dubai-summer-heat) to protect leather and wood finishes.",
     },
   ],
   faqs: [

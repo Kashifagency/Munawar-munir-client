@@ -48,7 +48,7 @@ const post: Post = {
     {
       ul: [
         "Start with the garage, storeroom and maid's room — they're where move-outs stall.",
-        "Sort garden furniture, planters, barbecues and outdoor equipment.",
+        "Sort patio sets and review our guide on [sun-damaged garden furniture disposal](/blog/dispose-sun-damaged-garden-furniture-dubai), planters, barbecues and outdoor equipment.",
         "Empty kitchen cupboards you rarely use and pack or donate the contents.",
         "Book your [villa furniture clearance](/services/villa-furniture-clearance) for after the movers, or on the same day.",
         "Confirm community rules for removal trucks: allowed hours, gate passes, where vehicles can park.",

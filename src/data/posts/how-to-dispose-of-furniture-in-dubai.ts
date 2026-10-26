@@ -177,7 +177,7 @@ const post: Post = {
       ],
     },
     {
-      p: "For a larger property, work room by room rather than creating one pile. A [villa furniture clearance](/services/villa-furniture-clearance) can cover bedrooms, living areas, garage and outdoor furniture under one access plan. The [villa move-out clearance checklist](/blog/villa-move-out-clearance-checklist-dubai) adds utilities, documents and final inspection tasks.",
+      p: "For a larger property, work room by room rather than creating one pile. A [villa furniture clearance](/services/villa-furniture-clearance) can cover bedrooms, living areas, garage and outdoor furniture under one access plan. The [villa move-out clearance checklist](/blog/villa-move-out-clearance-checklist-dubai) adds utilities, documents and final inspection tasks. In cases of rain leaks or flooding, consult our emergency guide on [water-damaged furniture disposal in Dubai](/blog/water-damaged-furniture-disposal-dubai).",
     },
     { h2: "Mistakes to avoid when disposing of furniture" },
     {

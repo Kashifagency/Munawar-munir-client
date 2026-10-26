@@ -139,9 +139,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 17 | landlord furniture removal between tenants | A Landlord's Guide to Clearing Furniture Between Tenants | Info | villa-furniture-clearance | ✅ |
 | 18 | holiday home furniture refresh dubai | Refreshing a Holiday Home: Clearing Old Furniture and Mattresses in Bulk | Info | mattress-removal, furniture-removal | ✅ |
 | 19 | how to dismantle wardrobe for moving | How to Dismantle a Wardrobe (and When to Call a Pro) | Info | wardrobe-cabinet-removal | ✅ |
-| 20 | dispose garden furniture dubai | What to Do With Sun-Damaged Garden Furniture | Info | villa-furniture-clearance | 🟡 P3 |
-| 21 | water damaged furniture disposal dubai | Water-Damaged Furniture After Heavy Rain: What to Keep and What to Clear | Info (seasonal) | furniture-removal | 🟡 P3 |
-| 22 | moving furniture dubai summer heat | Moving Furniture in Dubai's Summer: Protecting Leather, Wood and Lacquer | Info | luxury-furniture-removal | 🟡 P3 |
+| 20 | dispose garden furniture dubai | What to Do With Sun-Damaged Garden Furniture | Info | villa-furniture-clearance | ✅ |
+| 21 | water damaged furniture disposal dubai | Water-Damaged Furniture After Heavy Rain: What to Keep and What to Clear | Info (seasonal) | furniture-removal | ✅ |
+| 22 | moving furniture dubai summer heat | Moving Furniture in Dubai's Summer: Protecting Leather, Wood and Lacquer | Info | luxury-furniture-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 
