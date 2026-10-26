@@ -8,7 +8,7 @@ const post: Post = {
     "Protect fine leather, solid wood, and delicate finishes during Dubai's intense summer heat. Expert moving guidelines, climate protection, and packing rules.",
   keyword: "moving furniture dubai summer heat",
   category: "Furniture care",
-  date: "2026-10-27",
+  date: "2026-10-26",
   image: "/images/luxury.jpg",
   imageAlt:
     "Professional crew wrapping and protecting fine leather and hardwood furniture for relocation during Dubai summer heat",

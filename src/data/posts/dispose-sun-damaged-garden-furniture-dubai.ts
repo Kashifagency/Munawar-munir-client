@@ -8,7 +8,7 @@ const post: Post = {
     "How to assess, restore, or dispose of sun-damaged garden furniture in Dubai. Guide for weathered teak, brittle wicker, rusted aluminium, and patio clearance.",
   keyword: "dispose garden furniture dubai",
   category: "Furniture care",
-  date: "2026-10-25",
+  date: "2026-10-26",
   image: "/images/villa-garden.jpg",
   imageAlt:
     "Sun-damaged outdoor patio and garden furniture in a Dubai villa courtyard needing restoration or disposal",
