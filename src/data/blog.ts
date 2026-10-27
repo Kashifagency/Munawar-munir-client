@@ -23,6 +23,9 @@ import wardrobeDismantle from "./posts/how-to-dismantle-wardrobe-for-moving-duba
 import gardenFurniture from "./posts/dispose-sun-damaged-garden-furniture-dubai";
 import waterDamaged from "./posts/water-damaged-furniture-disposal-dubai";
 import summerHeat from "./posts/moving-furniture-dubai-summer-heat";
+import bedDismantle from "./posts/how-to-dismantle-and-dispose-of-a-bed-frame-in-dubai";
+import diningTableDisposal from "./posts/how-to-dispose-of-a-dining-table-and-chairs-in-dubai";
+import balconyClearance from "./posts/balcony-furniture-clearance-dubai";
 
 export type Block =
   | { h2: string }
@@ -80,6 +83,9 @@ export const posts: Post[] = [
   gardenFurniture,
   waterDamaged,
   summerHeat,
+  bedDismantle,
+  diningTableDisposal,
+  balconyClearance,
 ];
 
 export function getPost(slug: string) {

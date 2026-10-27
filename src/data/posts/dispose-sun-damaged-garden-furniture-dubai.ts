@@ -194,7 +194,7 @@ const post: Post = {
       ],
     },
     {
-      p: "When clearing garden spaces alongside cluttered sheds or garages, review our companion guide on [garage and storeroom decluttering](/blog/garage-storeroom-declutter-guide) to consolidate your home cleanup in a single coordinated session.",
+      p: "When clearing garden spaces alongside cluttered sheds or garages, review our companion guide on [garage and storeroom decluttering](/blog/garage-storeroom-declutter-guide) to consolidate your home cleanup in a single coordinated session. If you are clearing an elevated terrace or high-rise apartment space rather than a villa garden, our dedicated guide on [balcony furniture clearance in Dubai](/blog/balcony-furniture-clearance-dubai) details high-rise wind safety, floor protection, and service lift booking.",
     },
     { h2: "How TakeJunk handles patio and villa garden furniture removal" },
     {

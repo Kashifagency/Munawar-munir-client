@@ -49,7 +49,7 @@ const post: Post = {
     },
     { h3: "2. Ask the retailer delivering your new one" },
     {
-      p: "Some mattress and furniture shops will take the old mattress away when they deliver the new one. It's worth asking at checkout, but check three things: whether there's a fee, whether they'll carry it from the bedroom or only from the door, and whether they'll take the bed frame too. Many only take a like-for-like item.",
+      p: "Some mattress and furniture shops will take the old mattress away when they deliver the new one. It's worth asking at checkout, but check three things: whether there's a fee, whether they'll carry it from the bedroom or only from the door, and whether they'll take the bed frame too. Many only take a like-for-like item. If you need to clear the bed base alongside the mattress, our guide on [how to dismantle a bed frame in Dubai](/blog/how-to-dismantle-and-dispose-of-a-bed-frame-in-dubai) details the disassembly steps for storage beds, wooden frames, and bunk beds.",
     },
     { h3: "3. Dubai Municipality bulky-waste collection" },
     {

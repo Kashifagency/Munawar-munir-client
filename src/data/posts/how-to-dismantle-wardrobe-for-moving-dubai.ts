@@ -195,7 +195,7 @@ const post: Post = {
       ],
     },
     {
-      p: "For broader insights into protecting fine materials and luxury furnishings during relocation, consult our guide on [how professionals move luxury furniture without damage](/blog/how-to-move-luxury-furniture-without-damage).",
+      p: "For broader insights into protecting fine materials and luxury furnishings during relocation, consult our guide on [how professionals move luxury furniture without damage](/blog/how-to-move-luxury-furniture-without-damage). If you are also dismantling bedroom furniture sets, follow our detailed walkthrough on [how to dismantle a bed frame in Dubai](/blog/how-to-dismantle-and-dispose-of-a-bed-frame-in-dubai) for wooden frames, Ottoman storage beds, and bunk beds.",
     },
     { h2: "When to call a professional removal and dismantling team" },
     {

@@ -142,6 +142,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 20 | dispose garden furniture dubai | What to Do With Sun-Damaged Garden Furniture | Info | villa-furniture-clearance | ✅ |
 | 21 | water damaged furniture disposal dubai | Water-Damaged Furniture After Heavy Rain: What to Keep and What to Clear | Info (seasonal) | furniture-removal | ✅ |
 | 22 | moving furniture dubai summer heat | Moving Furniture in Dubai's Summer: Protecting Leather, Wood and Lacquer | Info | luxury-furniture-removal | ✅ |
+| 23 | how to dismantle a bed | How to Dismantle and Dispose of a Bed Frame in Dubai: Storage, Bunk & Wooden Beds | Info → commercial | bed-removal, mattress-removal | ✅ |
+| 24 | how to dispose of dining table and chairs | How to Dispose of a Dining Table and Chairs in Dubai: Wood, Glass & Marble | Info → commercial | dining-table-chair-removal, furniture-removal | ✅ |
+| 25 | balcony clearance dubai | Balcony and Terrace Furniture Clearance in Dubai: Rules, Removal & Disposal | Info → commercial | garage-storeroom-clearance, furniture-pickup-disposal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

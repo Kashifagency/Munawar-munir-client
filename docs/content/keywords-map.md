@@ -151,7 +151,7 @@ The 100 search terms we target, which page owns each one, and what to build next
 | 55 | where to throw old furniture in dubai | 🟡 Good | 1 | Informational | `/blog/sell-donate-or-dispose-old-furniture-dubai` | Live |
 | 56 | how to dispose sofa in dubai | 🟡 Good | 1 | Informational | `/blog/how-to-dispose-of-an-old-sofa-in-dubai` | Live (primary) |
 | 57 | how to dispose old mattress in dubai | 🟡 Good | 2 | Informational | `/blog/how-to-get-rid-of-an-old-mattress-in-dubai` | Live (primary) |
-| 58 | how to dispose of dining table and chairs | 🟡 Good | 1 | Informational | `/services/dining-table-chair-removal` | Live (FAQ) — blog optional |
+| 58 | how to dispose of dining table and chairs | 🟡 Good | 1 | Informational | `/blog/how-to-dispose-of-a-dining-table-and-chairs-in-dubai` | Live (primary) |
 | 59 | how to dispose of a fridge | 🟡 Good | 1 | Informational | `/blog/how-to-dispose-of-a-fridge-in-dubai` | Live (primary) |
 
 ### Sofa

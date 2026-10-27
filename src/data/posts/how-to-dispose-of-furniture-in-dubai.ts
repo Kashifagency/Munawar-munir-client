@@ -39,7 +39,7 @@ const post: Post = {
     },
     { h2: "Option 1: sell furniture with real resale value" },
     {
-      p: "Selling is worth trying when a piece is in good condition, easy to describe and likely to suit another home. Recognisable brands, recent sofas, solid timber, complete dining sets and well-kept designer pieces tend to justify the time. Large, worn or highly customised furniture is harder to sell because the buyer must solve transport and access too.",
+      p: "Selling is worth trying when a piece is in good condition, easy to describe and likely to suit another home. Recognisable brands, recent sofas, solid timber, complete dining sets and well-kept designer pieces tend to justify the time. If you are clearing large banqueting or family suites, follow our dedicated guide on [how to dispose of a dining table and chairs in Dubai](/blog/how-to-dispose-of-a-dining-table-and-chairs-in-dubai) for advice on unbolting pedestals, handling heavy marble tops, and chair stacking. Large, worn or highly customised furniture is harder to sell because the buyer must solve transport and access too.",
     },
     { h3: "Make the listing useful" },
     {
