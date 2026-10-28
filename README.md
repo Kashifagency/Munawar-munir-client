@@ -16,7 +16,7 @@ npm run seo:audit  # SEO/content audit of the build (run after build)
 | What | File |
 | --- | --- |
 | Brand name, phone, hours, domain | `src/lib/site.ts` |
-| Services (10 furniture + 3 junk, set by `category`) — copy, FAQs, images, SEO titles | `src/data/services.ts` |
+| Services (10 furniture + 5 junk, set by `category`) — copy, FAQs, images, SEO titles | `src/data/services.ts` |
 | Service areas (28) — local copy, nearby links | `src/data/areas.ts` |
 | Homepage FAQs | `src/data/faqs.ts` |
 | Blog articles (add a post = add an entry) | `src/data/blog.ts` |

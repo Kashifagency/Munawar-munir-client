@@ -165,6 +165,14 @@ const paths: Record<string, React.ReactNode> = {
       <path d="M7 4.5h1M10 4.5h1" />
     </>
   ),
+  boxes: (
+    <>
+      <rect x="3" y="12" width="9" height="9" rx="1" />
+      <rect x="12" y="12" width="9" height="9" rx="1" />
+      <rect x="7.5" y="3" width="9" height="9" rx="1" />
+      <path d="M6 12v2.5M15.5 12v2.5M11 3v2.5" />
+    </>
+  ),
   box: (
     <>
       <path d="M21 8 12 3 3 8v8l9 5 9-5z" />

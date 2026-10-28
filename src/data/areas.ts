@@ -128,7 +128,7 @@ export const areas: Area[] = [
     propertyType: "villa",
     summary: "Lagoon-side villas and townhouses.",
     body: "Tilal Al Ghaf's modern villas and townhouses often see furniture upgrades as families settle in. We remove packaging-fresh items, old pieces from previous homes and outdoor furniture from lagoon-facing terraces.",
-    popular: ["furniture-removal", "furniture-pickup-disposal", "villa-furniture-clearance"],
+    popular: ["furniture-removal", "cardboard-box-removal", "villa-furniture-clearance"],
     nearby: ["arabian-ranches", "al-barsha-3", "jumeirah-park", "dubai-hills-estate"],
   },
   {
@@ -146,7 +146,7 @@ export const areas: Area[] = [
     propertyType: "apartment",
     summary: "Waterfront high-rise apartments.",
     body: "Dubai Creek Harbour's newer towers have well-organised loading facilities, and we work within their booking systems to make removals quick and smooth for residents moving in or upgrading.",
-    popular: ["furniture-removal", "sofa-removal", "mattress-removal"],
+    popular: ["furniture-removal", "cardboard-box-removal", "sofa-removal"],
     nearby: ["dubai-festival-city", "downtown-dubai", "business-bay", "nad-al-sheba"],
   },
   {
@@ -191,7 +191,7 @@ export const areas: Area[] = [
     propertyType: "villa",
     summary: "Spacious family villas with large gardens.",
     body: "Jumeirah Park villas are known for their large plots and family living spaces. We clear everything from kids' furniture to outdoor dining sets and garage storage.",
-    popular: ["villa-furniture-clearance", "furniture-removal", "bed-removal"],
+    popular: ["villa-furniture-clearance", "garden-waste-removal", "furniture-removal"],
     nearby: ["jumeirah-islands", "the-meadows", "jumeirah-lakes-towers", "jumeirah-village-circle"],
   },
   {
@@ -209,7 +209,7 @@ export const areas: Area[] = [
     propertyType: "villa",
     summary: "Leafy family villas around lakes and parks.",
     body: "The Meadows' established family villas often come with plenty of furniture accumulated over the years. We provide full clearances, single-room removals and garden furniture pickups.",
-    popular: ["villa-furniture-clearance", "furniture-removal", "wardrobe-cabinet-removal"],
+    popular: ["villa-furniture-clearance", "garden-waste-removal", "furniture-removal"],
     nearby: ["the-springs", "the-lakes", "emirates-hills", "jumeirah-park"],
   },
   {

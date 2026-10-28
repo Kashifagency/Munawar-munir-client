@@ -157,7 +157,7 @@ const post: Post = {
         "Fold umbrellas and remove heavy bases.",
         "Check the roof and side passages for stored items.",
         "Clear the pool area of floats, covers and furniture.",
-        "Remove any garden waste the landlord expects you to clear.",
+        "Remove any [garden waste](/services/garden-waste-removal) the landlord expects you to clear — palm fronds, clippings and old soil included.",
       ],
     },
     { h2: "The rooms people forget" },

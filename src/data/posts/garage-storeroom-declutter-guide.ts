@@ -79,7 +79,7 @@ const post: Post = {
     { h2: "Things that usually go" },
     {
       ul: [
-        "Boxes from previous moves that were never unpacked",
+        "Boxes from previous moves that were never unpacked — a [cardboard box removal](/services/cardboard-box-removal) takes them all in one go",
         "Broken fans, heaters and small appliances",
         "Old bikes, scooters, toys and sports equipment nobody uses",
         "Leftover tiles, wood and fit-out materials",

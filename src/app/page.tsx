@@ -5,7 +5,7 @@ import { pageMetadata } from "@/lib/seo";
 import { areas } from "@/data/areas";
 import { furnitureServices, junkServices } from "@/data/services";
 import { generalFaqs } from "@/data/faqs";
-import { site } from "@/lib/site";
+import { site, whatsappHref } from "@/lib/site";
 import { Icon } from "@/components/Icon";
 import { BookingForm } from "@/components/BookingForm";
 import { AreaPills, FaqList, ServiceCard, TrustStrip } from "@/components/blocks";
@@ -166,8 +166,8 @@ export default function Home() {
               <Eyebrow>Junk removal too</Eyebrow>
               <h3 className="font-display text-3xl leading-tight font-medium sm:text-4xl">Clearing more than just furniture</h3>
               <p className="mt-4 leading-relaxed text-stone">
-                Household clutter, old appliances, boxes and garage junk — cleared in the same visit as your furniture,
-                and sorted for donation and recycling.
+                Household clutter, old appliances, cardboard boxes, garden waste and garage junk — cleared in the same
+                visit as your furniture, and sorted for donation and recycling.
               </p>
               <div className="mt-7 flex flex-wrap gap-3">
                 <Link
@@ -203,6 +203,22 @@ export default function Home() {
                   </Link>
                 </li>
               ))}
+              <li>
+                <a
+                  href={whatsappHref("Hi TakeJunk, I have some junk to clear. Here are a few photos:")}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="group flex aspect-[4/3] flex-col justify-end rounded-2xl bg-forest p-5 text-cream transition hover:bg-forest-600"
+                >
+                  <span className="grid size-10 place-items-center rounded-xl bg-cream/10 text-brass-300">
+                    <Icon name="camera" className="size-[18px]" />
+                  </span>
+                  <span className="mt-4 font-display text-lg font-medium">Something else?</span>
+                  <span className="mt-1 text-sm leading-relaxed text-cream/75">
+                    Send a photo on WhatsApp — if it&apos;s not hazardous, we can usually take it.
+                  </span>
+                </a>
+              </li>
             </ul>
           </div>
         </Container>

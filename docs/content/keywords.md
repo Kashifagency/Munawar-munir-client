@@ -160,7 +160,7 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | Opportunity | Evidence | Needs |
 | --- | --- | --- |
 | New area pages: JBR, JVT, Al Furjan, Motor City, Sports City, Town Square, Mudon, Al Barari, DAMAC Hills 2, The Greens, Jumeirah Golf Estates, Bluewaters, Meydan | Competitors rank with these | Client confirms they serve the area |
-| Garden waste removal page | Both reference competitors have it | Client confirms the service |
+| ~~Garden waste removal page~~ | Both reference competitors have it | ✅ Done 29 Oct 2026 — `/services/garden-waste-removal` (plus `/services/cardboard-box-removal`) |
 | E-waste / electronics page | One competitor has it | Client confirms how e-waste is handled (and with which licensed recycler) |
 | Carpet & rug removal page | Common removal item | Client confirms |
 | Cost page or pricing section | High commercial intent | Client provides real price ranges |

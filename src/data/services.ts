@@ -11,7 +11,9 @@ export type IconName =
   | "truck"
   | "trash"
   | "appliance"
-  | "box";
+  | "box"
+  | "leaf"
+  | "boxes";
 
 export type Faq = { q: string; a: string };
 
@@ -409,7 +411,7 @@ export const services: Service[] = [
       { q: "Do you clear garden and pool furniture?", a: "Yes — loungers, umbrellas, outdoor dining sets, planters and garden furniture are all included." },
       { q: "Can you leave certain items behind?", a: "Of course. Just mark or tell us what stays, and we'll clear everything else." },
     ],
-    related: ["luxury-furniture-removal", "garage-storeroom-clearance", "junk-removal", "furniture-pickup-disposal"],
+    related: ["luxury-furniture-removal", "garage-storeroom-clearance", "junk-removal", "garden-waste-removal"],
   },
   {
     slug: "furniture-pickup-disposal",
@@ -492,7 +494,7 @@ export const services: Service[] = [
       { q: "Can you remove junk and furniture in the same visit?", a: "Yes — most clients combine both. We price everything together so it's one booking and one price." },
       { q: "How is junk removal priced?", a: "Mainly by volume and access. A few photos on WhatsApp are enough for a fixed price." },
     ],
-    related: ["garage-storeroom-clearance", "appliance-removal", "furniture-pickup-disposal", "villa-furniture-clearance"],
+    related: ["garage-storeroom-clearance", "appliance-removal", "cardboard-box-removal", "garden-waste-removal"],
   },
   {
     slug: "appliance-removal",
@@ -575,6 +577,122 @@ export const services: Service[] = [
       { q: "What about paint tins and chemicals?", a: "Hazardous materials like paint, chemicals and gas cylinders can't go with general junk. We'll leave them aside and advise on specialist disposal." },
     ],
     related: ["junk-removal", "villa-furniture-clearance", "appliance-removal", "furniture-pickup-disposal"],
+  },
+  {
+    slug: "garden-waste-removal",
+    name: "Garden Waste Removal",
+    shortName: "Garden Waste",
+    category: "junk",
+    icon: "leaf",
+    image: "/images/garden-waste.jpg",
+    imageAlt: "Utility vehicle loaded with green garden waste and branches",
+    metaTitle: "Garden Waste Removal Dubai | Green Waste Collection",
+    metaDescription:
+      "Garden waste removal in Dubai: palm fronds, hedge and tree trimmings, grass, dead plants, soil and old planters bagged and cleared from villas the same day.",
+    excerpt: "Palm fronds, trimmings, grass and old planters cleared from villa gardens.",
+    headline: "Garden and green waste removal for Dubai villas",
+    intro: [
+      "Dubai gardens produce a surprising amount of waste. Palm fronds come down after trimming, hedges and bougainvillea need regular cutting, and a single landscaping project can leave piles of branches, old turf and broken planters. Most of it is too bulky for household bins, and many communities don't allow clippings to be left on the street or in common areas.",
+      "Our crew collects garden waste from wherever it is — the back garden, side passages, roof terraces or around the pool — bags or bundles it, and carries it out to the truck without dragging soil through the house. We often clear straight after a gardener or landscaper has finished, so the job is done in one day.",
+      "Green waste is kept separate from general junk wherever possible, so plant material can go to green-waste processing where facilities accept it rather than general disposal. Planters, pots and garden furniture are sorted for reuse, recycling or licensed disposal.",
+    ],
+    items: [
+      "Palm fronds and tree trimmings",
+      "Hedge, bush and bougainvillea cuttings",
+      "Grass clippings and fallen leaves",
+      "Dead plants and uprooted shrubs",
+      "Old soil, sand and bagged garden waste",
+      "Broken pots, planters and grow bags",
+      "Old turf and artificial grass",
+      "Garden tools, hoses and broken garden furniture",
+    ],
+    highlights: [
+      { title: "After-gardener clear-ups", text: "Book us for the day your gardener or landscaper finishes." },
+      { title: "Clean carry-out", text: "Waste bagged or bundled so soil and leaves stay out of the house." },
+      { title: "Green waste kept separate", text: "Plant material separated from general junk where facilities allow." },
+      { title: "Whole-garden clearances", text: "Clippings, planters and old garden furniture in one visit." },
+    ],
+    faqs: [
+      {
+        q: "Do you cut trees and trim palms?",
+        a: "We remove the waste rather than doing the cutting. Most clients book us for the same day their gardener or landscaper trims trees, palms and hedges, so everything is cleared in one go.",
+      },
+      {
+        q: "Does Dubai Municipality collect garden waste?",
+        a: "Dubai Municipality has offered collection of household green waste in eligible areas, booked through its official channels. Availability and booking steps change, so check with the municipality first. A private service suits larger loads, quick timing or areas where municipal collection isn't available.",
+      },
+      {
+        q: "Can I leave garden waste outside my villa for collection?",
+        a: "Many communities don't allow clippings or bags to be left on the street or in common areas. It's safer to keep garden waste inside your plot until it's collected.",
+      },
+      {
+        q: "Do I need to bag the garden waste first?",
+        a: "No. Our crew can bag or bundle loose clippings, fronds and branches on site. If you've already bagged it, that simply makes the job quicker.",
+      },
+      {
+        q: "What garden waste can't you take?",
+        a: "We don't take hazardous materials such as pesticides, fertilisers, pool chemicals or fuel for garden machinery. Keep them in their containers and ask your community management about safe disposal.",
+      },
+    ],
+    related: ["junk-removal", "villa-furniture-clearance", "garage-storeroom-clearance", "furniture-pickup-disposal"],
+  },
+  {
+    slug: "cardboard-box-removal",
+    name: "Cardboard Box Removal",
+    shortName: "Cardboard Boxes",
+    category: "junk",
+    icon: "boxes",
+    image: "/images/cardboard.jpg",
+    imageAlt: "Pile of brown cardboard moving boxes sealed with tape",
+    metaTitle: "Cardboard Removal Dubai | Box & Packaging Collection",
+    metaDescription:
+      "Cardboard removal in Dubai: moving boxes, furniture and appliance packaging, delivery cartons and office boxes collected and recycled wherever possible.",
+    excerpt: "Moving boxes, packaging and cartons collected and sent for recycling.",
+    headline: "Cardboard box and packaging removal in Dubai",
+    intro: [
+      "Moving into a new home or unboxing new furniture leaves you with a mountain of cardboard. Wardrobe and sofa boxes are huge, appliance cartons come with foam and plastic, and dozens of moving boxes won't fit in a building's recycling bins. Leaving them in corridors, bin rooms or car parks usually isn't allowed.",
+      "Our crew collects cardboard and packaging from inside your home or office — every room, the balcony, the storeroom or the lobby — and loads it straight into the truck. You don't need to flatten or bundle anything first, although flattened boxes make the job faster. We can also take other packaging such as bubble wrap, foam inserts and packing paper in the same visit.",
+      "Clean, dry cardboard is one of the most recyclable materials there is, so we keep it separate from general waste and send it for recycling wherever facilities accept it. Other packaging is sorted for recycling or licensed disposal.",
+    ],
+    items: [
+      "Moving and packing boxes after a relocation",
+      "Furniture packaging: wardrobe, sofa and bed boxes",
+      "Appliance cartons from fridges, washers and TVs",
+      "Delivery and online-shopping boxes",
+      "Office and shop packaging",
+      "Empty archive and storage boxes",
+      "Bubble wrap, foam inserts and packing paper",
+      "Polystyrene, plastic wrap and wooden pallets",
+    ],
+    highlights: [
+      { title: "Move-in clear-ups", text: "Clear every box the day after your movers unpack." },
+      { title: "No flattening needed", text: "We collect boxes as they are, flat or not." },
+      { title: "Recycling first", text: "Clean cardboard kept separate and sent for recycling." },
+      { title: "Homes and offices", text: "From one room of boxes to a full office fit-out." },
+    ],
+    faqs: [
+      {
+        q: "Do I need to flatten the boxes first?",
+        a: "No. We collect boxes flattened or not. If you have time to flatten them, the load takes less space and the collection is quicker.",
+      },
+      {
+        q: "Is the cardboard recycled?",
+        a: "Clean, dry cardboard is kept separate from general waste and sent for recycling wherever facilities accept it. Wet, oily or food-soiled cardboard usually can't be recycled and goes to licensed disposal.",
+      },
+      {
+        q: "Can I leave boxes in my building's bin room?",
+        a: "Most buildings don't allow large amounts of cardboard in bin rooms or corridors because it blocks access and recycling bins. Check with building management, or book a collection instead.",
+      },
+      {
+        q: "Do you take packaging other than cardboard?",
+        a: "Yes. Bubble wrap, foam inserts, packing paper, plastic wrap, polystyrene and wooden pallets can all go in the same collection.",
+      },
+      {
+        q: "Can you collect boxes from an office or shop?",
+        a: "Yes. We clear packaging from offices, shops and fit-outs, including after-hours collections where building rules require them. Remove any documents from boxes first, as we don't provide document shredding.",
+      },
+    ],
+    related: ["junk-removal", "furniture-pickup-disposal", "office-furniture-removal", "garage-storeroom-clearance"],
   },
 ];
 

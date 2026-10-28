@@ -43,9 +43,9 @@ The 100 search terms we target, which page owns each one, and what to build next
 | 🟢 Strong demand | 25 |
 | 🟡 Good demand | 61 |
 | ⚪ Long-tail | 14 |
-| **Already targeted by a live page** | **71** |
+| **Already targeted by a live page** | **72** |
 | Covered by planned articles | 25 |
-| Gaps (client decision) | 3 |
+| Gaps (client decision) | 2 |
 | Needs real reviews | 1 |
 
 ### What the data says
@@ -232,13 +232,45 @@ The 100 search terms we target, which page owns each one, and what to build next
 | 96 | office furniture removal | 🟡 Good | 1 | Commercial | `/services/office-furniture-removal` | Live (use with 'Dubai') |
 | 97 | office furniture disposal | 🟡 Good | 1 | Commercial | `/services/office-furniture-removal` | Live (use with 'Dubai') |
 | 98 | luxury furniture movers in dubai | 🟡 Good | 1 | Commercial | `/services/luxury-furniture-removal` | Live |
-| 99 | garden waste removal dubai | 🟡 Good | 1 | Commercial | — | Gap — client must confirm garden waste service |
+| 99 | garden waste removal dubai | 🟡 Good | 1 | Commercial | `/services/garden-waste-removal` | Live (primary) — service confirmed 29 Oct 2026 |
 
 ### Moving out
 
 | # | Keyword | Demand | Seen | Intent | Target URL | Status |
 | ---: | --- | --- | ---: | --- | --- | --- |
 | 100 | move out permit dubai | ⚪ Long-tail | 1 | Informational | `/blog/move-out-permit-service-lift-guide-dubai` | Live (primary) |
+
+---
+
+## 2b. New service keywords (added 29 October 2026)
+
+The client confirmed **garden waste removal** and **cardboard box removal** as services. Keywords below come from the same Google Autocomplete (UAE) method. They extend the top 100 rather than replacing any of it.
+
+### Garden waste
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| garden waste removal dubai | 🟢 Strong | Commercial | `/services/garden-waste-removal` | Live (primary) |
+| garden waste collection dubai | 🟢 Strong | Commercial | `/services/garden-waste-removal` | Live |
+| garden waste disposal dubai | 🟢 Strong | Commercial | `/services/garden-waste-removal` | Live |
+| green waste removal dubai | 🟡 Good | Commercial | `/services/garden-waste-removal` | Live |
+| green waste collection dubai | 🟡 Good | Commercial | `/services/garden-waste-removal` | Live |
+| green waste disposal dubai | 🟡 Good | Commercial | `/services/garden-waste-removal` | Live |
+| garden waste removal dubai price | 🟢 Strong | Commercial | — | Planned: cost guide — needs client prices |
+| free garden waste removal dubai | 🟢 Strong | Informational | — | Planned: Dubai Municipality bulky & green waste guide |
+| dubai municipality garden waste collection | 🟡 Good | Informational | — | Planned: Dubai Municipality bulky & green waste guide |
+
+### Cardboard boxes
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| cardboard removal dubai | 🟢 Strong | Commercial | `/services/cardboard-box-removal` | Live (primary) |
+| cardboard box removal dubai | 🟢 Strong | Commercial | `/services/cardboard-box-removal` | Live |
+| cardboard collection dubai | 🟢 Strong | Commercial | `/services/cardboard-box-removal` | Live |
+| cardboard box collection dubai | 🟢 Strong | Commercial | `/services/cardboard-box-removal` | Live |
+| cardboard recycling dubai | 🟢 Strong | Info → commercial | `/services/cardboard-box-removal` | Live (secondary) |
+
+**Avoid:** "cardboard boxes dubai", "moving boxes dubai" and "packing boxes dubai" — those searchers want to **buy** boxes, not get rid of them.
 
 ---
 
@@ -257,7 +289,6 @@ Each planned page is a **2,000+ word article** following [`content-structure.md`
 
 **Client decisions needed:**
 - **E-waste** (2 keywords) — only if the client collects electronics and works with a licensed recycler.
-- **Garden waste** (1 keyword) — only if the client offers it.
 - **Reviews** (`junk removal dubai reviews`) — collect real Google reviews; never invent them.
 
 ---
