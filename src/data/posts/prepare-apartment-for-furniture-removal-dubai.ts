@@ -22,7 +22,7 @@ const post: Post = {
   ],
   body: [
     {
-      p: "To prepare a Dubai apartment for furniture removal, check your building's rules and any permit requirements, book the service lift, measure your largest pieces, empty and clear everything on the route, and sort out parking with security. Removing furniture from a villa is mostly about distance. In an apartment tower, it's about logistics: lift bookings, loading bays, building rules and narrow corridors. A little preparation turns a stressful morning into a quick, damage-free job — and stops you paying for a crew to stand around waiting.",
+      p: "To prepare a Dubai apartment for furniture removal, check your building's rules and any permit requirements, book the service lift, measure your largest pieces, empty and clear everything on the route, and sort out parking with security. Removing furniture from a villa is mostly about distance. In an apartment tower, it's about logistics: lift bookings, loading bays, building rules and narrow corridors. A little preparation turns a stressful morning into a quick, damage-free job — and stops you paying for a crew to stand around waiting. If you are operating on a tight deadline or facing an unexpected move today, review our practical guide on [same-day furniture removal in Dubai](/blog/same-day-furniture-removal-dubai).",
     },
     { h2: "1. Check your building's rules" },
     {

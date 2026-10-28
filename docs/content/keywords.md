@@ -145,6 +145,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 23 | how to dismantle a bed | How to Dismantle and Dispose of a Bed Frame in Dubai: Storage, Bunk & Wooden Beds | Info → commercial | bed-removal, mattress-removal | ✅ |
 | 24 | how to dispose of dining table and chairs | How to Dispose of a Dining Table and Chairs in Dubai: Wood, Glass & Marble | Info → commercial | dining-table-chair-removal, furniture-removal | ✅ |
 | 25 | balcony clearance dubai | Balcony and Terrace Furniture Clearance in Dubai: Rules, Removal & Disposal | Info → commercial | garage-storeroom-clearance, furniture-pickup-disposal | ✅ |
+| 26 | furniture recycling dubai | Furniture Recycling in Dubai: Where It Goes and How It Works | Info → commercial | furniture-pickup-disposal, furniture-removal | ✅ |
+| 27 | estate clearance dubai | Estate Clearance in Dubai: Full Villa and House Clearance Guide | Info → commercial | villa-furniture-clearance, furniture-removal | ✅ |
+| 28 | same day furniture removal dubai | Same-Day Furniture Removal in Dubai: How Urgent Clearances Work | Commercial | furniture-removal, junk-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

@@ -30,7 +30,7 @@ const post: Post = {
       ol: [
         "**Sell:** the item is clean, complete, current in style and worth a buyer's effort to collect.",
         "**Donate:** it is safe and useful but has little resale value or you have limited time.",
-        "**Recycle where possible:** materials or components can be separated through an appropriate facility.",
+        "**Recycle where possible:** materials or components can be separated through an appropriate facility. Learn how materials are processed in our complete guide to [furniture recycling in Dubai](/blog/furniture-recycling-dubai).",
         "**Dispose:** the piece is broken, stained, infested, water-damaged, unstable or missing important parts.",
       ],
     },

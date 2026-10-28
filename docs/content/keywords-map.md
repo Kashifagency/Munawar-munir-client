@@ -104,7 +104,7 @@ The 100 search terms we target, which page owns each one, and what to build next
 | 23 | old furniture collection dubai | 🟡 Good | 2 | Commercial | `/services/furniture-pickup-disposal` | Live |
 | 24 | old furniture pick up dubai | ⚪ Long-tail | 1 | Commercial | `/services/furniture-pickup-disposal` | Live |
 | 25 | used furniture disposal dubai | 🟡 Good | 1 | Commercial | `/services/furniture-pickup-disposal` | Live |
-| 26 | furniture recycling dubai | 🟢 Strong | 2 | Info → commercial | `/services/furniture-pickup-disposal` | Live (secondary) |
+| 26 | furniture recycling dubai | 🟢 Strong | 2 | Info → commercial | `/blog/furniture-recycling-dubai` | Live (primary) |
 
 ### Free & municipality
 

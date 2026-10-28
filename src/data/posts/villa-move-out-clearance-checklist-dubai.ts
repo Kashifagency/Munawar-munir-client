@@ -22,7 +22,7 @@ const post: Post = {
   ],
   body: [
     {
-      p: "A villa move-out goes smoothly when you start early, clear the garage and storerooms first, sort everything into keep, sell, donate and clear, and book a single clearance for whatever is left. Villas collect far more than apartments: between the majlis, the bedrooms, the maid's room, the garden and the garage nobody has opened since the last move, clearing a villa before handover is a bigger job than most tenants expect. This checklist breaks it into stages so the final week stays calm.",
+      p: "A villa move-out goes smoothly when you start early, clear the garage and storerooms first, sort everything into keep, sell, donate and clear, and book a single clearance for whatever is left. Villas collect far more than apartments: between the majlis, the bedrooms, the maid's room, the garden and the garage nobody has opened since the last move, clearing a villa before handover is a bigger job than most tenants expect. This checklist breaks it into stages so the final week stays calm. If you are handling a comprehensive family home liquidation or probate handover, read our in-depth guide on [estate clearance in Dubai](/blog/estate-clearance-dubai-guide).",
     },
     { h2: "Four to six weeks before you move" },
     {
