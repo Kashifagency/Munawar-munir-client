@@ -257,8 +257,8 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | green waste collection dubai | 🟡 Good | Commercial | `/services/garden-waste-removal` | Live |
 | green waste disposal dubai | 🟡 Good | Commercial | `/services/garden-waste-removal` | Live |
 | garden waste removal dubai price | 🟢 Strong | Commercial | — | Planned: cost guide — needs client prices |
-| free garden waste removal dubai | 🟢 Strong | Informational | — | Planned: Dubai Municipality bulky & green waste guide |
-| dubai municipality garden waste collection | 🟡 Good | Informational | — | Planned: Dubai Municipality bulky & green waste guide |
+| free garden waste removal dubai | 🟢 Strong | Informational | `/blog/dubai-municipality-garden-waste-collection` | Live (secondary) |
+| dubai municipality garden waste collection | 🟡 Good | Informational | `/blog/dubai-municipality-garden-waste-collection` | Live (primary) |
 
 ### Cardboard boxes
 
@@ -268,7 +268,7 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | cardboard box removal dubai | 🟢 Strong | Commercial | `/services/cardboard-box-removal` | Live |
 | cardboard collection dubai | 🟢 Strong | Commercial | `/services/cardboard-box-removal` | Live |
 | cardboard box collection dubai | 🟢 Strong | Commercial | `/services/cardboard-box-removal` | Live |
-| cardboard recycling dubai | 🟢 Strong | Info → commercial | `/services/cardboard-box-removal` | Live (secondary) |
+| cardboard recycling dubai | 🟢 Strong | Info → commercial | `/blog/cardboard-box-recycling-dubai` | Live (primary) |
 
 **Avoid:** "cardboard boxes dubai", "moving boxes dubai" and "packing boxes dubai" — those searchers want to **buy** boxes, not get rid of them.
 

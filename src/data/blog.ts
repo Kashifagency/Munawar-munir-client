@@ -29,6 +29,9 @@ import balconyClearance from "./posts/balcony-furniture-clearance-dubai";
 import furnitureRecycling from "./posts/furniture-recycling-dubai";
 import estateClearance from "./posts/estate-clearance-dubai-guide";
 import sameDayFurniture from "./posts/same-day-furniture-removal-dubai";
+import gardenWasteCollection from "./posts/dubai-municipality-garden-waste-collection";
+import cardboardRecycling from "./posts/cardboard-box-recycling-dubai";
+import whatJunkRemovalTakes from "./posts/what-junk-removal-companies-take-in-dubai";
 
 export type Block =
   | { h2: string }
@@ -92,6 +95,9 @@ export const posts: Post[] = [
   furnitureRecycling,
   estateClearance,
   sameDayFurniture,
+  gardenWasteCollection,
+  cardboardRecycling,
+  whatJunkRemovalTakes,
 ];
 
 export function getPost(slug: string) {

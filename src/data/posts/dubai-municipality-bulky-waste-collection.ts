@@ -35,7 +35,7 @@ const post: Post = {
       ],
     },
     {
-      p: "A large item is not automatically suitable for this service. Renovation debris, commercial waste and hazardous materials follow different disposal routes. Paint, chemicals, gas cylinders, asbestos, medical waste and car batteries should never be added to a household bulky-waste pile. Ask the relevant authority or a qualified specialist how to handle them safely.",
+      p: "A large item is not automatically suitable for this service. Renovation debris, commercial waste and hazardous materials follow different disposal routes. For full details on accepted household items versus restricted materials, read our guide on [what junk removal companies take in Dubai](/blog/what-junk-removal-companies-take-in-dubai). For tree trimmings and palm fronds, consult our guide on [Dubai Municipality garden waste collection](/blog/dubai-municipality-garden-waste-collection). Paint, chemicals, gas cylinders, asbestos, medical waste and car batteries should never be added to a household bulky-waste pile. Ask the relevant authority or a qualified specialist how to handle them safely.",
     },
     { h2: "Who can use Dubai Municipality bulky waste collection?" },
     {
