@@ -159,7 +159,7 @@ const post: Post = {
     },
     {
       ul: [
-        "**Front-loading washing machines:** These machines contain heavy concrete counterbalance weights to stabilise the drum during spin cycles, making them surprisingly dense. Always unscrew the rear cold-water feed hose, drain the lower front lint filter into a tray, and tape the power cable neatly to the rear panel.",
+        "**Front-loading washing machines:** These machines contain heavy concrete counterbalance weights to stabilise the drum during spin cycles, making them surprisingly dense. For detailed step-by-step guidance, follow our complete guide on [washing machine disposal in Dubai](/blog/how-to-dispose-of-a-washing-machine-in-dubai). Always unscrew the rear cold-water feed hose, drain the lower front lint filter into a tray, and tape the power cable neatly to the rear panel.",
         "**Clothes dryers:** Disconnect the rear flexible exhaust duct. If you own a condensation dryer, remove and empty the upper water collection cartridge and clean the lower heat exchanger lint trap.",
         "**Dishwashers:** Run a short rinse cycle with vinegar twenty-four hours before collection to neutralise standing grease and food odours. Disconnect the water supply hose, unscrew the sink siphon waste junction, and leave the door ajar to dry thoroughly.",
         "**Split-system air conditioners:** Never attempt to dismantle air conditioning outdoor condenser units yourself. A certified HVAC technician must execute a 'pump down' procedure to isolate refrigerant gas into the compressor before cutting copper tubing.",

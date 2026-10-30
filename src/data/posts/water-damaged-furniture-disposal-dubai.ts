@@ -96,7 +96,7 @@ const post: Post = {
     },
     {
       ol: [
-        "**Remove wet rugs and surface debris:** Immediately elevate wooden furniture off soaked carpets or wet flooring using plastic risers, foil pads, or wooden blocks to stop moisture wicking into leg bases.",
+        "**Remove wet rugs and surface debris:** Immediately elevate wooden furniture off soaked carpets or wet flooring using plastic risers, foil pads, or wooden blocks to stop moisture wicking into leg bases. If floor coverings cannot be salvaged, arrange professional [carpet disposal](/blog/carpet-disposal-dubai) to prevent mould growth.",
         "**Wipe down standing liquid:** Dry all surfaces thoroughly with clean cotton towels. Remove drawers, shelves, and cabinet doors to allow uniform evaporation from all interior and exterior faces.",
         "**Employ controlled, slow dehumidification:** Run residential dehumidifiers and air conditioning systems set to 22°C with high continuous fan settings. Crucially, avoid using high-intensity direct space heaters or blowers pointed directly at wet wood, as rapid forced drying causes severe timber splitting, surface checking, and irreversible warping.",
         "**Treat superficial mildew immediately:** If light white surface mildew appears, wipe the timber down with a cloth dampened with a 50/50 mixture of rubbing alcohol and distilled water, followed immediately by thorough dry buffing.",

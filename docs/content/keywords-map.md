@@ -218,8 +218,8 @@ The 100 search terms we target, which page owns each one, and what to build next
 | # | Keyword | Demand | Seen | Intent | Target URL | Status |
 | ---: | --- | --- | ---: | --- | --- | --- |
 | 89 | appliance removal dubai | 🟡 Good | 1 | Commercial | `/services/appliance-removal` | Live (primary) |
-| 90 | washing machine disposal dubai | 🟡 Good | 1 | Commercial | `/services/appliance-removal` | Live |
-| 91 | washing machine removal dubai | 🟡 Good | 1 | Commercial | `/services/appliance-removal` | Live |
+| 90 | washing machine disposal dubai | 🟡 Good | 1 | Info → commercial | `/blog/how-to-dispose-of-a-washing-machine-in-dubai` | Live (primary) |
+| 91 | washing machine removal dubai | 🟡 Good | 1 | Commercial | `/blog/how-to-dispose-of-a-washing-machine-in-dubai` | Live (secondary) |
 | 92 | tv disposal dubai | 🟡 Good | 1 | Commercial | `/services/appliance-removal` | Live |
 | 93 | electronics disposal dubai | 🟡 Good | 1 | Commercial | `/services/appliance-removal` | Live (secondary) |
 | 94 | e waste disposal dubai | 🟡 Good | 2 | Commercial | — | Gap — client must confirm e-waste service and licensed recycler |
@@ -271,6 +271,24 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | cardboard recycling dubai | 🟢 Strong | Info → commercial | `/blog/cardboard-box-recycling-dubai` | Live (primary) |
 
 **Avoid:** "cardboard boxes dubai", "moving boxes dubai" and "packing boxes dubai" — those searchers want to **buy** boxes, not get rid of them.
+
+### Gym equipment (added 30 October 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| gym equipment removal dubai | 🟢 Strong | Info → commercial | `/blog/gym-equipment-removal-dubai` | Live (primary) |
+| treadmill removal dubai | 🟡 Good | Commercial | `/blog/gym-equipment-removal-dubai` | Live (secondary) |
+| treadmill disposal dubai | 🟡 Good | Commercial | `/blog/gym-equipment-removal-dubai` | Live (secondary) |
+| exercise equipment removal dubai | 🟡 Good | Commercial | `/blog/gym-equipment-removal-dubai` | Live (secondary) |
+
+### Carpets & flooring (added 30 October 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| carpet disposal dubai | 🟢 Strong | Info → commercial | `/blog/carpet-disposal-dubai` | Live (primary) |
+| carpet removal dubai | 🟢 Strong | Commercial | `/blog/carpet-disposal-dubai` | Live (secondary) |
+| rug disposal dubai | 🟡 Good | Commercial | `/blog/carpet-disposal-dubai` | Live (secondary) |
+| carpet underlay removal dubai | ⚪ Long-tail | Commercial | `/blog/carpet-disposal-dubai` | Live (secondary) |
 
 ---
 

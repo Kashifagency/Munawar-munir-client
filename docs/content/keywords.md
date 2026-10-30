@@ -151,6 +151,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 29 | dubai municipality garden waste collection | Dubai Municipality Garden Waste Collection: Rules & Private Removal | Info → commercial | garden-waste-removal, junk-removal | ✅ |
 | 30 | cardboard recycling dubai | Cardboard Box Recycling in Dubai: How to Dispose of Moving Boxes | Info → commercial | cardboard-box-removal, junk-removal | ✅ |
 | 31 | what junk removal companies take in dubai | What Junk Removal Companies Take in Dubai: Accepted Items & Rules | Info → commercial | junk-removal, garage-storeroom-clearance | ✅ |
+| 32 | washing machine disposal dubai | How to Dispose of an Old Washing Machine in Dubai: Step-by-Step | Info → commercial | appliance-removal, junk-removal | ✅ |
+| 33 | gym equipment removal dubai | Gym Equipment Removal in Dubai: Disposing of Treadmills & Weights | Info → commercial | junk-removal, garage-storeroom-clearance | ✅ |
+| 34 | carpet disposal dubai | Carpet Disposal in Dubai: Removal, Roll-Up & Tenancy Handover | Info → commercial | junk-removal, villa-furniture-clearance | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 
