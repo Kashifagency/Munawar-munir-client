@@ -35,6 +35,9 @@ import whatJunkRemovalTakes from "./posts/what-junk-removal-companies-take-in-du
 import washingMachineDisposal from "./posts/how-to-dispose-of-a-washing-machine-in-dubai";
 import gymEquipmentRemoval from "./posts/gym-equipment-removal-dubai";
 import carpetDisposal from "./posts/carpet-disposal-dubai";
+import airConditionerDisposal from "./posts/how-to-dispose-of-an-air-conditioner-in-dubai";
+import tvDisposal from "./posts/how-to-dispose-of-an-old-tv-in-dubai";
+import woodWasteDisposal from "./posts/wood-waste-disposal-dubai";
 
 export type Block =
   | { h2: string }
@@ -104,6 +107,9 @@ export const posts: Post[] = [
   washingMachineDisposal,
   gymEquipmentRemoval,
   carpetDisposal,
+  airConditionerDisposal,
+  tvDisposal,
+  woodWasteDisposal,
 ];
 
 export function getPost(slug: string) {

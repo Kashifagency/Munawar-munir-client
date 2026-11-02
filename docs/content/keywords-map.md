@@ -220,8 +220,8 @@ The 100 search terms we target, which page owns each one, and what to build next
 | 89 | appliance removal dubai | 🟡 Good | 1 | Commercial | `/services/appliance-removal` | Live (primary) |
 | 90 | washing machine disposal dubai | 🟡 Good | 1 | Info → commercial | `/blog/how-to-dispose-of-a-washing-machine-in-dubai` | Live (primary) |
 | 91 | washing machine removal dubai | 🟡 Good | 1 | Commercial | `/blog/how-to-dispose-of-a-washing-machine-in-dubai` | Live (secondary) |
-| 92 | tv disposal dubai | 🟡 Good | 1 | Commercial | `/services/appliance-removal` | Live |
-| 93 | electronics disposal dubai | 🟡 Good | 1 | Commercial | `/services/appliance-removal` | Live (secondary) |
+| 92 | tv disposal dubai | 🟡 Good | 1 | Info → commercial | `/blog/how-to-dispose-of-an-old-tv-in-dubai` | Live (primary) |
+| 93 | electronics disposal dubai | 🟡 Good | 1 | Info → commercial | `/blog/how-to-dispose-of-an-old-tv-in-dubai` | Live (secondary) |
 | 94 | e waste disposal dubai | 🟡 Good | 2 | Commercial | — | Gap — client must confirm e-waste service and licensed recycler |
 | 95 | e waste collection dubai | 🟡 Good | 2 | Commercial | — | Gap — client must confirm e-waste service and licensed recycler |
 
@@ -290,6 +290,24 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | rug disposal dubai | 🟡 Good | Commercial | `/blog/carpet-disposal-dubai` | Live (secondary) |
 | carpet underlay removal dubai | ⚪ Long-tail | Commercial | `/blog/carpet-disposal-dubai` | Live (secondary) |
 
+### Air conditioning & cooling (added 2 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| ac unit removal dubai | 🟢 Strong | Info → commercial | `/blog/how-to-dispose-of-an-air-conditioner-in-dubai` | Live (primary) |
+| ac disposal dubai | 🟢 Strong | Commercial | `/blog/how-to-dispose-of-an-air-conditioner-in-dubai` | Live (secondary) |
+| air conditioner disposal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-an-air-conditioner-in-dubai` | Live (secondary) |
+| old ac removal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-an-air-conditioner-in-dubai` | Live (secondary) |
+
+### Wood waste & timber (added 2 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| wood waste disposal dubai | 🟢 Strong | Info → commercial | `/blog/wood-waste-disposal-dubai` | Live (primary) |
+| timber disposal dubai | 🟡 Good | Commercial | `/blog/wood-waste-disposal-dubai` | Live (secondary) |
+| pallet removal dubai | 🟢 Strong | Commercial | `/blog/wood-waste-disposal-dubai` | Live (secondary) |
+| scrap wood removal dubai | 🟡 Good | Commercial | `/blog/wood-waste-disposal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)
@@ -302,7 +320,7 @@ Each planned page is a **2,000+ word article** following [`content-structure.md`
 | 2 | **Where to Donate Furniture in Dubai** | 7 | Verify every organisation by phone/website before publishing. Say "call first" for each. |
 | 3 | **How Much Does Furniture Removal Cost in Dubai?** | 4 | **Only with client-confirmed price ranges.** Explain what drives the price. |
 | 4 | **How to Dispose of an Old Sofa in Dubai** | 1 + supports `/services/sofa-removal` | Links to the sofa service page and the DM guide. |
-| 5 | **How to Dispose of an Old Fridge, Washing Machine or AC in Dubai** | 1 + supports `/services/appliance-removal` | Cover refrigerant safety and disconnection by technicians. |
+| 5 | **How to Dispose of an Old Fridge, Washing Machine or AC in Dubai** | 1 + supports `/services/appliance-removal` | Fridge (post 11), Washing machine (post 32), and AC (post 35) all published. |
 | 6 | **Move-Out Permits, NOCs and Service Lifts in Dubai Buildings** | 1 + supports furniture removal | Rules vary by building — say so; no invented fees. |
 
 **Client decisions needed:**

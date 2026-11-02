@@ -41,7 +41,7 @@ const post: Post = {
       ul: [
         "**Bulky domestic furniture:** Sectional sofas, armchairs, sofa beds, king and queen mattresses, wooden and metal bed frames, flat-pack wardrobes, chests of drawers, dining tables, chairs, coffee tables, and credenzas under our specialized [furniture removal](/services/furniture-removal) service.",
         "**Major domestic appliances (white goods):** Refrigerators, upright freezers, washing machines, tumble dryers, dishwashers, cooking ranges, microwaves, and portable air conditioning units handled through our dedicated [appliance removal](/services/appliance-removal) stream.",
-        "**Consumer electronics and entertainment equipment:** Flat-screen televisions, desktop computers, monitors, printers, stereo speakers, DVD players, gaming consoles, and tangled electrical cables.",
+        "**Consumer electronics and entertainment equipment:** Flat-screen televisions (see our detailed guide on [how to dispose of an old TV in Dubai](/blog/how-to-dispose-of-an-old-tv-in-dubai)), desktop computers, monitors, printers, stereo speakers, DVD players, gaming consoles, and tangled electrical cables.",
         "**Cardboard packaging and paper archives:** Flattened corrugated moving boxes, packing paper, shredded document sacks, old books, and obsolete office archive files managed via our [cardboard box removal](/services/cardboard-box-removal) service.",
         "**Domestic fitness and sports gear:** Heavy treadmills, stationary exercise bikes, elliptical cross-trainers, weight benches, dumbbells, golf bags, surfboards, and children's bicycles cleared via our specialized [gym equipment removal](/blog/gym-equipment-removal-dubai) service.",
         "**Household clutter and textiles:** Bags of discarded clothing, bed linens, curtains, shoes, suitcases, storage trunks, plastic storage tubs, and miscellaneous bric-a-brac cleared under our [garage and storeroom clearance](/services/garage-storeroom-clearance) service.",
@@ -122,7 +122,7 @@ const post: Post = {
       ul: [
         "**Charity donation streams:** Usable furniture, clean mattresses, functioning appliances, and clean clothing are separated and routed to registered UAE charitable organisations, supporting low-income families and labour communities. For further reading, explore our guide on [where to donate furniture in Dubai](/blog/where-to-donate-furniture-in-dubai).",
         "**Scrap metal processing:** Steel bed frames, aluminium window sections, washing machine drums, and brass fittings are stripped and delivered to certified industrial smelters in Al Quoz and Jebel Ali, melting them down for regional manufacturing.",
-        "**Cardboard and timber processing:** Corrugated cardboard packaging is sent to regional paper mills for repulping, while untreated timber pallets and solid wood pieces are sent for chipping into agricultural compost and mulch.",
+        "**Cardboard and timber processing:** Corrugated cardboard packaging is sent to regional paper mills for repulping, while untreated timber pallets and solid wood pieces are handled in accordance with our [wood waste disposal guide](/blog/wood-waste-disposal-dubai) for industrial chipping and secondary manufacturing.",
         "**Licensed waste-to-energy recovery:** Residual non-recyclable materials (such as synthetic fabric scraps, composite sawdust, and worn plastics) are routed to state-of-the-art facilities like the Dubai Waste Management Centre (DWMC) in Warsan, generating clean electrical power for thousands of Dubai homes.",
       ],
     },

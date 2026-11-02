@@ -154,6 +154,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 32 | washing machine disposal dubai | How to Dispose of an Old Washing Machine in Dubai: Step-by-Step | Info → commercial | appliance-removal, junk-removal | ✅ |
 | 33 | gym equipment removal dubai | Gym Equipment Removal in Dubai: Disposing of Treadmills & Weights | Info → commercial | junk-removal, garage-storeroom-clearance | ✅ |
 | 34 | carpet disposal dubai | Carpet Disposal in Dubai: Removal, Roll-Up & Tenancy Handover | Info → commercial | junk-removal, villa-furniture-clearance | ✅ |
+| 35 | ac unit removal dubai | How to Dispose of an Old Air Conditioner in Dubai: Step-by-Step | Info → commercial | appliance-removal, junk-removal | ✅ |
+| 36 | tv disposal dubai | How to Dispose of an Old TV in Dubai: Screens, Brackets & E-Waste | Info → commercial | appliance-removal, junk-removal | ✅ |
+| 37 | wood waste disposal dubai | Wood Waste Disposal in Dubai: Pallets, Timber Decking & Scrap | Info → commercial | junk-removal, garden-waste-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 
