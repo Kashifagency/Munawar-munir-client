@@ -308,6 +308,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | pallet removal dubai | 🟢 Strong | Commercial | `/blog/wood-waste-disposal-dubai` | Live (secondary) |
 | scrap wood removal dubai | 🟡 Good | Commercial | `/blog/wood-waste-disposal-dubai` | Live (secondary) |
 
+### Water heaters & boilers (added 3 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| water heater disposal dubai | 🟢 Strong | Info → commercial | `/blog/how-to-dispose-of-a-water-heater-in-dubai` | Live (primary) |
+| water heater removal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-water-heater-in-dubai` | Live (secondary) |
+| geyser disposal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-water-heater-in-dubai` | Live (secondary) |
+| boiler disposal dubai | ⚪ Long-tail | Commercial | `/blog/how-to-dispose-of-a-water-heater-in-dubai` | Live (secondary) |
+
+### Colour-coded bins & residential sorting (added 3 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| colour coded bins dubai | 🟢 Strong | Info → commercial | `/blog/colour-coded-bins-dubai` | Live (primary) |
+| green bin dubai | 🟢 Strong | Informational | `/blog/colour-coded-bins-dubai` | Live (secondary) |
+| recycling bins dubai | 🟡 Good | Informational | `/blog/colour-coded-bins-dubai` | Live (secondary) |
+| black bin rules dubai | 🟡 Good | Informational | `/blog/colour-coded-bins-dubai` | Live (secondary) |
+
+### Waste collection systems & regulations (added 3 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| how waste collection works in dubai | 🟢 Strong | Info → commercial | `/blog/how-waste-collection-works-in-dubai` | Live (primary) |
+| waste collection dubai | 🟢 Strong | Informational | `/blog/how-waste-collection-works-in-dubai` | Live (secondary) |
+| residential waste collection dubai | 🟡 Good | Informational | `/blog/how-waste-collection-works-in-dubai` | Live (secondary) |
+| dubai waste management rules | 🟡 Good | Informational | `/blog/how-waste-collection-works-in-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

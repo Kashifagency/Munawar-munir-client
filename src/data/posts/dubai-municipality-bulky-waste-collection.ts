@@ -39,7 +39,7 @@ const post: Post = {
     },
     { h2: "Who can use Dubai Municipality bulky waste collection?" },
     {
-      p: "The most important test is the address. The current Municipality listing says the service does not include investment zones. A detailed Municipality announcement from 2022 says residents could apply except those in real-estate development zones and free zones. Many apartment towers and master-planned communities may therefore fall outside the collection area.",
+      p: "The most important test is the address. The current Municipality listing says the service does not include investment zones. A detailed Municipality announcement from 2022 says residents could apply except those in real-estate development zones and free zones (see our detailed guide on [how waste collection works in Dubai](/blog/how-waste-collection-works-in-dubai)). Many apartment towers and master-planned communities may therefore fall outside the collection area.",
     },
     {
       p: "Do not try to work out eligibility from the community name alone. Boundaries and service arrangements can be specific. Open the live service, enter the requested location details and follow the result. If the address is not covered, ask building or community management which bulky-waste arrangement applies there.",

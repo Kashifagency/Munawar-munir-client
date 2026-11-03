@@ -109,7 +109,7 @@ const post: Post = {
     {
       ol: [
         "**Smart Sustainability Oasis centres:** Dubai Municipality operates solar-powered, 24/7 automated recycling collection centres located near municipal centres, public parks, and community hubs across areas like Al Barsha, Umm Suqeim, Al Manara, and Al Twar. These stations feature dedicated bays for paper and flattened cardboard.",
-        "**Community green recycling wheelie bins:** In select residential villa neighbourhoods covered by municipal domestic waste schemes, residential streets feature dual-bin setups: green bins designated for clean recyclables (paper, cardboard, plastics, aluminium cans) and black bins for general domestic waste.",
+        "**Community green recycling wheelie bins:** In residential villa neighbourhoods covered by municipal and developer waste schemes, residential streets feature dual-bin setups (see our complete guide on [colour-coded bins in Dubai](/blog/colour-coded-bins-dubai)): green bins designated for clean recyclables (paper, cardboard, plastics, aluminium cans) and black bins for general domestic waste.",
         "**Private community recycling kiosks:** Major shopping malls and master community centres often host private recycling kiosks (operated by environmental partners like Tadweer or Dulsco) accepting clean, flattened cardboard cartons.",
       ],
     },
