@@ -160,6 +160,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 38 | water heater disposal dubai | How to Dispose of an Old Water Heater in Dubai: Step-by-Step | Info → commercial | appliance-removal, junk-removal | ✅ |
 | 39 | colour coded bins dubai | Colour-Coded Bins in Dubai: Green, Black & Recycling Guide | Info → commercial | junk-removal, cardboard-box-removal | ✅ |
 | 40 | how waste collection works in dubai | How Waste Collection Works in Dubai: Municipality & Private Systems | Info → commercial | junk-removal, villa-furniture-clearance | ✅ |
+| 41 | cooking range disposal dubai | How to Dispose of an Old Cooking Range or Oven in Dubai | Info → commercial | appliance-removal, junk-removal | ✅ |
+| 42 | dishwasher disposal dubai | How to Dispose of an Old Dishwasher in Dubai: Step-by-Step | Info → commercial | appliance-removal, junk-removal | ✅ |
+| 43 | renovation waste disposal dubai | Renovation Waste Disposal in Dubai: Debris, Tiles & Cupboards | Info → commercial | junk-removal, garage-storeroom-clearance | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

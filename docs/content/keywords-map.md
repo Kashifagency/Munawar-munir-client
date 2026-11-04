@@ -335,6 +335,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | residential waste collection dubai | 🟡 Good | Informational | `/blog/how-waste-collection-works-in-dubai` | Live (secondary) |
 | dubai waste management rules | 🟡 Good | Informational | `/blog/how-waste-collection-works-in-dubai` | Live (secondary) |
 
+### Cooking ranges, stoves & ovens (added 4 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| cooking range disposal dubai | 🟢 Strong | Info → commercial | `/blog/how-to-dispose-of-a-cooking-range-in-dubai` | Live (primary) |
+| gas cooker disposal dubai | 🟢 Strong | Commercial | `/blog/how-to-dispose-of-a-cooking-range-in-dubai` | Live (secondary) |
+| oven removal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-cooking-range-in-dubai` | Live (secondary) |
+| stove disposal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-cooking-range-in-dubai` | Live (secondary) |
+
+### Dishwashers & kitchen plumbing appliances (added 4 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| dishwasher disposal dubai | 🟢 Strong | Info → commercial | `/blog/how-to-dispose-of-a-dishwasher-in-dubai` | Live (primary) |
+| dishwasher removal dubai | 🟢 Strong | Commercial | `/blog/how-to-dispose-of-a-dishwasher-in-dubai` | Live (secondary) |
+| old dishwasher pickup dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-dishwasher-in-dubai` | Live (secondary) |
+| integrated dishwasher disposal dubai | ⚪ Long-tail | Commercial | `/blog/how-to-dispose-of-a-dishwasher-in-dubai` | Live (secondary) |
+
+### Renovation & fit-out waste (added 4 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| renovation waste disposal dubai | 🟢 Strong | Info → commercial | `/blog/renovation-waste-disposal-dubai` | Live (primary) |
+| renovation debris removal dubai | 🟢 Strong | Commercial | `/blog/renovation-waste-disposal-dubai` | Live (secondary) |
+| fit out waste removal dubai | 🟡 Good | Commercial | `/blog/renovation-waste-disposal-dubai` | Live (secondary) |
+| construction debris disposal dubai | 🟡 Good | Commercial | `/blog/renovation-waste-disposal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

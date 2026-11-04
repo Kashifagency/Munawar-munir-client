@@ -41,6 +41,9 @@ import woodWasteDisposal from "./posts/wood-waste-disposal-dubai";
 import waterHeaterDisposal from "./posts/how-to-dispose-of-a-water-heater-in-dubai";
 import colourCodedBins from "./posts/colour-coded-bins-dubai";
 import howWasteCollectionWorks from "./posts/how-waste-collection-works-in-dubai";
+import cookingRangeDisposal from "./posts/how-to-dispose-of-a-cooking-range-in-dubai";
+import dishwasherDisposal from "./posts/how-to-dispose-of-a-dishwasher-in-dubai";
+import renovationWasteDisposal from "./posts/renovation-waste-disposal-dubai";
 
 export type Block =
   | { h2: string }
@@ -116,6 +119,9 @@ export const posts: Post[] = [
   waterHeaterDisposal,
   colourCodedBins,
   howWasteCollectionWorks,
+  cookingRangeDisposal,
+  dishwasherDisposal,
+  renovationWasteDisposal,
 ];
 
 export function getPost(slug: string) {

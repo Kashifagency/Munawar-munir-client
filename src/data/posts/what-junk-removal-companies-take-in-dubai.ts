@@ -53,7 +53,7 @@ const post: Post = {
     },
     { h2: "Non-hazardous renovation and fit-out waste: what qualifies?" },
     {
-      p: "Home renovation, kitchen upgrades, and bathroom refurbishments in residential communities like [The Springs](/areas/the-springs) and [Jumeirah Village Circle](/areas/jumeirah-village-circle) produce substantial piles of secondary building debris. Many homeowners are surprised to learn that professional junk removal companies can collect non-hazardous renovation debris, provided the materials meet specific safety guidelines.",
+      p: "Home renovation, kitchen upgrades, and bathroom refurbishments in residential communities like [The Springs](/areas/the-springs) and [Jumeirah Village Circle](/areas/jumeirah-village-circle) produce substantial piles of secondary building debris. Many homeowners are surprised to learn that professional junk removal companies can collect non-hazardous renovation debris (see our comprehensive guide on [renovation waste disposal in Dubai](/blog/renovation-waste-disposal-dubai)), provided the materials meet specific safety guidelines.",
     },
     {
       p: "Common non-hazardous renovation items accepted for removal include:",
