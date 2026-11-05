@@ -161,7 +161,7 @@ const post: Post = {
     },
     { h2: "Step-by-step: preparing large outdoor sets for clearance" },
     {
-      p: "Large garden furnishings—such as eight-seater dining tables, solid stone barbecue islands, heavy daybeds, and freestanding gazebos—require systematic dismantling before they can be safely removed from villa grounds without damaging delicate landscaping, irrigation lines, or patio pavers.",
+      p: "Large garden furnishings—such as eight-seater dining tables, solid stone barbecue islands, heavy daybeds, and freestanding gazebos—require systematic dismantling before they can be safely removed from villa grounds without damaging delicate landscaping, irrigation lines, or patio pavers. If you are also clearing out a rusted outdoor cooker, consult our guide on [how to dispose of an old BBQ grill in Dubai](/blog/how-to-dispose-of-a-bbq-grill-in-dubai).",
     },
     {
       p: "Follow these practical preparation steps to streamline your garden clearance:",
@@ -169,7 +169,7 @@ const post: Post = {
     {
       ol: [
         "**Disconnect parasol and cantilever counterweights:** Concrete, cast iron, or water-filled parasol base weights must be separated from umbrella poles. Drain water or sand fills into designated garden drainage points before moving heavy bases.",
-        "**Remove glass and ceramic tabletops:** Tempered glass tabletops on outdoor dining sets should be carefully unbolted from suction cups or frame clamps, wrapped in protective bubble blankets, and moved on their vertical edges to prevent sudden shattering.",
+        "**Remove glass and ceramic tabletops:** Tempered glass tabletops on outdoor dining sets should be carefully unbolted from suction cups or frame clamps, wrapped in protective bubble blankets, and moved on their vertical edges to prevent sudden shattering. Follow our safety guide on [glass and mirror disposal in Dubai](/blog/glass-and-mirror-disposal-dubai) for complete handling rules.",
         "**Disassemble bulky modular frames:** Unbolt modular corner sofa sections, table legs, and gazebo crossbeams using standard hex keys and socket sets. Disassembling bulky frames prevents accidental scrapes against narrow villa side gates and boundary walls.",
         "**Clear garden pathways and irrigation lines:** Move potted plants, garden hoses, and low-voltage landscape lighting fixtures away from the path between your patio and the front driveway so removal crews have an unobstructed, trip-free passage.",
         "**Secure community gate permits:** Ensure your master community security gate pass or move-out NOC is approved in advance, granting removal vehicles authorised access through security gates without frustrating gate delays.",

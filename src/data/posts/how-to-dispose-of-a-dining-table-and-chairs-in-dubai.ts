@@ -88,7 +88,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Taking extra precautions with glass table tops prevents sudden shattering, avoiding dangerous cleanups and costly property damage.",
+      p: "Taking extra precautions with glass table tops prevents sudden shattering, avoiding dangerous cleanups and costly property damage. For complete guidelines on handling architectural glass, mirrors, and shower screens, see our guide on [glass and mirror disposal in Dubai](/blog/glass-and-mirror-disposal-dubai).",
     },
     { h2: "Dismantling solid timber and veneer dining tables (legs, pedestals, leaves)" },
     {

@@ -230,7 +230,7 @@ The 100 search terms we target, which page owns each one, and what to build next
 | # | Keyword | Demand | Seen | Intent | Target URL | Status |
 | ---: | --- | --- | ---: | --- | --- | --- |
 | 96 | office furniture removal | 🟡 Good | 1 | Commercial | `/services/office-furniture-removal` | Live (use with 'Dubai') |
-| 97 | office furniture disposal | 🟡 Good | 1 | Commercial | `/services/office-furniture-removal` | Live (use with 'Dubai') |
+| 97 | office furniture disposal | 🟡 Good | 1 | Info → commercial | `/blog/how-to-dispose-of-office-furniture-in-dubai` | Live (primary) |
 | 98 | luxury furniture movers in dubai | 🟡 Good | 1 | Commercial | `/services/luxury-furniture-removal` | Live |
 | 99 | garden waste removal dubai | 🟡 Good | 1 | Commercial | `/services/garden-waste-removal` | Live (primary) — service confirmed 29 Oct 2026 |
 
@@ -361,6 +361,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | renovation debris removal dubai | 🟢 Strong | Commercial | `/blog/renovation-waste-disposal-dubai` | Live (secondary) |
 | fit out waste removal dubai | 🟡 Good | Commercial | `/blog/renovation-waste-disposal-dubai` | Live (secondary) |
 | construction debris disposal dubai | 🟡 Good | Commercial | `/blog/renovation-waste-disposal-dubai` | Live (secondary) |
+
+### Office furniture, desks & workstations (added 5 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| office furniture disposal dubai | 🟢 Strong | Info → commercial | `/blog/how-to-dispose-of-office-furniture-in-dubai` | Live (primary) |
+| office desk disposal dubai | 🟢 Strong | Commercial | `/blog/how-to-dispose-of-office-furniture-in-dubai` | Live (secondary) |
+| workstation removal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-office-furniture-in-dubai` | Live (secondary) |
+| commercial furniture disposal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-office-furniture-in-dubai` | Live (secondary) |
+
+### Barbecue grills & outdoor cooking stations (added 5 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| bbq disposal dubai | 🟢 Strong | Info → commercial | `/blog/how-to-dispose-of-a-bbq-grill-in-dubai` | Live (primary) |
+| barbecue grill removal dubai | 🟢 Strong | Commercial | `/blog/how-to-dispose-of-a-bbq-grill-in-dubai` | Live (secondary) |
+| gas grill disposal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-bbq-grill-in-dubai` | Live (secondary) |
+| outdoor grill removal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-bbq-grill-in-dubai` | Live (secondary) |
+
+### Glass, mirrors & architectural panels (added 5 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| glass disposal dubai | 🟢 Strong | Info → commercial | `/blog/glass-and-mirror-disposal-dubai` | Live (primary) |
+| mirror disposal dubai | 🟢 Strong | Commercial | `/blog/glass-and-mirror-disposal-dubai` | Live (secondary) |
+| broken glass disposal dubai | 🟡 Good | Commercial | `/blog/glass-and-mirror-disposal-dubai` | Live (secondary) |
+| shower screen removal dubai | ⚪ Long-tail | Commercial | `/blog/glass-and-mirror-disposal-dubai` | Live (secondary) |
 
 ---
 

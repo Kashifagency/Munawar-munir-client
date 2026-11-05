@@ -56,7 +56,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Schedule an early pre-handover walkthrough with your landlord's asset manager six to eight weeks before lease expiration. Clarify exactly which partition screens, reception desks, and cabling networks they want removed, avoiding disputed deposit deductions later.",
+      p: "Schedule an early pre-handover walkthrough with your landlord's asset manager six to eight weeks before lease expiration. Clarify exactly which partition screens, reception desks, and cabling networks they want removed, avoiding disputed deposit deductions later. For step-by-step guidance on disassembling desking pods and meeting building regulations, consult our guide to [office furniture disposal in Dubai](/blog/how-to-dispose-of-office-furniture-in-dubai).",
     },
     { h2: "8 to 6 weeks before: asset auditing and commercial lease review" },
     {
