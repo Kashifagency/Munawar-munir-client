@@ -61,7 +61,7 @@ const post: Post = {
     },
     { h2: "Enough people for every piece" },
     {
-      p: "Many damages happen when a piece is too heavy for the crew. People improvise, drag instead of lift, rest corners on the floor or squeeze through doorways at an angle. A solid marble dining top can need four people; a large designer sectional, a piano or an antique armoire may need more. Experienced teams assess weight from photos and send the right number of people from the start, rather than improvising on the day.",
+      p: "Many damages happen when a piece is too heavy for the crew. People improvise, drag instead of lift, rest corners on the floor or squeeze through doorways at an angle. A solid marble dining top can need four people; a large designer sectional, a [piano](/blog/piano-removal-and-disposal-dubai) or an antique armoire may need more. Experienced teams assess weight from photos and send the right number of people from the start, rather than improvising on the day.",
     },
     { h2: "The right equipment" },
     {

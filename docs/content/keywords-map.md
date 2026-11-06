@@ -389,6 +389,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | broken glass disposal dubai | 🟡 Good | Commercial | `/blog/glass-and-mirror-disposal-dubai` | Live (secondary) |
 | shower screen removal dubai | ⚪ Long-tail | Commercial | `/blog/glass-and-mirror-disposal-dubai` | Live (secondary) |
 
+### Pianos & heavy acoustic instruments (added 6 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| piano removal dubai | 🟢 Strong | Info → commercial | `/blog/piano-removal-and-disposal-dubai` | Live (primary) |
+| piano disposal dubai | 🟢 Strong | Commercial | `/blog/piano-removal-and-disposal-dubai` | Live (secondary) |
+| upright piano removal dubai | 🟡 Good | Commercial | `/blog/piano-removal-and-disposal-dubai` | Live (secondary) |
+| grand piano disposal dubai | ⚪ Long-tail | Commercial | `/blog/piano-removal-and-disposal-dubai` | Live (secondary) |
+
+### Trampolines & garden play equipment (added 6 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| trampoline removal dubai | 🟢 Strong | Info → commercial | `/blog/trampoline-and-play-equipment-removal-dubai` | Live (primary) |
+| trampoline disposal dubai | 🟢 Strong | Commercial | `/blog/trampoline-and-play-equipment-removal-dubai` | Live (secondary) |
+| play equipment removal dubai | 🟡 Good | Commercial | `/blog/trampoline-and-play-equipment-removal-dubai` | Live (secondary) |
+| swing set disposal dubai | 🟡 Good | Commercial | `/blog/trampoline-and-play-equipment-removal-dubai` | Live (secondary) |
+
+### Curtains, blinds & window fixtures (added 6 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| curtain removal dubai | 🟢 Strong | Info → commercial | `/blog/curtain-and-blind-removal-dubai` | Live (primary) |
+| blinds removal dubai | 🟢 Strong | Commercial | `/blog/curtain-and-blind-removal-dubai` | Live (secondary) |
+| curtain track removal dubai | 🟡 Good | Commercial | `/blog/curtain-and-blind-removal-dubai` | Live (secondary) |
+| window blinds disposal dubai | 🟡 Good | Commercial | `/blog/curtain-and-blind-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

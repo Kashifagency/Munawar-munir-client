@@ -166,6 +166,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 44 | office furniture disposal dubai | How to Dispose of Office Furniture in Dubai: Desks, Chairs & Workstations | Info → commercial | office-furniture-removal, junk-removal | ✅ |
 | 45 | bbq disposal dubai | How to Dispose of an Old BBQ or Outdoor Grill in Dubai | Info → commercial | garden-waste-removal, junk-removal | ✅ |
 | 46 | glass disposal dubai | Glass and Mirror Disposal in Dubai: Safe Removal, Rules & Recycling | Info → commercial | junk-removal, furniture-removal | ✅ |
+| 47 | piano removal dubai | Piano Removal and Disposal in Dubai: Upright, Grand & Digital Pianos | Info → commercial | luxury-furniture-removal, furniture-removal | ✅ |
+| 48 | trampoline removal dubai | Trampoline and Garden Play Equipment Removal in Dubai: Full Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
+| 49 | curtain removal dubai | Curtain and Blind Removal in Dubai: Tenancy Handover & Disposal | Info → commercial | furniture-removal, junk-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

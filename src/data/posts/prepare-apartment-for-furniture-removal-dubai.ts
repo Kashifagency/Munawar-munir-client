@@ -117,10 +117,11 @@ const post: Post = {
         "**Large mirrors and artwork:** wrapped with corner protection and carried upright.",
         "**Recliners and motorised beds:** unplugged first, and the mechanism secured.",
         "**Appliances:** disconnected from water and gas by a technician before collection.",
+        "**Curtains and window blinds:** taken down, tracks unbolted and drill holes patched for tenancy checkout.",
       ],
     },
     {
-      p: "If you have designer or high-value pieces, read how professionals [move luxury furniture without damage](/blog/how-to-move-luxury-furniture-without-damage) before you book.",
+      p: "If you are vacating a leased apartment and need window fixtures removed, read our full guide on [curtain and blind removal in Dubai](/blog/curtain-and-blind-removal-dubai). If you have designer or high-value pieces, read how professionals [move luxury furniture without damage](/blog/how-to-move-luxury-furniture-without-damage) before you book.",
     },
     { h2: "What to tell your removal company when you book" },
     {

@@ -161,7 +161,7 @@ const post: Post = {
     },
     { h2: "Step-by-step: preparing large outdoor sets for clearance" },
     {
-      p: "Large garden furnishings—such as eight-seater dining tables, solid stone barbecue islands, heavy daybeds, and freestanding gazebos—require systematic dismantling before they can be safely removed from villa grounds without damaging delicate landscaping, irrigation lines, or patio pavers. If you are also clearing out a rusted outdoor cooker, consult our guide on [how to dispose of an old BBQ grill in Dubai](/blog/how-to-dispose-of-a-bbq-grill-in-dubai).",
+      p: "Large garden furnishings—such as eight-seater dining tables, solid stone barbecue islands, heavy daybeds, and freestanding gazebos—require systematic dismantling before they can be safely removed from villa grounds without damaging delicate landscaping, irrigation lines, or patio pavers. If you are clearing out an old cooker or outdoor play equipment, consult our guides on [how to dispose of an old BBQ grill in Dubai](/blog/how-to-dispose-of-a-bbq-grill-in-dubai) and [trampoline and play equipment removal in Dubai](/blog/trampoline-and-play-equipment-removal-dubai).",
     },
     {
       p: "Follow these practical preparation steps to streamline your garden clearance:",
