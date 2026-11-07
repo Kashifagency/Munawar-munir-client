@@ -416,6 +416,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | curtain track removal dubai | 🟡 Good | Commercial | `/blog/curtain-and-blind-removal-dubai` | Live (secondary) |
 | window blinds disposal dubai | 🟡 Good | Commercial | `/blog/curtain-and-blind-removal-dubai` | Live (secondary) |
 
+### Pool tables & billiard equipment (added 7 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| pool table removal dubai | 🟢 Strong | Info → commercial | `/blog/pool-table-removal-and-disposal-dubai` | Live (primary) |
+| pool table disposal dubai | 🟢 Strong | Commercial | `/blog/pool-table-removal-and-disposal-dubai` | Live (secondary) |
+| snooker table removal dubai | 🟡 Good | Commercial | `/blog/pool-table-removal-and-disposal-dubai` | Live (secondary) |
+| billiard table disposal dubai | ⚪ Long-tail | Commercial | `/blog/pool-table-removal-and-disposal-dubai` | Live (secondary) |
+
+### Plant pots & garden planters (added 7 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| plant pot disposal dubai | 🟢 Strong | Info → commercial | `/blog/plant-pot-and-planter-disposal-dubai` | Live (primary) |
+| garden planter removal dubai | 🟢 Strong | Commercial | `/blog/plant-pot-and-planter-disposal-dubai` | Live (secondary) |
+| heavy plant pot removal dubai | 🟡 Good | Commercial | `/blog/plant-pot-and-planter-disposal-dubai` | Live (secondary) |
+| balcony planter disposal dubai | ⚪ Long-tail | Commercial | `/blog/plant-pot-and-planter-disposal-dubai` | Live (secondary) |
+
+### Gazebos, pergolas & garden shade structures (added 7 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| gazebo removal dubai | 🟢 Strong | Info → commercial | `/blog/gazebo-and-pergola-removal-dubai` | Live (primary) |
+| gazebo disposal dubai | 🟢 Strong | Commercial | `/blog/gazebo-and-pergola-removal-dubai` | Live (secondary) |
+| pergola removal dubai | 🟡 Good | Commercial | `/blog/gazebo-and-pergola-removal-dubai` | Live (secondary) |
+| outdoor canopy removal dubai | ⚪ Long-tail | Commercial | `/blog/gazebo-and-pergola-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)
