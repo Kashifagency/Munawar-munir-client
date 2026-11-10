@@ -39,7 +39,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Taking the time to disassemble your wardrobe methodically prevents expensive structural damage and ensures effortless building transit.",
+      p: "Taking the time to disassemble your wardrobe methodically prevents expensive structural damage and ensures effortless building transit — principles that apply equally to [bookshelf and bookcase removal](/blog/bookshelf-and-bookcase-removal-dubai) and modular wall storage units.",
     },
     { h2: "Assessing your wardrobe: flat-pack, custom joinery, or sliding door systems" },
     {

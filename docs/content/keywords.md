@@ -175,6 +175,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 53 | garden shed removal dubai | Garden Shed Removal in Dubai: Outdoor Storage Dismantling Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
 | 54 | aquarium removal dubai | Aquarium and Fish Tank Removal in Dubai: Glass Disposal Guide | Info → commercial | furniture-removal, villa-furniture-clearance | ✅ |
 | 55 | safe removal dubai | Safe Removal and Disposal in Dubai: Heavy Vault Clearance Guide | Info → commercial | office-furniture-removal, villa-furniture-clearance | ✅ |
+| 56 | bookshelf removal dubai | Bookshelf and Bookcase Removal in Dubai: Shelving Clearance Guide | Info → commercial | furniture-removal, office-furniture-removal | ✅ |
+| 57 | patio umbrella removal dubai | Patio Umbrella and Cantilever Parasol Disposal in Dubai: Shade Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
+| 58 | baby crib disposal dubai | Baby Crib and Nursery Furniture Removal in Dubai: Disposal Guide | Info → commercial | furniture-removal, furniture-pickup-disposal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

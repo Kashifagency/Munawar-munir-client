@@ -470,6 +470,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | heavy safe removal dubai | 🟡 Good | Commercial | `/blog/safe-removal-and-disposal-dubai` | Live (secondary) |
 | fireproof safe disposal dubai | ⚪ Long-tail | Commercial | `/blog/safe-removal-and-disposal-dubai` | Live (secondary) |
 
+### Bookshelves, bookcases & library shelving (added 10 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| bookshelf removal dubai | 🟢 Strong | Info → commercial | `/blog/bookshelf-and-bookcase-removal-dubai` | Live (primary) |
+| bookcase disposal dubai | 🟢 Strong | Commercial | `/blog/bookshelf-and-bookcase-removal-dubai` | Live (secondary) |
+| library shelving removal dubai | 🟡 Good | Commercial | `/blog/bookshelf-and-bookcase-removal-dubai` | Live (secondary) |
+| study furniture clearance dubai | ⚪ Long-tail | Commercial | `/blog/bookshelf-and-bookcase-removal-dubai` | Live (secondary) |
+
+### Patio umbrellas & cantilever parasols (added 10 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| patio umbrella removal dubai | 🟢 Strong | Info → commercial | `/blog/patio-umbrella-and-parasol-disposal-dubai` | Live (primary) |
+| parasol disposal dubai | 🟢 Strong | Commercial | `/blog/patio-umbrella-and-parasol-disposal-dubai` | Live (secondary) |
+| cantilever umbrella removal dubai | 🟡 Good | Commercial | `/blog/patio-umbrella-and-parasol-disposal-dubai` | Live (secondary) |
+| heavy umbrella base disposal dubai | ⚪ Long-tail | Commercial | `/blog/patio-umbrella-and-parasol-disposal-dubai` | Live (secondary) |
+
+### Baby cribs, cots & nursery furniture (added 10 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| baby crib disposal dubai | 🟢 Strong | Info → commercial | `/blog/baby-crib-and-nursery-furniture-removal-dubai` | Live (primary) |
+| cot removal dubai | 🟢 Strong | Commercial | `/blog/baby-crib-and-nursery-furniture-removal-dubai` | Live (secondary) |
+| nursery furniture removal dubai | 🟡 Good | Commercial | `/blog/baby-crib-and-nursery-furniture-removal-dubai` | Live (secondary) |
+| changing table removal dubai | ⚪ Long-tail | Commercial | `/blog/baby-crib-and-nursery-furniture-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

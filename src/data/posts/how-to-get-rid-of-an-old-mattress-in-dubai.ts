@@ -45,7 +45,7 @@ const post: Post = {
     },
     { h3: "1. Pass it on — only if it's genuinely clean" },
     {
-      p: "A mattress that's only a year or two old, stain-free and kept with a protector can sometimes go to a friend, a colleague, a domestic worker who needs one, or a community group. Be honest about its condition. Most people won't accept a used mattress unless it's in very good shape, and many charities don't take mattresses at all for hygiene reasons — always call first.",
+      p: "A mattress that's only a year or two old, stain-free and kept with a protector can sometimes go to a friend, a colleague, a domestic worker who needs one, or a community group. Be honest about its condition. Most people won't accept a used mattress unless it's in very good shape, and many charities don't take mattresses at all for hygiene reasons — always call first. This restriction is especially strict for infant bedding, as explained in our guide on [baby crib and nursery furniture removal](/blog/baby-crib-and-nursery-furniture-removal-dubai).",
     },
     { h3: "2. Ask the retailer delivering your new one" },
     {
