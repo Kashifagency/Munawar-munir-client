@@ -443,6 +443,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | pergola removal dubai | 🟡 Good | Commercial | `/blog/gazebo-and-pergola-removal-dubai` | Live (secondary) |
 | outdoor canopy removal dubai | ⚪ Long-tail | Commercial | `/blog/gazebo-and-pergola-removal-dubai` | Live (secondary) |
 
+### Garden sheds & outdoor storage (added 9 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| garden shed removal dubai | 🟢 Strong | Info → commercial | `/blog/garden-shed-removal-dubai` | Live (primary) |
+| shed disposal dubai | 🟢 Strong | Commercial | `/blog/garden-shed-removal-dubai` | Live (secondary) |
+| outdoor storage box removal dubai | 🟡 Good | Commercial | `/blog/garden-shed-removal-dubai` | Live (secondary) |
+| keter shed dismantling dubai | ⚪ Long-tail | Commercial | `/blog/garden-shed-removal-dubai` | Live (secondary) |
+
+### Aquariums & fish tanks (added 9 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| aquarium removal dubai | 🟢 Strong | Info → commercial | `/blog/aquarium-and-fish-tank-removal-dubai` | Live (primary) |
+| fish tank disposal dubai | 🟢 Strong | Commercial | `/blog/aquarium-and-fish-tank-removal-dubai` | Live (secondary) |
+| large aquarium removal dubai | 🟡 Good | Commercial | `/blog/aquarium-and-fish-tank-removal-dubai` | Live (secondary) |
+| aquarium glass recycling dubai | ⚪ Long-tail | Commercial | `/blog/aquarium-and-fish-tank-removal-dubai` | Live (secondary) |
+
+### Security safes & heavy vaults (added 9 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| safe removal dubai | 🟢 Strong | Info → commercial | `/blog/safe-removal-and-disposal-dubai` | Live (primary) |
+| safe disposal dubai | 🟢 Strong | Commercial | `/blog/safe-removal-and-disposal-dubai` | Live (secondary) |
+| heavy safe removal dubai | 🟡 Good | Commercial | `/blog/safe-removal-and-disposal-dubai` | Live (secondary) |
+| fireproof safe disposal dubai | ⚪ Long-tail | Commercial | `/blog/safe-removal-and-disposal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

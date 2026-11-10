@@ -36,7 +36,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Coordinating the professional dismantling of outdoor structures as part of your comprehensive [villa furniture clearance](/services/villa-furniture-clearance) ensures that your garden passes developer scrutiny on the first inspection.",
+      p: "Coordinating the professional dismantling of outdoor structures as part of your comprehensive [villa furniture clearance](/services/villa-furniture-clearance) ensures that your garden passes developer scrutiny on the first inspection — just as vacating tenants must coordinate [garden shed removal](/blog/garden-shed-removal-dubai) for outdoor tool stores.",
     },
     { h2: "Types of outdoor shade structures and their dismantling complexities" },
     {

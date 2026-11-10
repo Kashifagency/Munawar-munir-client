@@ -172,6 +172,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 50 | pool table removal dubai | Pool Table Removal and Disposal in Dubai: Dismantling & Transport Guide | Info → commercial | luxury-furniture-removal, furniture-removal | ✅ |
 | 51 | plant pot disposal dubai | Plant Pot and Garden Planter Disposal in Dubai: Balcony & Villa Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
 | 52 | gazebo removal dubai | Gazebo and Pergola Removal in Dubai: Garden Shade Dismantling Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
+| 53 | garden shed removal dubai | Garden Shed Removal in Dubai: Outdoor Storage Dismantling Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
+| 54 | aquarium removal dubai | Aquarium and Fish Tank Removal in Dubai: Glass Disposal Guide | Info → commercial | furniture-removal, villa-furniture-clearance | ✅ |
+| 55 | safe removal dubai | Safe Removal and Disposal in Dubai: Heavy Vault Clearance Guide | Info → commercial | office-furniture-removal, villa-furniture-clearance | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

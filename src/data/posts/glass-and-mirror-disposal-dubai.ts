@@ -36,7 +36,7 @@ const post: Post = {
       ],
     },
     {
-      p: "To avoid building disputes and eliminate personal safety risks, booking an experienced [junk removal](/services/junk-removal) crew equipped with heavy-duty glass carriers is the safest and most reliable approach.",
+      p: "To avoid building disputes and eliminate personal safety risks, booking an experienced [junk removal](/services/junk-removal) crew equipped with heavy-duty glass carriers is the safest and most reliable approach — particularly for oversized installations like heavy [aquarium removal](/blog/aquarium-and-fish-tank-removal-dubai) where water weight and brittle panes combine.",
     },
     { h2: "Understanding glass types: annealed, tempered, laminated, and mirrors" },
     {

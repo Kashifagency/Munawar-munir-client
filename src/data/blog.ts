@@ -53,6 +53,9 @@ import curtainBlindRemoval from "./posts/curtain-and-blind-removal-dubai";
 import poolTableRemoval from "./posts/pool-table-removal-and-disposal-dubai";
 import plantPotDisposal from "./posts/plant-pot-and-planter-disposal-dubai";
 import gazeboRemoval from "./posts/gazebo-and-pergola-removal-dubai";
+import gardenShedRemoval from "./posts/garden-shed-removal-dubai";
+import aquariumRemoval from "./posts/aquarium-and-fish-tank-removal-dubai";
+import safeRemoval from "./posts/safe-removal-and-disposal-dubai";
 
 export type Block =
   | { h2: string }
@@ -140,6 +143,9 @@ export const posts: Post[] = [
   poolTableRemoval,
   plantPotDisposal,
   gazeboRemoval,
+  gardenShedRemoval,
+  aquariumRemoval,
+  safeRemoval,
 ];
 
 export function getPost(slug: string) {

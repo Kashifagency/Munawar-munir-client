@@ -63,7 +63,7 @@ const post: Post = {
         "**Modular cluster workstations and executive desking:** Standard melamine-faced chipboard (MFC) tops with powdered steel legs. While high-end designer desks (such as Herman Miller, Steelcase, or Haworth) retain resale value, generic flat-pack desking clusters often have minimal second-hand demand in Dubai and are prime candidates for material recycling.",
         "**Ergonomic task chairs and conference seating:** Quality mesh task chairs with intact hydraulic gas-lift cylinders and lumbar supports can often be repurposed, donated, or resold to small enterprise incubators. Worn, stained, or broken chairs should be channelled directly into industrial scrap sorting.",
         "**Storage pedestals, credenzas, and tambour units:** Mobile three-drawer steel pedestals and melamine storage credenzas are heavy and bulky. Metal units hold significant scrap value for licensed recycling smelters, while lockable wooden credenzas can frequently be rehomed.",
-        "**Boardroom tables and acoustic breakout pods:** Solid hardwood or marble-topped boardroom tables require careful white-glove dismantling to avoid cracking the central slab or veneer. Modular acoustic phone booths require electrical disconnection before unbolting structural panels.",
+        "**Boardroom tables and acoustic breakout pods:** Solid hardwood or marble-topped boardroom tables require careful white-glove dismantling to avoid cracking the central slab or veneer. Modular acoustic phone booths require electrical disconnection before unbolting structural panels. For heavy anchored security cabinets and vaults, consult our dedicated guide on [safe removal](/blog/safe-removal-and-disposal-dubai).",
       ],
     },
     {
