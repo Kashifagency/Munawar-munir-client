@@ -178,6 +178,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 56 | bookshelf removal dubai | Bookshelf and Bookcase Removal in Dubai: Shelving Clearance Guide | Info → commercial | furniture-removal, office-furniture-removal | ✅ |
 | 57 | patio umbrella removal dubai | Patio Umbrella and Cantilever Parasol Disposal in Dubai: Shade Guide | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
 | 58 | baby crib disposal dubai | Baby Crib and Nursery Furniture Removal in Dubai: Disposal Guide | Info → commercial | furniture-removal, furniture-pickup-disposal | ✅ |
+| 59 | massage chair removal dubai | Massage Chair Removal and Disposal in Dubai: Recliner Guide | Info → commercial | furniture-removal, luxury-furniture-removal | ✅ |
+| 60 | sun lounger disposal dubai | Sun Lounger and Daybed Disposal in Dubai: Poolside Clearance | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
+| 61 | dressing table disposal dubai | Dressing Table and Vanity Removal in Dubai: Bedroom Guide | Info → commercial | furniture-removal, wardrobe-cabinet-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

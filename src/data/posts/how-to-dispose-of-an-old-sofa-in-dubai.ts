@@ -34,7 +34,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Sit on every section and listen for movement or cracking. Test recliners and sofa beds carefully. Look underneath for loose webbing, protruding springs and repairs that may fail while the sofa is carried. If you would not offer it to a guest, do not describe it as donation-ready.",
+      p: "Sit on every section and listen for movement or cracking. Test recliners and sofa beds carefully. Look underneath for loose webbing, protruding springs and repairs that may fail while the sofa is carried. If you would not offer it to a guest, do not describe it as donation-ready. For motorized or massage seating, consult our guide on [massage chair removal and recliner disposal](/blog/massage-chair-removal-and-disposal-dubai) to handle internal electronics and hydraulic air pumps safely.",
     },
     { h2: "Option 1: sell the sofa" },
     {

@@ -52,7 +52,7 @@ const post: Post = {
     },
     { h3: "Silvered wall and vanity mirrors" },
     {
-      p: "Mirrors consist of a sheet of float glass coated with a thin chemical layer of reflective silver or aluminium, sealed with protective enamel paint. Because of this composite backing, mirrors cannot be mixed with ordinary clear container glass at bottle recycling plants. They must be handled through separate industrial reclamation channels.",
+      p: "Mirrors consist of a sheet of float glass coated with a thin chemical layer of reflective silver or aluminium, sealed with protective enamel paint. Because of this composite backing, mirrors cannot be mixed with ordinary clear container glass at bottle recycling plants. They must be handled through separate industrial reclamation channels — as detailed in our guide on [dressing table and vanity removal](/blog/dressing-table-and-vanity-removal-dubai).",
     },
     { h3: "Laminated and wired safety glass" },
     {

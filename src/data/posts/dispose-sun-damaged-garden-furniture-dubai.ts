@@ -40,7 +40,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Recognising these aggressive weathering factors helps you determine whether seasonal maintenance will suffice or if the physical integrity of your outdoor set has been irreparably compromised.",
+      p: "Recognising these aggressive weathering factors helps you determine whether seasonal maintenance will suffice or if the physical integrity of your outdoor set has been irreparably compromised — particularly for poolside loungers and daybeds covered in our guide on [sun lounger disposal](/blog/sun-lounger-and-daybed-disposal-dubai).",
     },
     { h2: "Material inspection: can your garden furniture be salvaged?" },
     {

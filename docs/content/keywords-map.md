@@ -497,6 +497,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | nursery furniture removal dubai | 🟡 Good | Commercial | `/blog/baby-crib-and-nursery-furniture-removal-dubai` | Live (secondary) |
 | changing table removal dubai | ⚪ Long-tail | Commercial | `/blog/baby-crib-and-nursery-furniture-removal-dubai` | Live (secondary) |
 
+### Massage chairs & electric recliners (added 11 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| massage chair removal dubai | 🟢 Strong | Info → commercial | `/blog/massage-chair-removal-and-disposal-dubai` | Live (primary) |
+| massage chair disposal dubai | 🟢 Strong | Commercial | `/blog/massage-chair-removal-and-disposal-dubai` | Live (secondary) |
+| electric recliner removal dubai | 🟡 Good | Commercial | `/blog/massage-chair-removal-and-disposal-dubai` | Live (secondary) |
+| recliner chair disposal dubai | ⚪ Long-tail | Commercial | `/blog/massage-chair-removal-and-disposal-dubai` | Live (secondary) |
+
+### Sun loungers & poolside daybeds (added 11 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| sun lounger disposal dubai | 🟢 Strong | Info → commercial | `/blog/sun-lounger-and-daybed-disposal-dubai` | Live (primary) |
+| sun lounger removal dubai | 🟢 Strong | Commercial | `/blog/sun-lounger-and-daybed-disposal-dubai` | Live (secondary) |
+| outdoor daybed disposal dubai | 🟡 Good | Commercial | `/blog/sun-lounger-and-daybed-disposal-dubai` | Live (secondary) |
+| poolside furniture removal dubai | ⚪ Long-tail | Commercial | `/blog/sun-lounger-and-daybed-disposal-dubai` | Live (secondary) |
+
+### Dressing tables, makeup vanities & bedroom mirrors (added 11 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| dressing table disposal dubai | 🟢 Strong | Info → commercial | `/blog/dressing-table-and-vanity-removal-dubai` | Live (primary) |
+| dressing table removal dubai | 🟢 Strong | Commercial | `/blog/dressing-table-and-vanity-removal-dubai` | Live (secondary) |
+| vanity table removal dubai | 🟡 Good | Commercial | `/blog/dressing-table-and-vanity-removal-dubai` | Live (secondary) |
+| makeup vanity disposal dubai | ⚪ Long-tail | Commercial | `/blog/dressing-table-and-vanity-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)
