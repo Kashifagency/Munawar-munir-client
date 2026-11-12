@@ -181,6 +181,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 59 | massage chair removal dubai | Massage Chair Removal and Disposal in Dubai: Recliner Guide | Info → commercial | furniture-removal, luxury-furniture-removal | ✅ |
 | 60 | sun lounger disposal dubai | Sun Lounger and Daybed Disposal in Dubai: Poolside Clearance | Info → commercial | garden-waste-removal, villa-furniture-clearance | ✅ |
 | 61 | dressing table disposal dubai | Dressing Table and Vanity Removal in Dubai: Bedroom Guide | Info → commercial | furniture-removal, wardrobe-cabinet-removal | ✅ |
+| 62 | tv unit disposal dubai | TV Unit and Media Console Removal in Dubai: Living Room Guide | Info → commercial | furniture-removal, appliance-removal | ✅ |
+| 63 | coffee table disposal dubai | Coffee Table and Side Table Disposal in Dubai: Living Room Guide | Info → commercial | furniture-removal, luxury-furniture-removal | ✅ |
+| 64 | shoe cabinet disposal dubai | Shoe Cabinet and Entryway Furniture Removal in Dubai: Hallway Guide | Info → commercial | furniture-removal, wardrobe-cabinet-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

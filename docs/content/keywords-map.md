@@ -524,6 +524,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | vanity table removal dubai | 🟡 Good | Commercial | `/blog/dressing-table-and-vanity-removal-dubai` | Live (secondary) |
 | makeup vanity disposal dubai | ⚪ Long-tail | Commercial | `/blog/dressing-table-and-vanity-removal-dubai` | Live (secondary) |
 
+### TV units, media consoles & entertainment centres (added 12 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| tv unit disposal dubai | 🟢 Strong | Info → commercial | `/blog/tv-unit-and-media-console-removal-dubai` | Live (primary) |
+| tv unit removal dubai | 🟢 Strong | Commercial | `/blog/tv-unit-and-media-console-removal-dubai` | Live (secondary) |
+| media console removal dubai | 🟡 Good | Commercial | `/blog/tv-unit-and-media-console-removal-dubai` | Live (secondary) |
+| entertainment center disposal dubai | ⚪ Long-tail | Commercial | `/blog/tv-unit-and-media-console-removal-dubai` | Live (secondary) |
+
+### Coffee tables, nesting tables & accent tables (added 12 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| coffee table disposal dubai | 🟢 Strong | Info → commercial | `/blog/coffee-table-and-side-table-disposal-dubai` | Live (primary) |
+| coffee table removal dubai | 🟢 Strong | Commercial | `/blog/coffee-table-and-side-table-disposal-dubai` | Live (secondary) |
+| side table removal dubai | 🟡 Good | Commercial | `/blog/coffee-table-and-side-table-disposal-dubai` | Live (secondary) |
+| nesting table disposal dubai | ⚪ Long-tail | Commercial | `/blog/coffee-table-and-side-table-disposal-dubai` | Live (secondary) |
+
+### Shoe cabinets, entryway storage & hallway consoles (added 12 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| shoe cabinet disposal dubai | 🟢 Strong | Info → commercial | `/blog/shoe-cabinet-and-entryway-storage-removal-dubai` | Live (primary) |
+| shoe cabinet removal dubai | 🟢 Strong | Commercial | `/blog/shoe-cabinet-and-entryway-storage-removal-dubai` | Live (secondary) |
+| entryway furniture removal dubai | 🟡 Good | Commercial | `/blog/shoe-cabinet-and-entryway-storage-removal-dubai` | Live (secondary) |
+| shoe rack disposal dubai | ⚪ Long-tail | Commercial | `/blog/shoe-cabinet-and-entryway-storage-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

@@ -153,7 +153,7 @@ const post: Post = {
     },
     { h2: "Building rules, freight elevators, and community access" },
     {
-      p: "Removing oversized electronic displays and home cinema consoles from high-density residential towers across Dubai requires strict adherence to building management rules. Attempting to maneuver an eighty-five-inch screen into a crowded passenger elevator can damage glass mirrors and scratch stainless steel handrails, resulting in building penalty notices.",
+      p: "Removing oversized electronic displays and home cinema consoles from high-density residential towers across Dubai requires strict adherence to building management rules. If you are also clearing your entertainment centre, our guide on [TV unit and media console removal in Dubai](/blog/tv-unit-and-media-console-removal-dubai) covers wall unmounting and deconstruction. Attempting to maneuver an eighty-five-inch screen into a crowded passenger elevator can damage glass mirrors and scratch stainless steel handrails, resulting in building penalty notices.",
     },
     {
       p: "Key tower access protocols to observe include:",

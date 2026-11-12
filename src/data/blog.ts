@@ -62,6 +62,9 @@ import babyCribRemoval from "./posts/baby-crib-and-nursery-furniture-removal-dub
 import massageChairRemoval from "./posts/massage-chair-removal-and-disposal-dubai";
 import sunLoungerDisposal from "./posts/sun-lounger-and-daybed-disposal-dubai";
 import dressingTableDisposal from "./posts/dressing-table-and-vanity-removal-dubai";
+import tvUnitRemoval from "./posts/tv-unit-and-media-console-removal-dubai";
+import coffeeTableDisposal from "./posts/coffee-table-and-side-table-disposal-dubai";
+import shoeCabinetRemoval from "./posts/shoe-cabinet-and-entryway-storage-removal-dubai";
 
 export type Block =
   | { h2: string }
@@ -158,6 +161,9 @@ export const posts: Post[] = [
   massageChairRemoval,
   sunLoungerDisposal,
   dressingTableDisposal,
+  tvUnitRemoval,
+  coffeeTableDisposal,
+  shoeCabinetRemoval,
 ];
 
 export function getPost(slug: string) {

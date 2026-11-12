@@ -65,7 +65,7 @@ const post: Post = {
       ],
     },
     {
-      p: "A professional [wardrobe removal](/services/wardrobe-cabinet-removal) or [sofa removal](/services/sofa-removal) crew brings the right tools for dismantling and keeps every screw and fitting together. If you are taking down large storage units yourself, follow our step-by-step guide on [how to dismantle a wardrobe for moving](/blog/how-to-dismantle-wardrobe-for-moving-dubai). For outdoor spaces and terraces, consult our guide on [balcony furniture clearance in Dubai](/blog/balcony-furniture-clearance-dubai) to manage high-rise wind safety, weathered rattan, and heavy planters.",
+      p: "A professional [wardrobe removal](/services/wardrobe-cabinet-removal) or [sofa removal](/services/sofa-removal) crew brings the right tools for dismantling and keeps every screw and fitting together. If you are taking down large storage units yourself, follow our step-by-step guide on [how to dismantle a wardrobe for moving](/blog/how-to-dismantle-wardrobe-for-moving-dubai). For hallway storage, see our [shoe cabinet and entryway furniture removal guide](/blog/shoe-cabinet-and-entryway-storage-removal-dubai) to handle wall brackets and drop-down drawers. For outdoor spaces and terraces, consult our guide on [balcony furniture clearance in Dubai](/blog/balcony-furniture-clearance-dubai) to manage high-rise wind safety, weathered rattan, and heavy planters.",
     },
     { h2: "4. Clear the route" },
     {

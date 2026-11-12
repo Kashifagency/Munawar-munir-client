@@ -46,7 +46,7 @@ const post: Post = {
     },
     {
       ul: [
-        "**Marble and stone:** tops are separated from bases and carried vertically on their edge, never flat, with padding on every corner. Flat-carried stone can crack under its own weight — the same structural principle applies when handling heavy stone beds during a [pool table removal](/blog/pool-table-removal-and-disposal-dubai).",
+        "**Marble and stone:** tops are separated from bases and carried vertically on their edge, never flat, with padding on every corner. Flat-carried stone can crack under its own weight — the same structural principle applies when handling heavy stone beds during a [pool table removal](/blog/pool-table-removal-and-disposal-dubai) or arranging a [coffee table disposal in Dubai](/blog/coffee-table-and-side-table-disposal-dubai).",
         "**Glass:** removed from frames, wrapped in protective layers and carried separately and upright.",
         "**Lacquer and high-gloss finishes:** soft blankets first — stretch wrap directly on some finishes can mark or stick to them, especially in heat.",
         "**Leather:** covered to protect against scuffs and dust, and kept out of direct sun.",
