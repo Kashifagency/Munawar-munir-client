@@ -39,7 +39,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Careful pre-planning and structured disassembly are crucial to overcoming these physical constraints safely.",
+      p: "Careful pre-planning and structured disassembly are crucial to overcoming these physical constraints safely. If your dining room also includes matching storage buffets or credenzas, see our guide on [sideboard and buffet cabinet removal](/blog/sideboard-and-buffet-cabinet-removal-dubai).",
     },
     { h2: "Material assessment: solid hardwood, marble slabs, glass tops, and veneers" },
     {

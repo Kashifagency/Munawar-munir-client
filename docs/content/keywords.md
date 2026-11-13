@@ -184,6 +184,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 62 | tv unit disposal dubai | TV Unit and Media Console Removal in Dubai: Living Room Guide | Info → commercial | furniture-removal, appliance-removal | ✅ |
 | 63 | coffee table disposal dubai | Coffee Table and Side Table Disposal in Dubai: Living Room Guide | Info → commercial | furniture-removal, luxury-furniture-removal | ✅ |
 | 64 | shoe cabinet disposal dubai | Shoe Cabinet and Entryway Furniture Removal in Dubai: Hallway Guide | Info → commercial | furniture-removal, wardrobe-cabinet-removal | ✅ |
+| 65 | chest of drawers disposal dubai | Chest of Drawers and Dresser Removal in Dubai: Bedroom Guide | Info → commercial | furniture-removal, wardrobe-cabinet-removal | ✅ |
+| 66 | sofa bed disposal dubai | Sofa Bed and Futon Disposal in Dubai: Sleeper Couch Removal Guide | Info → commercial | sofa-removal, furniture-removal | ✅ |
+| 67 | sideboard disposal dubai | Sideboard and Buffet Cabinet Removal in Dubai: Dining Storage Guide | Info → commercial | dining-table-chair-removal, furniture-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

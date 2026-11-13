@@ -36,7 +36,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Booking dedicated [furniture removal](/services/furniture-removal) ensures that your bedroom vanity is disassembled methodically, protecting your walls and safeguarding your tenancy security deposit.",
+      p: "Booking dedicated [furniture removal](/services/furniture-removal) ensures that your bedroom vanity is disassembled methodically, protecting your walls and safeguarding your tenancy security deposit. If you are clearing matching bedroom storage, see our guide on [chest of drawers and dresser removal](/blog/chest-of-drawers-and-dresser-removal-dubai).",
     },
     { h2: "Classifying common dressing table styles in Dubai residences" },
     {

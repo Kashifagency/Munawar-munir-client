@@ -551,6 +551,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | entryway furniture removal dubai | 🟡 Good | Commercial | `/blog/shoe-cabinet-and-entryway-storage-removal-dubai` | Live (secondary) |
 | shoe rack disposal dubai | ⚪ Long-tail | Commercial | `/blog/shoe-cabinet-and-entryway-storage-removal-dubai` | Live (secondary) |
 
+### Chest of drawers, tallboys & bedroom dressers (added 13 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| chest of drawers disposal dubai | 🟢 Strong | Info → commercial | `/blog/chest-of-drawers-and-dresser-removal-dubai` | Live (primary) |
+| chest of drawers removal dubai | 🟢 Strong | Commercial | `/blog/chest-of-drawers-and-dresser-removal-dubai` | Live (secondary) |
+| dresser disposal dubai | 🟡 Good | Commercial | `/blog/chest-of-drawers-and-dresser-removal-dubai` | Live (secondary) |
+| tallboy removal dubai | ⚪ Long-tail | Commercial | `/blog/chest-of-drawers-and-dresser-removal-dubai` | Live (secondary) |
+
+### Sofa beds, futons & sleeper couches (added 13 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| sofa bed disposal dubai | 🟢 Strong | Info → commercial | `/blog/sofa-bed-and-futon-disposal-dubai` | Live (primary) |
+| sofa bed removal dubai | 🟢 Strong | Commercial | `/blog/sofa-bed-and-futon-disposal-dubai` | Live (secondary) |
+| futon disposal dubai | 🟡 Good | Commercial | `/blog/sofa-bed-and-futon-disposal-dubai` | Live (secondary) |
+| pull out couch removal dubai | ⚪ Long-tail | Commercial | `/blog/sofa-bed-and-futon-disposal-dubai` | Live (secondary) |
+
+### Sideboards, buffet cabinets & dining credenzas (added 13 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| sideboard disposal dubai | 🟢 Strong | Info → commercial | `/blog/sideboard-and-buffet-cabinet-removal-dubai` | Live (primary) |
+| sideboard removal dubai | 🟢 Strong | Commercial | `/blog/sideboard-and-buffet-cabinet-removal-dubai` | Live (secondary) |
+| buffet cabinet disposal dubai | 🟡 Good | Commercial | `/blog/sideboard-and-buffet-cabinet-removal-dubai` | Live (secondary) |
+| credenza removal dubai | ⚪ Long-tail | Commercial | `/blog/sideboard-and-buffet-cabinet-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)
