@@ -58,7 +58,7 @@ const post: Post = {
     },
     { h3: "4. Multi-tiered dining vitrines and display cabinets with glass hutches" },
     {
-      p: "Consisting of a lower enclosed storage sideboard topped with an illuminated upper glass display hutch, these two-piece units stand over two metres tall. Removal requires disconnecting internal wiring, unbolting rear mending plates connecting the upper hutch to the lower buffet, and transporting the sections separately.",
+      p: "Consisting of a lower enclosed storage sideboard topped with an illuminated upper glass display hutch, these two-piece units stand over two metres tall. Removal requires disconnecting internal wiring, unbolting rear mending plates connecting the upper hutch to the lower buffet, and transporting the sections separately. For dedicated standalone showcases and crystal vitrines, see our specialist guide on [display cabinet and vitrine removal in Dubai](/blog/display-cabinet-and-vitrine-removal-dubai).",
     },
     { h2: "Step-by-step: how professionals dismantle and clear dining sideboards" },
     {

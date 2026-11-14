@@ -578,6 +578,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | buffet cabinet disposal dubai | 🟡 Good | Commercial | `/blog/sideboard-and-buffet-cabinet-removal-dubai` | Live (secondary) |
 | credenza removal dubai | ⚪ Long-tail | Commercial | `/blog/sideboard-and-buffet-cabinet-removal-dubai` | Live (secondary) |
 
+### Armchairs, accent chairs & lounge seating (added 14 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| armchair disposal dubai | 🟢 Strong | Info → commercial | `/blog/armchair-and-accent-chair-disposal-dubai` | Live (primary) |
+| armchair removal dubai | 🟢 Strong | Commercial | `/blog/armchair-and-accent-chair-disposal-dubai` | Live (secondary) |
+| accent chair disposal dubai | 🟡 Good | Commercial | `/blog/armchair-and-accent-chair-disposal-dubai` | Live (secondary) |
+| lounge chair removal dubai | ⚪ Long-tail | Commercial | `/blog/armchair-and-accent-chair-disposal-dubai` | Live (secondary) |
+
+### Rattan, synthetic weave & wicker outdoor furniture (added 14 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| rattan furniture disposal dubai | 🟢 Strong | Info → commercial | `/blog/rattan-and-wicker-furniture-disposal-dubai` | Live (primary) |
+| wicker furniture removal dubai | 🟢 Strong | Commercial | `/blog/rattan-and-wicker-furniture-disposal-dubai` | Live (secondary) |
+| outdoor rattan disposal dubai | 🟡 Good | Commercial | `/blog/rattan-and-wicker-furniture-disposal-dubai` | Live (secondary) |
+| patio wicker removal dubai | ⚪ Long-tail | Commercial | `/blog/rattan-and-wicker-furniture-disposal-dubai` | Live (secondary) |
+
+### Display cabinets, glass vitrines & curios (added 14 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| display cabinet disposal dubai | 🟢 Strong | Info → commercial | `/blog/display-cabinet-and-vitrine-removal-dubai` | Live (primary) |
+| display cabinet removal dubai | 🟢 Strong | Commercial | `/blog/display-cabinet-and-vitrine-removal-dubai` | Live (secondary) |
+| vitrine removal dubai | 🟡 Good | Commercial | `/blog/display-cabinet-and-vitrine-removal-dubai` | Live (secondary) |
+| glass cabinet disposal dubai | ⚪ Long-tail | Commercial | `/blog/display-cabinet-and-vitrine-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

@@ -187,6 +187,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 65 | chest of drawers disposal dubai | Chest of Drawers and Dresser Removal in Dubai: Bedroom Guide | Info → commercial | furniture-removal, wardrobe-cabinet-removal | ✅ |
 | 66 | sofa bed disposal dubai | Sofa Bed and Futon Disposal in Dubai: Sleeper Couch Removal Guide | Info → commercial | sofa-removal, furniture-removal | ✅ |
 | 67 | sideboard disposal dubai | Sideboard and Buffet Cabinet Removal in Dubai: Dining Storage Guide | Info → commercial | dining-table-chair-removal, furniture-removal | ✅ |
+| 68 | armchair disposal dubai | Armchair and Accent Chair Disposal in Dubai: Seating Clearance Guide | Info → commercial | sofa-removal, furniture-removal | ✅ |
+| 69 | rattan furniture disposal dubai | Rattan and Wicker Furniture Disposal in Dubai: Balcony & Garden Guide | Info → commercial | garden-waste-removal, furniture-removal | ✅ |
+| 70 | display cabinet disposal dubai | Display Cabinet and Vitrine Removal in Dubai: Glass Showcase Guide | Info → commercial | dining-table-chair-removal, furniture-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

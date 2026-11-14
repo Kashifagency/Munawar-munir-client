@@ -40,7 +40,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Recognising these aggressive weathering factors helps you determine whether seasonal maintenance will suffice or if the physical integrity of your outdoor set has been irreparably compromised — particularly for poolside loungers and daybeds covered in our guide on [sun lounger disposal](/blog/sun-lounger-and-daybed-disposal-dubai).",
+      p: "Recognising these aggressive weathering factors helps you determine whether seasonal maintenance will suffice or if the physical integrity of your outdoor set has been irreparably compromised — particularly for poolside loungers covered in our guide on [sun lounger disposal](/blog/sun-lounger-and-daybed-disposal-dubai) and woven patio sets detailed in our [rattan and wicker furniture disposal in Dubai](/blog/rattan-and-wicker-furniture-disposal-dubai) guide.",
     },
     { h2: "Material inspection: can your garden furniture be salvaged?" },
     {
