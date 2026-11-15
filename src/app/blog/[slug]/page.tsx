@@ -12,9 +12,10 @@ import { Icon, WhatsAppIcon } from "@/components/Icon";
 import { PostCard } from "@/components/PostCard";
 import { Container } from "@/components/ui";
 
-// ISR: re-render hourly. Scheduled slugs are not prebuilt; dynamicParams lets
+// ISR: daily fallback re-render (+ daily /api/revalidate cron at Dubai midnight).
+// Scheduled slugs are not prebuilt; dynamicParams lets
 // them render on demand once their publish date arrives (404 until then).
-export const revalidate = 3600;
+export const revalidate = 86400;
 export const dynamicParams = true;
 
 export function generateStaticParams() {

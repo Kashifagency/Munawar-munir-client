@@ -14,8 +14,9 @@ export const metadata: Metadata = pageMetadata({
   image: { url: "/images/living-bright.jpg", alt: "Bright living room with tufted sofa" },
 });
 
-// ISR: re-render hourly so scheduled posts go live without a redeploy.
-export const revalidate = 3600;
+// ISR: daily fallback re-render. Scheduled posts go live just after midnight (Asia/Dubai) via
+// the daily cron in vercel.json -> /api/revalidate, which revalidates the blog routes.
+export const revalidate = 86400;
 
 export default function BlogPage() {
   const sortedPosts = getSortedPosts();

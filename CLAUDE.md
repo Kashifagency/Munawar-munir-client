@@ -11,7 +11,7 @@ Before writing or editing any content, read and follow all of these:
 
 New blog article = new file `src/data/posts/[slug].ts` (copy an existing one) + one import in `src/data/blog.ts`.
 
-Scheduling: set the publish date (`date`) to a future date to schedule an article; it is deployed but stays hidden (404, not in listings/sitemap/feed) until that date (Asia/Dubai), then goes live automatically within ~1 hour.
+Scheduling: set the publish date (`date`) to a future date to schedule an article; it is deployed but stays hidden (404, not in listings/sitemap/feed) until that date (Asia/Dubai), then goes live automatically shortly after midnight Asia/Dubai (daily Vercel cron -> `/api/revalidate`, needs the `CRON_SECRET` env var; 24h ISR fallback otherwise).
 
 Verify any Dubai fact (government services, rules) against an official source with WebSearch/WebFetch and link it; for client-specific details, infer from existing articles and codebase conventions rather than halting to ask.
 
