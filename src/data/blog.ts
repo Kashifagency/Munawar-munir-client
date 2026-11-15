@@ -109,7 +109,11 @@ export type Post = {
   faqs: Faq[];
 };
 
-export const posts: Post[] = [
+/**
+ * Every article in the codebase, including scheduled (future-dated) ones.
+ * Internal use only: public pages must use getPosts() / getSortedPosts() / getPost().
+ */
+export const allPosts: Post[] = [
   mattress,
   villaChecklist,
   sellDonate,
@@ -184,8 +188,53 @@ export const posts: Post[] = [
   barStoolDisposal,
 ];
 
-export function getPost(slug: string) {
-  return posts.find((p) => p.slug === slug);
+/** "YYYY-MM-DD" for `now` in Dubai time. */
+function dubaiToday(now: Date) {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Dubai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(now);
+}
+
+/**
+ * Scheduled publishing: a post is live once the current calendar date in Dubai
+ * is on/after its publish date. Accepts "YYYY-MM-DD", "DD/MM/YY(YY)" or a full
+ * ISO timestamp (then the exact instant is compared). Missing or unparseable
+ * dates count as published so existing content is never hidden by accident.
+ */
+export function isPublished(dateStr: string | undefined | null, now: Date = new Date()) {
+  const s = (dateStr ?? "").trim();
+  if (!s) return true;
+  if (/^\d{4}-\d{2}-\d{2}$/.test(s)) return dubaiToday(now) >= s;
+  const dmy = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2}|\d{4})$/);
+  if (dmy) {
+    const y = dmy[3].length === 2 ? `20${dmy[3]}` : dmy[3];
+    return dubaiToday(now) >= `${y}-${dmy[2].padStart(2, "0")}-${dmy[1].padStart(2, "0")}`;
+  }
+  if (/^\d{4}-\d{2}-\d{2}[T ]\d{2}:\d{2}/.test(s)) {
+    // A timestamp without an explicit offset is read as Dubai time (UTC+4).
+    const withZone = /(Z|[+-]\d{2}:?\d{2})$/i.test(s) ? s : `${s.replace(" ", "T")}+04:00`;
+    const t = Date.parse(withZone);
+    return Number.isNaN(t) || now.getTime() >= t;
+  }
+  return true;
+}
+
+/** Published posts only. Evaluated per render/revalidation, not at module load. */
+export function getPosts(now: Date = new Date()) {
+  return allPosts.filter((p) => isPublished(p.date, now));
+}
+
+/** Published posts, newest first. */
+export function getSortedPosts(now: Date = new Date()) {
+  return getPosts(now).sort((a, b) => b.date.localeCompare(a.date));
+}
+
+/** A published post by slug; scheduled (future-dated) posts return undefined. */
+export function getPost(slug: string, now: Date = new Date()) {
+  return getPosts(now).find((p) => p.slug === slug);
 }
 
 const strip = (s: string) => s.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").replace(/\*\*/g, "");
@@ -224,6 +273,3 @@ export function formatDate(iso: string) {
     timeZone: "UTC",
   });
 }
-
-/** Newest first. */
-export const sortedPosts = [...posts].sort((a, b) => b.date.localeCompare(a.date));

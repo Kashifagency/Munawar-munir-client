@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
 import { absoluteUrl, site, whatsappHref } from "@/lib/site";
-import { FAQ_ID, formatDate, getPost, headings, posts, readingMinutes, sortedPosts, wordCount } from "@/data/blog";
+import { FAQ_ID, formatDate, getPost, getPosts, getSortedPosts, headings, readingMinutes, wordCount } from "@/data/blog";
 import { getService } from "@/data/services";
 import { ArticleBody } from "@/components/ArticleBody";
 import { Breadcrumbs, CtaBand, FaqList, JsonLd } from "@/components/blocks";
@@ -12,10 +12,13 @@ import { Icon, WhatsAppIcon } from "@/components/Icon";
 import { PostCard } from "@/components/PostCard";
 import { Container } from "@/components/ui";
 
-export const dynamicParams = false;
+// ISR: re-render hourly. Scheduled slugs are not prebuilt; dynamicParams lets
+// them render on demand once their publish date arrives (404 until then).
+export const revalidate = 3600;
+export const dynamicParams = true;
 
 export function generateStaticParams() {
-  return posts.map((p) => ({ slug: p.slug }));
+  return getPosts().map((p) => ({ slug: p.slug }));
 }
 
 export async function generateMetadata({ params }: PageProps<"/blog/[slug]">): Promise<Metadata> {
@@ -61,7 +64,7 @@ export default async function BlogPostPage({ params }: PageProps<"/blog/[slug]">
 
   const toc = headings(post);
   const relatedServices = post.services.map(getService).filter((s) => s !== undefined);
-  const morePosts = sortedPosts.filter((p) => p.slug !== post.slug).slice(0, 3);
+  const morePosts = getSortedPosts().filter((p) => p.slug !== post.slug).slice(0, 3);
   const modified = post.updated ?? post.date;
 
   return (

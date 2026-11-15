@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
 import { absoluteUrl, site } from "@/lib/site";
-import { sortedPosts } from "@/data/blog";
+import { getSortedPosts } from "@/data/blog";
 import { Breadcrumbs, CtaBand, JsonLd } from "@/components/blocks";
 import { FeaturedPost, PostCard } from "@/components/PostCard";
 import { Container } from "@/components/ui";
@@ -14,7 +14,11 @@ export const metadata: Metadata = pageMetadata({
   image: { url: "/images/living-bright.jpg", alt: "Bright living room with tufted sofa" },
 });
 
+// ISR: re-render hourly so scheduled posts go live without a redeploy.
+export const revalidate = 3600;
+
 export default function BlogPage() {
+  const sortedPosts = getSortedPosts();
   const [latest, ...rest] = sortedPosts;
 
   return (

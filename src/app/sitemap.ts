@@ -1,8 +1,11 @@
 import type { MetadataRoute } from "next";
 import { areas } from "@/data/areas";
-import { posts } from "@/data/blog";
+import { getPosts } from "@/data/blog";
 import { services } from "@/data/services";
 import { absoluteUrl } from "@/lib/site";
+
+// ISR: regenerate hourly so scheduled posts appear once they go live.
+export const revalidate = 3600;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const lastModified = new Date();
@@ -23,7 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     })),
     { url: absoluteUrl("/blog"), lastModified, changeFrequency: "weekly", priority: 0.7 },
-    ...posts.map((p) => ({
+    ...getPosts().map((p) => ({
       url: absoluteUrl(`/blog/${p.slug}`),
       lastModified: new Date(`${p.date}T00:00:00Z`),
       changeFrequency: "monthly" as const,

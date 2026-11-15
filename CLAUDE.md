@@ -11,6 +11,8 @@ Before writing or editing any content, read and follow all of these:
 
 New blog article = new file `src/data/posts/[slug].ts` (copy an existing one) + one import in `src/data/blog.ts`.
 
+Scheduling: set the publish date (`date`) to a future date to schedule an article; it is deployed but stays hidden (404, not in listings/sitemap/feed) until that date (Asia/Dubai), then goes live automatically within ~1 hour.
+
 Verify any Dubai fact (government services, rules) against an official source with WebSearch/WebFetch and link it; for client-specific details, infer from existing articles and codebase conventions rather than halting to ask.
 
 Done means: `npx eslint src scripts`, `npm run build` and `npm run seo:audit` all pass, and `keywords-map.md` status is updated to Live.
