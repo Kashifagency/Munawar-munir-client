@@ -605,6 +605,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | vitrine removal dubai | 🟡 Good | Commercial | `/blog/display-cabinet-and-vitrine-removal-dubai` | Live (secondary) |
 | glass cabinet disposal dubai | ⚪ Long-tail | Commercial | `/blog/display-cabinet-and-vitrine-removal-dubai` | Live (secondary) |
 
+### Majlis seating, floor cushions & majlis sofas (added 16 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| majlis furniture removal dubai | 🟢 Strong | Info → commercial | `/blog/majlis-furniture-removal-dubai` | Live (primary) |
+| majlis sofa disposal dubai | 🟡 Good | Commercial | `/blog/majlis-furniture-removal-dubai` | Live (secondary) |
+| floor cushion disposal dubai | ⚪ Long-tail | Commercial | `/blog/majlis-furniture-removal-dubai` | Live (secondary) |
+| arabic majlis removal dubai | ⚪ Long-tail | Commercial | `/blog/majlis-furniture-removal-dubai` | Live (secondary) |
+
+### Hot tubs, jacuzzis & portable spas (added 16 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| hot tub removal dubai | 🟢 Strong | Info → commercial | `/blog/hot-tub-and-jacuzzi-removal-dubai` | Live (primary) |
+| jacuzzi removal dubai | 🟢 Strong | Commercial | `/blog/hot-tub-and-jacuzzi-removal-dubai` | Live (secondary) |
+| hot tub disposal dubai | 🟡 Good | Commercial | `/blog/hot-tub-and-jacuzzi-removal-dubai` | Live (secondary) |
+| spa tub removal dubai | ⚪ Long-tail | Commercial | `/blog/hot-tub-and-jacuzzi-removal-dubai` | Live (secondary) |
+
+### Bar stools, counter stools & kitchen seating (added 16 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| bar stool disposal dubai | 🟢 Strong | Info → commercial | `/blog/bar-stool-and-counter-stool-disposal-dubai` | Live (primary) |
+| bar stool removal dubai | 🟡 Good | Commercial | `/blog/bar-stool-and-counter-stool-disposal-dubai` | Live (secondary) |
+| counter stool disposal dubai | 🟡 Good | Commercial | `/blog/bar-stool-and-counter-stool-disposal-dubai` | Live (secondary) |
+| kitchen stool removal dubai | ⚪ Long-tail | Commercial | `/blog/bar-stool-and-counter-stool-disposal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

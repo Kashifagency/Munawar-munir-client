@@ -71,6 +71,9 @@ import sideboardRemoval from "./posts/sideboard-and-buffet-cabinet-removal-dubai
 import armchairDisposal from "./posts/armchair-and-accent-chair-disposal-dubai";
 import rattanFurnitureDisposal from "./posts/rattan-and-wicker-furniture-disposal-dubai";
 import displayCabinetDisposal from "./posts/display-cabinet-and-vitrine-removal-dubai";
+import majlisFurnitureRemoval from "./posts/majlis-furniture-removal-dubai";
+import hotTubRemoval from "./posts/hot-tub-and-jacuzzi-removal-dubai";
+import barStoolDisposal from "./posts/bar-stool-and-counter-stool-disposal-dubai";
 
 export type Block =
   | { h2: string }
@@ -176,6 +179,9 @@ export const posts: Post[] = [
   armchairDisposal,
   rattanFurnitureDisposal,
   displayCabinetDisposal,
+  majlisFurnitureRemoval,
+  hotTubRemoval,
+  barStoolDisposal,
 ];
 
 export function getPost(slug: string) {

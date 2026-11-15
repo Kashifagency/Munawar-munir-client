@@ -190,6 +190,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 68 | armchair disposal dubai | Armchair and Accent Chair Disposal in Dubai: Seating Clearance Guide | Info → commercial | sofa-removal, furniture-removal | ✅ |
 | 69 | rattan furniture disposal dubai | Rattan and Wicker Furniture Disposal in Dubai: Balcony & Garden Guide | Info → commercial | garden-waste-removal, furniture-removal | ✅ |
 | 70 | display cabinet disposal dubai | Display Cabinet and Vitrine Removal in Dubai: Glass Showcase Guide | Info → commercial | dining-table-chair-removal, furniture-removal | ✅ |
+| 71 | majlis furniture removal dubai | Majlis Furniture Removal in Dubai: Floor Seating, Sofas and Rugs | Info → commercial | villa-furniture-clearance, sofa-removal | ✅ |
+| 72 | hot tub removal dubai | Hot Tub and Jacuzzi Removal in Dubai: Villa and Terrace Guide | Info → commercial | junk-removal, villa-furniture-clearance | ✅ |
+| 73 | bar stool disposal dubai | Bar Stool and Counter Stool Disposal in Dubai: Kitchen Seating Guide | Info → commercial | dining-table-chair-removal, furniture-pickup-disposal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 
