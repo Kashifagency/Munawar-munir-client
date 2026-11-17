@@ -632,6 +632,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | counter stool disposal dubai | 🟡 Good | Commercial | `/blog/bar-stool-and-counter-stool-disposal-dubai` | Live (secondary) |
 | kitchen stool removal dubai | ⚪ Long-tail | Commercial | `/blog/bar-stool-and-counter-stool-disposal-dubai` | Live (secondary) |
 
+### Office chairs, ergonomic desk chairs & gaming chairs (added 17 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| office chair disposal dubai | 🟢 Strong | Info → commercial | `/blog/office-chair-and-desk-chair-disposal-dubai` | Live (primary) |
+| office chair removal dubai | 🟢 Strong | Commercial | `/blog/office-chair-and-desk-chair-disposal-dubai` | Live (secondary) |
+| desk chair disposal dubai | 🟡 Good | Commercial | `/blog/office-chair-and-desk-chair-disposal-dubai` | Live (secondary) |
+| gaming chair removal dubai | ⚪ Long-tail | Commercial | `/blog/office-chair-and-desk-chair-disposal-dubai` | Live (secondary) |
+
+### Water dispensers, water coolers & domestic water chillers (added 17 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| water dispenser disposal dubai | 🟢 Strong | Info → commercial | `/blog/how-to-dispose-of-a-water-dispenser-in-dubai` | Live (primary) |
+| water dispenser removal dubai | 🟢 Strong | Commercial | `/blog/how-to-dispose-of-a-water-dispenser-in-dubai` | Live (secondary) |
+| water cooler disposal dubai | 🟡 Good | Commercial | `/blog/how-to-dispose-of-a-water-dispenser-in-dubai` | Live (secondary) |
+| 5 gallon water dispenser disposal dubai | ⚪ Long-tail | Commercial | `/blog/how-to-dispose-of-a-water-dispenser-in-dubai` | Live (secondary) |
+
+### Ottomans, footstools & upholstered storage benches (added 17 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| ottoman disposal dubai | 🟢 Strong | Info → commercial | `/blog/ottoman-and-footstool-disposal-dubai` | Live (primary) |
+| ottoman removal dubai | 🟢 Strong | Commercial | `/blog/ottoman-and-footstool-disposal-dubai` | Live (secondary) |
+| footstool disposal dubai | 🟡 Good | Commercial | `/blog/ottoman-and-footstool-disposal-dubai` | Live (secondary) |
+| storage bench removal dubai | ⚪ Long-tail | Commercial | `/blog/ottoman-and-footstool-disposal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)
