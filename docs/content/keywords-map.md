@@ -659,6 +659,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | footstool disposal dubai | 🟡 Good | Commercial | `/blog/ottoman-and-footstool-disposal-dubai` | Live (secondary) |
 | storage bench removal dubai | ⚪ Long-tail | Commercial | `/blog/ottoman-and-footstool-disposal-dubai` | Live (secondary) |
 
+### Bedside tables, nightstands & bedroom pedestals (added 18 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| bedside table disposal dubai | 🟢 Strong | Info → commercial | `/blog/bedside-table-and-nightstand-removal-dubai` | Live (primary) |
+| bedside table removal dubai | 🟢 Strong | Commercial | `/blog/bedside-table-and-nightstand-removal-dubai` | Live (secondary) |
+| nightstand disposal dubai | 🟡 Good | Commercial | `/blog/bedside-table-and-nightstand-removal-dubai` | Live (secondary) |
+| bedroom nightstand removal dubai | ⚪ Long-tail | Commercial | `/blog/bedside-table-and-nightstand-removal-dubai` | Live (secondary) |
+
+### Console tables, entryway consoles & hallway furniture (added 18 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| console table disposal dubai | 🟢 Strong | Info → commercial | `/blog/console-table-and-hallway-furniture-removal-dubai` | Live (primary) |
+| console table removal dubai | 🟢 Strong | Commercial | `/blog/console-table-and-hallway-furniture-removal-dubai` | Live (secondary) |
+| hallway table disposal dubai | 🟡 Good | Commercial | `/blog/console-table-and-hallway-furniture-removal-dubai` | Live (secondary) |
+| entryway console removal dubai | ⚪ Long-tail | Commercial | `/blog/console-table-and-hallway-furniture-removal-dubai` | Live (secondary) |
+
+### Filing cabinets, metal pedestals & office storage (added 18 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| filing cabinet disposal dubai | 🟢 Strong | Info → commercial | `/blog/filing-cabinet-and-office-storage-removal-dubai` | Live (primary) |
+| filing cabinet removal dubai | 🟢 Strong | Commercial | `/blog/filing-cabinet-and-office-storage-removal-dubai` | Live (secondary) |
+| office storage disposal dubai | 🟡 Good | Commercial | `/blog/filing-cabinet-and-office-storage-removal-dubai` | Live (secondary) |
+| metal filing cabinet removal dubai | ⚪ Long-tail | Commercial | `/blog/filing-cabinet-and-office-storage-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

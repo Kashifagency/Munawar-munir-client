@@ -196,6 +196,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 74 | office chair disposal dubai | Office Chair and Desk Chair Disposal in Dubai: Task Seating Guide | Info → commercial | office-furniture-removal, furniture-removal | ✅ |
 | 75 | water dispenser disposal dubai | How to Dispose of a Water Dispenser in Dubai: Step-by-Step Guide | Info → commercial | appliance-removal, junk-removal | ✅ |
 | 76 | ottoman disposal dubai | Ottoman and Footstool Disposal in Dubai: Storage Bench Guide | Info → commercial | furniture-removal, sofa-removal | ✅ |
+| 77 | bedside table disposal dubai | Bedside Table and Nightstand Removal in Dubai: Bedroom Guide | Info → commercial | furniture-removal, wardrobe-cabinet-removal | ✅ |
+| 78 | console table disposal dubai | Console Table and Hallway Furniture Removal in Dubai: Entryway Guide | Info → commercial | furniture-removal, luxury-furniture-removal | ✅ |
+| 79 | filing cabinet disposal dubai | Filing Cabinet and Office Storage Removal in Dubai: Commercial Guide | Info → commercial | office-furniture-removal, furniture-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

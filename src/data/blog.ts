@@ -77,6 +77,9 @@ import barStoolDisposal from "./posts/bar-stool-and-counter-stool-disposal-dubai
 import officeChairDisposal from "./posts/office-chair-and-desk-chair-disposal-dubai";
 import waterDispenserDisposal from "./posts/how-to-dispose-of-a-water-dispenser-in-dubai";
 import ottomanDisposal from "./posts/ottoman-and-footstool-disposal-dubai";
+import bedsideTableRemoval from "./posts/bedside-table-and-nightstand-removal-dubai";
+import consoleTableRemoval from "./posts/console-table-and-hallway-furniture-removal-dubai";
+import filingCabinetRemoval from "./posts/filing-cabinet-and-office-storage-removal-dubai";
 
 export type Block =
   | { h2: string }
@@ -192,6 +195,9 @@ export const allPosts: Post[] = [
   officeChairDisposal,
   waterDispenserDisposal,
   ottomanDisposal,
+  bedsideTableRemoval,
+  consoleTableRemoval,
+  filingCabinetRemoval,
 ];
 
 /** "YYYY-MM-DD" for `now` in Dubai time. */
