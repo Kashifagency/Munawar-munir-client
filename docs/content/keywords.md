@@ -199,6 +199,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 77 | bedside table disposal dubai | Bedside Table and Nightstand Removal in Dubai: Bedroom Guide | Info → commercial | furniture-removal, wardrobe-cabinet-removal | ✅ |
 | 78 | console table disposal dubai | Console Table and Hallway Furniture Removal in Dubai: Entryway Guide | Info → commercial | furniture-removal, luxury-furniture-removal | ✅ |
 | 79 | filing cabinet disposal dubai | Filing Cabinet and Office Storage Removal in Dubai: Commercial Guide | Info → commercial | office-furniture-removal, furniture-removal | ✅ |
+| 80 | bunk bed disposal dubai | Bunk Bed and Loft Bed Removal in Dubai: Dismantling & Clearance Guide | Info → commercial | bed-removal, furniture-removal | ✅ |
+| 81 | study desk disposal dubai | Study Desk and Computer Desk Disposal in Dubai: Home Office Guide | Info → commercial | furniture-removal, office-furniture-removal | ✅ |
+| 82 | storage rack disposal dubai | Storage Rack and Garage Shelving Removal in Dubai: Storeroom Guide | Info → commercial | garage-storeroom-clearance, junk-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

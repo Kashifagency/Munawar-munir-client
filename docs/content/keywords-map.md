@@ -686,6 +686,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | office storage disposal dubai | 🟡 Good | Commercial | `/blog/filing-cabinet-and-office-storage-removal-dubai` | Live (secondary) |
 | metal filing cabinet removal dubai | ⚪ Long-tail | Commercial | `/blog/filing-cabinet-and-office-storage-removal-dubai` | Live (secondary) |
 
+### Bunk beds, loft beds & elevated sleepers (added 19 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| bunk bed disposal dubai | 🟢 Strong | Info → commercial | `/blog/bunk-bed-and-loft-bed-removal-dubai` | Live (primary) |
+| bunk bed removal dubai | 🟢 Strong | Commercial | `/blog/bunk-bed-and-loft-bed-removal-dubai` | Live (secondary) |
+| loft bed dismantling dubai | 🟡 Good | Commercial | `/blog/bunk-bed-and-loft-bed-removal-dubai` | Live (secondary) |
+| kids bunk bed removal dubai | ⚪ Long-tail | Commercial | `/blog/bunk-bed-and-loft-bed-removal-dubai` | Live (secondary) |
+
+### Study desks, computer workstations & home office desks (added 19 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| study desk disposal dubai | 🟢 Strong | Info → commercial | `/blog/study-desk-and-computer-desk-disposal-dubai` | Live (primary) |
+| study desk removal dubai | 🟢 Strong | Commercial | `/blog/study-desk-and-computer-desk-disposal-dubai` | Live (secondary) |
+| computer desk disposal dubai | 🟡 Good | Commercial | `/blog/study-desk-and-computer-desk-disposal-dubai` | Live (secondary) |
+| home office desk removal dubai | ⚪ Long-tail | Commercial | `/blog/study-desk-and-computer-desk-disposal-dubai` | Live (secondary) |
+
+### Storage racks, garage shelving & utility units (added 19 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| storage rack disposal dubai | 🟢 Strong | Info → commercial | `/blog/storage-rack-and-garage-shelving-removal-dubai` | Live (primary) |
+| storage rack removal dubai | 🟢 Strong | Commercial | `/blog/storage-rack-and-garage-shelving-removal-dubai` | Live (secondary) |
+| garage shelving removal dubai | 🟡 Good | Commercial | `/blog/storage-rack-and-garage-shelving-removal-dubai` | Live (secondary) |
+| metal rack disposal dubai | ⚪ Long-tail | Commercial | `/blog/storage-rack-and-garage-shelving-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

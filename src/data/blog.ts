@@ -80,6 +80,9 @@ import ottomanDisposal from "./posts/ottoman-and-footstool-disposal-dubai";
 import bedsideTableRemoval from "./posts/bedside-table-and-nightstand-removal-dubai";
 import consoleTableRemoval from "./posts/console-table-and-hallway-furniture-removal-dubai";
 import filingCabinetRemoval from "./posts/filing-cabinet-and-office-storage-removal-dubai";
+import bunkBedRemoval from "./posts/bunk-bed-and-loft-bed-removal-dubai";
+import studyDeskDisposal from "./posts/study-desk-and-computer-desk-disposal-dubai";
+import storageRackRemoval from "./posts/storage-rack-and-garage-shelving-removal-dubai";
 
 export type Block =
   | { h2: string }
@@ -198,6 +201,9 @@ export const allPosts: Post[] = [
   bedsideTableRemoval,
   consoleTableRemoval,
   filingCabinetRemoval,
+  bunkBedRemoval,
+  studyDeskDisposal,
+  storageRackRemoval,
 ];
 
 /** "YYYY-MM-DD" for `now` in Dubai time. */
