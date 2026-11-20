@@ -713,6 +713,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | garage shelving removal dubai | 🟡 Good | Commercial | `/blog/storage-rack-and-garage-shelving-removal-dubai` | Live (secondary) |
 | metal rack disposal dubai | ⚪ Long-tail | Commercial | `/blog/storage-rack-and-garage-shelving-removal-dubai` | Live (secondary) |
 
+### Garden swings, hanging egg chairs & balcony loungers (added 20 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| hanging egg chair disposal dubai | 🟢 Strong | Info → commercial | `/blog/garden-swing-and-hanging-egg-chair-removal-dubai` | Live (primary) |
+| garden swing removal dubai | 🟢 Strong | Commercial | `/blog/garden-swing-and-hanging-egg-chair-removal-dubai` | Live (secondary) |
+| hanging chair removal dubai | 🟡 Good | Commercial | `/blog/garden-swing-and-hanging-egg-chair-removal-dubai` | Live (secondary) |
+| balcony swing disposal dubai | ⚪ Long-tail | Commercial | `/blog/garden-swing-and-hanging-egg-chair-removal-dubai` | Live (secondary) |
+
+### Room dividers, folding privacy screens & partition panels (added 20 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| room divider disposal dubai | 🟢 Strong | Info → commercial | `/blog/room-divider-and-partition-screen-disposal-dubai` | Live (primary) |
+| room divider removal dubai | 🟢 Strong | Commercial | `/blog/room-divider-and-partition-screen-disposal-dubai` | Live (secondary) |
+| partition screen disposal dubai | 🟡 Good | Commercial | `/blog/room-divider-and-partition-screen-disposal-dubai` | Live (secondary) |
+| folding screen removal dubai | ⚪ Long-tail | Commercial | `/blog/room-divider-and-partition-screen-disposal-dubai` | Live (secondary) |
+
+### Conference tables, boardroom tables & meeting furniture (added 20 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| conference table disposal dubai | 🟢 Strong | Info → commercial | `/blog/conference-table-and-meeting-room-furniture-removal-dubai` | Live (primary) |
+| conference table removal dubai | 🟢 Strong | Commercial | `/blog/conference-table-and-meeting-room-furniture-removal-dubai` | Live (secondary) |
+| boardroom table removal dubai | 🟡 Good | Commercial | `/blog/conference-table-and-meeting-room-furniture-removal-dubai` | Live (secondary) |
+| meeting room furniture disposal dubai | ⚪ Long-tail | Commercial | `/blog/conference-table-and-meeting-room-furniture-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

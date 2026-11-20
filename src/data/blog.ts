@@ -83,6 +83,9 @@ import filingCabinetRemoval from "./posts/filing-cabinet-and-office-storage-remo
 import bunkBedRemoval from "./posts/bunk-bed-and-loft-bed-removal-dubai";
 import studyDeskDisposal from "./posts/study-desk-and-computer-desk-disposal-dubai";
 import storageRackRemoval from "./posts/storage-rack-and-garage-shelving-removal-dubai";
+import gardenSwingRemoval from "./posts/garden-swing-and-hanging-egg-chair-removal-dubai";
+import roomDividerDisposal from "./posts/room-divider-and-partition-screen-disposal-dubai";
+import conferenceTableRemoval from "./posts/conference-table-and-meeting-room-furniture-removal-dubai";
 
 export type Block =
   | { h2: string }
@@ -204,6 +207,9 @@ export const allPosts: Post[] = [
   bunkBedRemoval,
   studyDeskDisposal,
   storageRackRemoval,
+  gardenSwingRemoval,
+  roomDividerDisposal,
+  conferenceTableRemoval,
 ];
 
 /** "YYYY-MM-DD" for `now` in Dubai time. */

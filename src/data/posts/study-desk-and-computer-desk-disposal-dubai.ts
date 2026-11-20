@@ -38,7 +38,7 @@ const post: Post = {
         "**Motorised height-adjustable standing desks:** High-end sit-stand workstations engineered with heavy-gauge steel telescoping legs, twin electric motors, and an under-slung transformer control box. The steel frame alone often weighs 35kg to 50kg, making two-person disassembly essential.",
         "**Executive hardwood desks and double pedestals:** Massive traditional timber desks featuring twin banks of deep filing drawers, solid oak or walnut veneer tops, and heavy modesty panels. Frequently installed in villa study rooms, these solid units rarely fit through standard internal doorways without detaching the main desktop slab.",
         "**Glass-topped and metal frame computer desks:** Modern architectural workstations incorporating thick sheets of tempered float glass resting on suction cups or bolted to steel trusses. The glass panels require dedicated edge protection and separate transport to prevent shatter hazards.",
-        "**Compact floating wall-mounted desks and secretary bureaus:** Wall-hung drop-leaf writing tables or folding wall cabinets designed for compact apartments in [Business Bay](/areas/business-bay) and [Jumeirah Lake Towers](/areas/jumeirah-lake-towers). These require careful unbolting from masonry anchors and subsequent plaster filling before tenancy inspections.",
+        "**Compact floating wall-mounted desks and secretary bureaus:** Wall-hung drop-leaf writing tables or folding wall cabinets designed for compact apartments in [Business Bay](/areas/business-bay) and [Jumeirah Lake Towers](/areas/jumeirah-lakes-towers). These require careful unbolting from masonry anchors and subsequent plaster filling before tenancy inspections.",
       ],
     },
     {

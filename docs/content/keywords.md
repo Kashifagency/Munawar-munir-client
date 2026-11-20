@@ -202,6 +202,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 80 | bunk bed disposal dubai | Bunk Bed and Loft Bed Removal in Dubai: Dismantling & Clearance Guide | Info → commercial | bed-removal, furniture-removal | ✅ |
 | 81 | study desk disposal dubai | Study Desk and Computer Desk Disposal in Dubai: Home Office Guide | Info → commercial | furniture-removal, office-furniture-removal | ✅ |
 | 82 | storage rack disposal dubai | Storage Rack and Garage Shelving Removal in Dubai: Storeroom Guide | Info → commercial | garage-storeroom-clearance, junk-removal | ✅ |
+| 83 | hanging egg chair disposal dubai | Garden Swing and Hanging Egg Chair Removal in Dubai: Balcony & Patio Guide | Info → commercial | garden-waste-removal, furniture-removal | ✅ |
+| 84 | room divider disposal dubai | Room Divider and Partition Screen Disposal in Dubai: Folding Screen Guide | Info → commercial | furniture-removal, office-furniture-removal | ✅ |
+| 85 | conference table disposal dubai | Conference Table and Boardroom Furniture Removal in Dubai: Office Guide | Info → commercial | office-furniture-removal, furniture-removal | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 

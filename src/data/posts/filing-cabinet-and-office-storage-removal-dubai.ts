@@ -114,7 +114,7 @@ const post: Post = {
         "**Evaluate batch size and uniformity:** Do you have 20 or more matching steel pedestals or lateral cabinets from a reputable commercial manufacturer? If so, commercial liquidation may recover minor asset value. If your units are mismatched, scratched, or aged, scrap recycling is the realistic pathway.",
         "**Assess locking and drawer mechanics:** Cabinets with missing keys, jammed drawer locks, or broken suspension tracks cannot be donated or resold and should be directed to licensed metal recycling.",
         "**Inspect structural steel integrity:** Dented, buckled, or rusted cabinets should be processed for scrap steel smelting rather than stored in expensive off-site holding warehouses.",
-        "**Review commercial lease handover dates:** Commercial building handovers in towers like [Jumeirah Lake Towers](/areas/jumeirah-lake-towers) enforce stringent penalty clauses for every day an office suite remains uncleared past the lease date. Professional same-day clearance guarantees compliance.",
+        "**Review commercial lease handover dates:** Commercial building handovers in towers like [Jumeirah Lake Towers](/areas/jumeirah-lakes-towers) enforce stringent penalty clauses for every day an office suite remains uncleared past the lease date. Professional same-day clearance guarantees compliance.",
       ],
     },
     {
