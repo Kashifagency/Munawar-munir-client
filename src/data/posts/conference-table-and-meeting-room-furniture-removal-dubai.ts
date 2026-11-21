@@ -121,7 +121,7 @@ const post: Post = {
         "**Hospitality credenzas and buffet sideboards:** Remove boardroom storage sideboards used for coffee service, executive catering, and presentation materials using our [furniture removal](/services/furniture-removal) service.",
         "**Mobile whiteboards and acoustic partition panels:** Clear dry-erase glass presentation boards, fabric pinboards, and free-standing acoustic dividers alongside your table.",
         "**Obsolete audiovisual monitors and display stands:** Decommission conference screens, wall-mounted monitors, and rolling display carts with our compliant [junk removal](/services/junk-removal) service.",
-        "**Complete office workstation defits:** Extend your clearance across open-plan floors with our full [office furniture removal](/services/office-furniture-removal) capabilities.",
+        "**Complete office workstation defits:** Extend your clearance across open-plan floors and reception foyers with our [reception desk disposal](/blog/reception-desk-and-counter-removal-dubai) guide and full [office furniture removal](/services/office-furniture-removal) capabilities.",
       ],
     },
     {

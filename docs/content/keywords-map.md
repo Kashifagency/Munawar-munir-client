@@ -740,6 +740,33 @@ The client confirmed **garden waste removal** and **cardboard box removal** as s
 | boardroom table removal dubai | 🟡 Good | Commercial | `/blog/conference-table-and-meeting-room-furniture-removal-dubai` | Live (secondary) |
 | meeting room furniture disposal dubai | ⚪ Long-tail | Commercial | `/blog/conference-table-and-meeting-room-furniture-removal-dubai` | Live (secondary) |
 
+### Reception desks, welcome counters & reception furniture (added 21 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| reception desk disposal dubai | 🟢 Strong | Info → commercial | `/blog/reception-desk-and-counter-removal-dubai` | Live (primary) |
+| reception desk removal dubai | 🟢 Strong | Commercial | `/blog/reception-desk-and-counter-removal-dubai` | Live (secondary) |
+| reception counter disposal dubai | 🟡 Good | Commercial | `/blog/reception-desk-and-counter-removal-dubai` | Live (secondary) |
+| front desk removal dubai | ⚪ Long-tail | Commercial | `/blog/reception-desk-and-counter-removal-dubai` | Live (secondary) |
+
+### Bar counters, home bars & beverage cabinets (added 21 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| bar counter disposal dubai | 🟢 Strong | Info → commercial | `/blog/bar-counter-and-home-bar-removal-dubai` | Live (primary) |
+| bar counter removal dubai | 🟢 Strong | Commercial | `/blog/bar-counter-and-home-bar-removal-dubai` | Live (secondary) |
+| home bar removal dubai | 🟡 Good | Commercial | `/blog/bar-counter-and-home-bar-removal-dubai` | Live (secondary) |
+| dry bar disposal dubai | ⚪ Long-tail | Commercial | `/blog/bar-counter-and-home-bar-removal-dubai` | Live (secondary) |
+
+### Table tennis tables, ping pong tables & indoor recreation equipment (added 21 November 2026)
+
+| Keyword | Demand | Intent | Target URL | Status |
+| --- | --- | --- | --- | --- |
+| table tennis table disposal dubai | 🟢 Strong | Info → commercial | `/blog/table-tennis-table-and-ping-pong-table-removal-dubai` | Live (primary) |
+| table tennis table removal dubai | 🟢 Strong | Commercial | `/blog/table-tennis-table-and-ping-pong-table-removal-dubai` | Live (secondary) |
+| ping pong table disposal dubai | 🟡 Good | Commercial | `/blog/table-tennis-table-and-ping-pong-table-removal-dubai` | Live (secondary) |
+| ping pong table removal dubai | ⚪ Long-tail | Commercial | `/blog/table-tennis-table-and-ping-pong-table-removal-dubai` | Live (secondary) |
+
 ---
 
 ## 3. What to build next (in order)

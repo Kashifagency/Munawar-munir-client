@@ -147,7 +147,7 @@ const post: Post = {
       ],
     },
     {
-      p: "Whether you need a single games table cleared or an entire villa stripped before a tenancy handover, combine your booking with our dedicated [villa furniture clearance](/services/villa-furniture-clearance) team for maximum efficiency.",
+      p: "Whether you need a single games table cleared or an entire villa stripped before a tenancy handover, combine your booking with our dedicated [table tennis table disposal](/blog/table-tennis-table-and-ping-pong-table-removal-dubai) and [villa furniture clearance](/services/villa-furniture-clearance) teams for maximum efficiency.",
     },
   ],
   faqs: [

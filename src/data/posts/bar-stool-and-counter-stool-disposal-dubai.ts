@@ -127,7 +127,7 @@ const post: Post = {
     {
       ul: [
         "**Dining table and chairs:** our [dining table and chair removal](/services/dining-table-chair-removal) team dismantles tables and carries chairs out with the stools.",
-        "**Sideboards and display cabinets:** heavier pieces in the same room can go on the same visit.",
+        "**Sideboards, display cabinets and bar counters:** heavier pieces in the same room can go on the same visit—see our [bar counter disposal](/blog/bar-counter-and-home-bar-removal-dubai) guide for full bar unit removals.",
         "**Old appliances:** a fridge or washing machine can be added if it has already been disconnected.",
         "**Packaging:** boxes from new furniture can be taken away at the same time.",
       ],

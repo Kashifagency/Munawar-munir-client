@@ -205,6 +205,9 @@ Published ✅ · Planned 🟡 (ordered by priority). Each post links to the serv
 | 83 | hanging egg chair disposal dubai | Garden Swing and Hanging Egg Chair Removal in Dubai: Balcony & Patio Guide | Info → commercial | garden-waste-removal, furniture-removal | ✅ |
 | 84 | room divider disposal dubai | Room Divider and Partition Screen Disposal in Dubai: Folding Screen Guide | Info → commercial | furniture-removal, office-furniture-removal | ✅ |
 | 85 | conference table disposal dubai | Conference Table and Boardroom Furniture Removal in Dubai: Office Guide | Info → commercial | office-furniture-removal, furniture-removal | ✅ |
+| 86 | reception desk disposal dubai | Reception Desk and Counter Removal in Dubai: Commercial Guide | Info → commercial | office-furniture-removal, furniture-removal | ✅ |
+| 87 | bar counter disposal dubai | Bar Counter and Home Bar Removal in Dubai: Villa & Apartment Guide | Info → commercial | furniture-removal, luxury-furniture-removal | ✅ |
+| 88 | table tennis table disposal dubai | Table Tennis Table Disposal in Dubai: Ping Pong Clearance Guide | Info → commercial | furniture-removal, villa-furniture-clearance | ✅ |
 
 **Data update (7 Oct 2026):** Google Autocomplete shows the "free" + "municipality" searches are the single biggest cluster (20 of the top 100 keywords) — post 7 is the top priority. All articles are now **2,000+ words** with key takeaways and FAQs.
 
